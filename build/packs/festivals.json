@@ -1,0 +1,343 @@
+{
+ "id": "festivals",
+ "title": "Festivals",
+ "category": "festivals",
+ "type": "static",
+ "language": "en",
+ "tray": "media/trays/festivals.png",
+ "cover": "media/covers/festivals.webp",
+ "stickers": [
+  {
+   "id": "festivals-01",
+   "title": "Happy New Year",
+   "text": "Happy New Year",
+   "file": "media/stickers/festivals/01.webp",
+   "thumb": "media/thumbs/festivals/01.webp",
+   "emojis": [
+    "🎆"
+   ],
+   "tags": [
+    "happy",
+    "new",
+    "year"
+   ],
+   "language": "en",
+   "bytes": 43366,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-02",
+   "title": "Merry Christmas",
+   "text": "Merry Christmas",
+   "file": "media/stickers/festivals/02.webp",
+   "thumb": "media/thumbs/festivals/02.webp",
+   "emojis": [
+    "🎄"
+   ],
+   "tags": [
+    "merry",
+    "christmas"
+   ],
+   "language": "en",
+   "bytes": 45096,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-03",
+   "title": "Happy Diwali",
+   "text": "Happy Diwali",
+   "file": "media/stickers/festivals/03.webp",
+   "thumb": "media/thumbs/festivals/03.webp",
+   "emojis": [
+    "🪔"
+   ],
+   "tags": [
+    "happy",
+    "diwali"
+   ],
+   "language": "en",
+   "bytes": 47712,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-04",
+   "title": "Happy Holi",
+   "text": "Happy Holi",
+   "file": "media/stickers/festivals/04.webp",
+   "thumb": "media/thumbs/festivals/04.webp",
+   "emojis": [
+    "🎨"
+   ],
+   "tags": [
+    "happy",
+    "holi"
+   ],
+   "language": "en",
+   "bytes": 32404,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-05",
+   "title": "Happy Halloween",
+   "text": "Happy Halloween",
+   "file": "media/stickers/festivals/05.webp",
+   "thumb": "media/thumbs/festivals/05.webp",
+   "emojis": [
+    "🎃"
+   ],
+   "tags": [
+    "happy",
+    "halloween"
+   ],
+   "language": "en",
+   "bytes": 40090,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-06",
+   "title": "Pakistan Zindabad",
+   "text": "Pakistan Zindabad",
+   "file": "media/stickers/festivals/06.webp",
+   "thumb": "media/thumbs/festivals/06.webp",
+   "emojis": [
+    "💚"
+   ],
+   "tags": [
+    "pakistan",
+    "zindabad"
+   ],
+   "language": "en",
+   "bytes": 33802,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-07",
+   "title": "Jashn-e-Azadi Mubarak",
+   "text": "Jashn-e-Azadi Mubarak",
+   "file": "media/stickers/festivals/07.webp",
+   "thumb": "media/thumbs/festivals/07.webp",
+   "emojis": [
+    "🎉"
+   ],
+   "tags": [
+    "jashn-e-azadi",
+    "mubarak"
+   ],
+   "language": "en",
+   "bytes": 48692,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-08",
+   "title": "Pakistan Zindabad (پاکستان زندہ باد)",
+   "text": "پاکستان زندہ باد",
+   "file": "media/stickers/festivals/08.webp",
+   "thumb": "media/thumbs/festivals/08.webp",
+   "emojis": [
+    "💚"
+   ],
+   "tags": [
+    "pakistan",
+    "zindabad",
+    "پاکستان",
+    "زندہ",
+    "باد"
+   ],
+   "language": "ur",
+   "bytes": 41412,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-09",
+   "title": "Happy Independence Day",
+   "text": "Happy Independence Day",
+   "file": "media/stickers/festivals/09.webp",
+   "thumb": "media/thumbs/festivals/09.webp",
+   "emojis": [
+    "🎆"
+   ],
+   "tags": [
+    "happy",
+    "independence",
+    "day"
+   ],
+   "language": "en",
+   "bytes": 41878,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-10",
+   "title": "Basant Mubarak",
+   "text": "Basant Mubarak",
+   "file": "media/stickers/festivals/10.webp",
+   "thumb": "media/thumbs/festivals/10.webp",
+   "emojis": [
+    "🪁"
+   ],
+   "tags": [
+    "basant",
+    "mubarak"
+   ],
+   "language": "en",
+   "bytes": 58964,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-11",
+   "title": "Happy Mother's Day",
+   "text": "Happy Mother's Day",
+   "file": "media/stickers/festivals/11.webp",
+   "thumb": "media/thumbs/festivals/11.webp",
+   "emojis": [
+    "💐"
+   ],
+   "tags": [
+    "happy",
+    "mother's",
+    "day"
+   ],
+   "language": "en",
+   "bytes": 45518,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-12",
+   "title": "Happy Father's Day",
+   "text": "Happy Father's Day",
+   "file": "media/stickers/festivals/12.webp",
+   "thumb": "media/thumbs/festivals/12.webp",
+   "emojis": [
+    "👔"
+   ],
+   "tags": [
+    "happy",
+    "father's",
+    "day"
+   ],
+   "language": "en",
+   "bytes": 36854,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-13",
+   "title": "Happy Valentine's",
+   "text": "Happy Valentine's",
+   "file": "media/stickers/festivals/13.webp",
+   "thumb": "media/thumbs/festivals/13.webp",
+   "emojis": [
+    "💘"
+   ],
+   "tags": [
+    "happy",
+    "valentine's"
+   ],
+   "language": "en",
+   "bytes": 46402,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-14",
+   "title": "Happy Easter",
+   "text": "Happy Easter",
+   "file": "media/stickers/festivals/14.webp",
+   "thumb": "media/thumbs/festivals/14.webp",
+   "emojis": [
+    "🐣"
+   ],
+   "tags": [
+    "happy",
+    "easter"
+   ],
+   "language": "en",
+   "bytes": 42010,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-15",
+   "title": "Happy Lohri",
+   "text": "Happy Lohri",
+   "file": "media/stickers/festivals/15.webp",
+   "thumb": "media/thumbs/festivals/15.webp",
+   "emojis": [
+    "🔥"
+   ],
+   "tags": [
+    "happy",
+    "lohri"
+   ],
+   "language": "en",
+   "bytes": 40134,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-16",
+   "title": "Happy Nowruz",
+   "text": "Happy Nowruz",
+   "file": "media/stickers/festivals/16.webp",
+   "thumb": "media/thumbs/festivals/16.webp",
+   "emojis": [
+    "🌷"
+   ],
+   "tags": [
+    "happy",
+    "nowruz"
+   ],
+   "language": "en",
+   "bytes": 44292,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-17",
+   "title": "Happy Teachers' Day",
+   "text": "Happy Teachers' Day",
+   "file": "media/stickers/festivals/17.webp",
+   "thumb": "media/thumbs/festivals/17.webp",
+   "emojis": [
+    "🍎"
+   ],
+   "tags": [
+    "happy",
+    "teachers'",
+    "day"
+   ],
+   "language": "en",
+   "bytes": 35188,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "festivals-18",
+   "title": "Season's Greetings",
+   "text": "Season's Greetings",
+   "file": "media/stickers/festivals/18.webp",
+   "thumb": "media/thumbs/festivals/18.webp",
+   "emojis": [
+    "❄️"
+   ],
+   "tags": [
+    "season's",
+    "greetings"
+   ],
+   "language": "en",
+   "bytes": 60876,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

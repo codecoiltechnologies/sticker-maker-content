@@ -1,0 +1,368 @@
+{
+ "id": "love-notes",
+ "title": "Love Notes",
+ "category": "love",
+ "type": "static",
+ "language": "en",
+ "tray": "media/trays/love-notes.png",
+ "cover": "media/covers/love-notes.webp",
+ "stickers": [
+  {
+   "id": "love-notes-01",
+   "title": "I love you",
+   "text": "I love you",
+   "file": "media/stickers/love-notes/01.webp",
+   "thumb": "media/thumbs/love-notes/01.webp",
+   "emojis": [
+    "❤️"
+   ],
+   "tags": [
+    "i",
+    "love",
+    "you"
+   ],
+   "language": "en",
+   "bytes": 31956,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-02",
+   "title": "Miss you",
+   "text": "Miss you",
+   "file": "media/stickers/love-notes/02.webp",
+   "thumb": "media/thumbs/love-notes/02.webp",
+   "emojis": [
+    "🥺"
+   ],
+   "tags": [
+    "miss",
+    "you"
+   ],
+   "language": "en",
+   "bytes": 36732,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-03",
+   "title": "Love you",
+   "text": "Love you",
+   "file": "media/stickers/love-notes/03.webp",
+   "thumb": "media/thumbs/love-notes/03.webp",
+   "emojis": [
+    "😘"
+   ],
+   "tags": [
+    "love",
+    "you"
+   ],
+   "language": "en",
+   "bytes": 36968,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-04",
+   "title": "Jaan",
+   "text": "Jaan",
+   "file": "media/stickers/love-notes/04.webp",
+   "thumb": "media/thumbs/love-notes/04.webp",
+   "emojis": [
+    "💖"
+   ],
+   "tags": [
+    "jaan"
+   ],
+   "language": "en",
+   "bytes": 39740,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-05",
+   "title": "Meri jaan",
+   "text": "Meri jaan",
+   "file": "media/stickers/love-notes/05.webp",
+   "thumb": "media/thumbs/love-notes/05.webp",
+   "emojis": [
+    "😍"
+   ],
+   "tags": [
+    "meri",
+    "jaan"
+   ],
+   "language": "en",
+   "bytes": 34144,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-06",
+   "title": "Mohabbat (محبت)",
+   "text": "محبت",
+   "file": "media/stickers/love-notes/06.webp",
+   "thumb": "media/thumbs/love-notes/06.webp",
+   "emojis": [
+    "❤️"
+   ],
+   "tags": [
+    "mohabbat",
+    "محبت"
+   ],
+   "language": "ur",
+   "bytes": 43708,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-07",
+   "title": "You're mine",
+   "text": "You're mine",
+   "file": "media/stickers/love-notes/07.webp",
+   "thumb": "media/thumbs/love-notes/07.webp",
+   "emojis": [
+    "💞"
+   ],
+   "tags": [
+    "you're",
+    "mine"
+   ],
+   "language": "en",
+   "bytes": 47012,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-08",
+   "title": "Hug me",
+   "text": "Hug me",
+   "file": "media/stickers/love-notes/08.webp",
+   "thumb": "media/thumbs/love-notes/08.webp",
+   "emojis": [
+    "🫂"
+   ],
+   "tags": [
+    "hug",
+    "me"
+   ],
+   "language": "en",
+   "bytes": 32482,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-09",
+   "title": "My heart",
+   "text": "My heart",
+   "file": "media/stickers/love-notes/09.webp",
+   "thumb": "media/thumbs/love-notes/09.webp",
+   "emojis": [
+    "💓"
+   ],
+   "tags": [
+    "my",
+    "heart"
+   ],
+   "language": "en",
+   "bytes": 34966,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-10",
+   "title": "Forever",
+   "text": "Forever",
+   "file": "media/stickers/love-notes/10.webp",
+   "thumb": "media/thumbs/love-notes/10.webp",
+   "emojis": [
+    "💍"
+   ],
+   "tags": [
+    "forever"
+   ],
+   "language": "en",
+   "bytes": 33406,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-11",
+   "title": "Cutie",
+   "text": "Cutie",
+   "file": "media/stickers/love-notes/11.webp",
+   "thumb": "media/thumbs/love-notes/11.webp",
+   "emojis": [
+    "🥰"
+   ],
+   "tags": [
+    "cutie"
+   ],
+   "language": "en",
+   "bytes": 26152,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-12",
+   "title": "Dil se",
+   "text": "Dil se",
+   "file": "media/stickers/love-notes/12.webp",
+   "thumb": "media/thumbs/love-notes/12.webp",
+   "emojis": [
+    "💘"
+   ],
+   "tags": [
+    "dil",
+    "se"
+   ],
+   "language": "en",
+   "bytes": 39548,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-13",
+   "title": "Soulmate",
+   "text": "Soulmate",
+   "file": "media/stickers/love-notes/13.webp",
+   "thumb": "media/thumbs/love-notes/13.webp",
+   "emojis": [
+    "💑"
+   ],
+   "tags": [
+    "soulmate"
+   ],
+   "language": "en",
+   "bytes": 22072,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-14",
+   "title": "Always",
+   "text": "Always",
+   "file": "media/stickers/love-notes/14.webp",
+   "thumb": "media/thumbs/love-notes/14.webp",
+   "emojis": [
+    "💕"
+   ],
+   "tags": [
+    "always"
+   ],
+   "language": "en",
+   "bytes": 35858,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-15",
+   "title": "Sweetheart",
+   "text": "Sweetheart",
+   "file": "media/stickers/love-notes/15.webp",
+   "thumb": "media/thumbs/love-notes/15.webp",
+   "emojis": [
+    "🍬"
+   ],
+   "tags": [
+    "sweetheart"
+   ],
+   "language": "en",
+   "bytes": 32390,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-16",
+   "title": "Tum meri ho",
+   "text": "Tum meri ho",
+   "file": "media/stickers/love-notes/16.webp",
+   "thumb": "media/thumbs/love-notes/16.webp",
+   "emojis": [
+    "💕"
+   ],
+   "tags": [
+    "tum",
+    "meri",
+    "ho"
+   ],
+   "language": "en",
+   "bytes": 39120,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-17",
+   "title": "Pyaar ho gaya",
+   "text": "Pyaar ho gaya",
+   "file": "media/stickers/love-notes/17.webp",
+   "thumb": "media/thumbs/love-notes/17.webp",
+   "emojis": [
+    "😍"
+   ],
+   "tags": [
+    "pyaar",
+    "ho",
+    "gaya"
+   ],
+   "language": "en",
+   "bytes": 43500,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-18",
+   "title": "Kiss",
+   "text": "Kiss",
+   "file": "media/stickers/love-notes/18.webp",
+   "thumb": "media/thumbs/love-notes/18.webp",
+   "emojis": [
+    "💋"
+   ],
+   "tags": [
+    "kiss"
+   ],
+   "language": "en",
+   "bytes": 43108,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-19",
+   "title": "Be mine",
+   "text": "Be mine",
+   "file": "media/stickers/love-notes/19.webp",
+   "thumb": "media/thumbs/love-notes/19.webp",
+   "emojis": [
+    "💌"
+   ],
+   "tags": [
+    "be",
+    "mine"
+   ],
+   "language": "en",
+   "bytes": 30782,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "love-notes-20",
+   "title": "You + Me",
+   "text": "You + Me",
+   "file": "media/stickers/love-notes/20.webp",
+   "thumb": "media/thumbs/love-notes/20.webp",
+   "emojis": [
+    "💑"
+   ],
+   "tags": [
+    "you",
+    "+",
+    "me"
+   ],
+   "language": "en",
+   "bytes": 33012,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

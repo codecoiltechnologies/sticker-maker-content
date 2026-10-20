@@ -1,0 +1,365 @@
+{
+ "id": "urdu-alfaaz",
+ "title": "Urdu Alfaaz",
+ "category": "urdu",
+ "type": "static",
+ "language": "ur",
+ "tray": "media/trays/urdu-alfaaz.png",
+ "cover": "media/covers/urdu-alfaaz.webp",
+ "stickers": [
+  {
+   "id": "urdu-alfaaz-01",
+   "title": "Waah (واہ)",
+   "text": "واہ",
+   "file": "media/stickers/urdu-alfaaz/01.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/01.webp",
+   "emojis": [
+    "👏"
+   ],
+   "tags": [
+    "waah",
+    "واہ"
+   ],
+   "language": "ur",
+   "bytes": 43884,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-02",
+   "title": "Shabash (شاباش)",
+   "text": "شاباش",
+   "file": "media/stickers/urdu-alfaaz/02.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/02.webp",
+   "emojis": [
+    "👍"
+   ],
+   "tags": [
+    "shabash",
+    "شاباش"
+   ],
+   "language": "ur",
+   "bytes": 43956,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-03",
+   "title": "Kya baat hai (کیا بات ہے)",
+   "text": "کیا بات ہے",
+   "file": "media/stickers/urdu-alfaaz/03.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/03.webp",
+   "emojis": [
+    "🔥"
+   ],
+   "tags": [
+    "kya",
+    "baat",
+    "hai",
+    "کیا",
+    "بات",
+    "ہے"
+   ],
+   "language": "ur",
+   "bytes": 49464,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-04",
+   "title": "Zabardast (زبردست)",
+   "text": "زبردست",
+   "file": "media/stickers/urdu-alfaaz/04.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/04.webp",
+   "emojis": [
+    "💯"
+   ],
+   "tags": [
+    "zabardast",
+    "زبردست"
+   ],
+   "language": "ur",
+   "bytes": 58500,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-05",
+   "title": "Hahaha (ہاہاہا)",
+   "text": "ہاہاہا",
+   "file": "media/stickers/urdu-alfaaz/05.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/05.webp",
+   "emojis": [
+    "😂"
+   ],
+   "tags": [
+    "hahaha",
+    "ہاہاہا"
+   ],
+   "language": "ur",
+   "bytes": 37296,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-06",
+   "title": "Jee haan (جی ہاں)",
+   "text": "جی ہاں",
+   "file": "media/stickers/urdu-alfaaz/06.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/06.webp",
+   "emojis": [
+    "✅"
+   ],
+   "tags": [
+    "jee",
+    "haan",
+    "جی",
+    "ہاں"
+   ],
+   "language": "ur",
+   "bytes": 48274,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-07",
+   "title": "Jee nahi (جی نہیں)",
+   "text": "جی نہیں",
+   "file": "media/stickers/urdu-alfaaz/07.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/07.webp",
+   "emojis": [
+    "❌"
+   ],
+   "tags": [
+    "jee",
+    "nahi",
+    "جی",
+    "نہیں"
+   ],
+   "language": "ur",
+   "bytes": 47436,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-08",
+   "title": "Theek hai (ٹھیک ہے)",
+   "text": "ٹھیک ہے",
+   "file": "media/stickers/urdu-alfaaz/08.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/08.webp",
+   "emojis": [
+    "👌"
+   ],
+   "tags": [
+    "theek",
+    "hai",
+    "ٹھیک",
+    "ہے"
+   ],
+   "language": "ur",
+   "bytes": 48308,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-09",
+   "title": "Shukriya (شکریہ)",
+   "text": "شکریہ",
+   "file": "media/stickers/urdu-alfaaz/09.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/09.webp",
+   "emojis": [
+    "🌹"
+   ],
+   "tags": [
+    "shukriya",
+    "شکریہ"
+   ],
+   "language": "ur",
+   "bytes": 35022,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-10",
+   "title": "Maaf karna (معاف کرنا)",
+   "text": "معاف کرنا",
+   "file": "media/stickers/urdu-alfaaz/10.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/10.webp",
+   "emojis": [
+    "🙏"
+   ],
+   "tags": [
+    "maaf",
+    "karna",
+    "معاف",
+    "کرنا"
+   ],
+   "language": "ur",
+   "bytes": 48100,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-11",
+   "title": "Khush raho (خوش رہو)",
+   "text": "خوش رہو",
+   "file": "media/stickers/urdu-alfaaz/11.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/11.webp",
+   "emojis": [
+    "😊"
+   ],
+   "tags": [
+    "khush",
+    "raho",
+    "خوش",
+    "رہو"
+   ],
+   "language": "ur",
+   "bytes": 53086,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-12",
+   "title": "Mubarak ho (مبارک ہو)",
+   "text": "مبارک ہو",
+   "file": "media/stickers/urdu-alfaaz/12.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/12.webp",
+   "emojis": [
+    "🎉"
+   ],
+   "tags": [
+    "mubarak",
+    "ho",
+    "مبارک",
+    "ہو"
+   ],
+   "language": "ur",
+   "bytes": 53096,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-13",
+   "title": "Uff (اف)",
+   "text": "اف",
+   "file": "media/stickers/urdu-alfaaz/13.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/13.webp",
+   "emojis": [
+    "😩"
+   ],
+   "tags": [
+    "uff",
+    "اف"
+   ],
+   "language": "ur",
+   "bytes": 38202,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-14",
+   "title": "Yaar (یار)",
+   "text": "یار",
+   "file": "media/stickers/urdu-alfaaz/14.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/14.webp",
+   "emojis": [
+    "🫂"
+   ],
+   "tags": [
+    "yaar",
+    "یار"
+   ],
+   "language": "ur",
+   "bytes": 30660,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-15",
+   "title": "Bas karo (بس کرو)",
+   "text": "بس کرو",
+   "file": "media/stickers/urdu-alfaaz/15.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/15.webp",
+   "emojis": [
+    "✋"
+   ],
+   "tags": [
+    "bas",
+    "karo",
+    "بس",
+    "کرو"
+   ],
+   "language": "ur",
+   "bytes": 41756,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-16",
+   "title": "Kamaal hai (کمال ہے)",
+   "text": "کمال ہے",
+   "file": "media/stickers/urdu-alfaaz/16.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/16.webp",
+   "emojis": [
+    "🤩"
+   ],
+   "tags": [
+    "kamaal",
+    "hai",
+    "کمال",
+    "ہے"
+   ],
+   "language": "ur",
+   "bytes": 48310,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-17",
+   "title": "Dil khush ho gaya (دل خوش ہو گیا)",
+   "text": "دل خوش ہو گیا",
+   "file": "media/stickers/urdu-alfaaz/17.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/17.webp",
+   "emojis": [
+    "💖"
+   ],
+   "tags": [
+    "dil",
+    "khush",
+    "ho",
+    "gaya",
+    "دل",
+    "خوش",
+    "ہو",
+    "گیا"
+   ],
+   "language": "ur",
+   "bytes": 53126,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "urdu-alfaaz-18",
+   "title": "Pareshan na ho (پریشان نہ ہو)",
+   "text": "پریشان نہ ہو",
+   "file": "media/stickers/urdu-alfaaz/18.webp",
+   "thumb": "media/thumbs/urdu-alfaaz/18.webp",
+   "emojis": [
+    "🤗"
+   ],
+   "tags": [
+    "pareshan",
+    "na",
+    "ho",
+    "پریشان",
+    "نہ",
+    "ہو"
+   ],
+   "language": "ur",
+   "bytes": 50988,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

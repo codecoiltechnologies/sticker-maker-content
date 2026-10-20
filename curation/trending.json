@@ -1,0 +1,78 @@
+{
+  "updatedAt": "2026-10-20",
+  "curator": "Sticker Maker editors",
+  "note": "Trending is hand-picked by the Sticker Maker editors for the season and the week. It is not based on download counts or usage statistics.",
+  "tags": [
+    "diwali",
+    "halloween",
+    "winter",
+    "chai",
+    "good morning",
+    "cricket",
+    "cats",
+    "eid"
+  ],
+  "sections": [
+    {
+      "id": "editors-picks",
+      "title": "Trending picks",
+      "subtitle": "Hand-picked this week",
+      "basis": "Chosen by the Sticker Maker editors for the week of 20 October 2026",
+      "items": [
+        "pack:good-morning",
+        "pack:roman-urdu-reactions",
+        "pack:animated-hearts",
+        "pack:islamic-greetings",
+        "pack:big-reactions",
+        "pack:desi-vibes",
+        "pack:cute-boy",
+        "pack:yaari-dosti",
+        "pack:animated-laughs",
+        "pack:savage-mode"
+      ]
+    },
+    {
+      "id": "season-festivals",
+      "title": "Diwali & Halloween",
+      "subtitle": "Halloween 31 Oct · Diwali 8 Nov",
+      "basis": "Seasonal pick: upcoming festivals (Halloween on 31 October, Diwali on 8 November 2026)",
+      "items": [
+        "pack:festivals",
+        "pack:party-time",
+        "pack:birthday-wishes",
+        "pack:fantasy-friends"
+      ]
+    },
+    {
+      "id": "season-winter",
+      "title": "Chai & sardi season",
+      "subtitle": "Winter is on its way",
+      "basis": "Seasonal pick: cooler weather in Pakistan and North India from late October",
+      "items": [
+        "pack:seasons",
+        "pack:chai-food",
+        "pack:good-night",
+        "pack:sky-weather",
+        "pack:sweets-drinks"
+      ]
+    },
+    {
+      "id": "meme-picks",
+      "title": "Meme picks",
+      "subtitle": "Editors' favourite memes",
+      "basis": "Chosen by the Sticker Maker editors",
+      "items": [
+        "meme:cats-ab64a895",
+        "meme:seasonal-ffa00155",
+        "meme:cats-1af3f66b",
+        "meme:relatable-f232057f",
+        "meme:seasonal-3826891e",
+        "meme:animals-c1ac1e8b",
+        "meme:cricket-ebf597cd",
+        "meme:seasonal-1dde3838",
+        "meme:animals-cb55be9f",
+        "meme:family-de7419d9"
+      ]
+    }
+  ]
+}

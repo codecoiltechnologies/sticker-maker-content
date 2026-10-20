@@ -1,0 +1,28 @@
+{
+ "id": "cats-8b0ef73e",
+ "title": "Battery 1%. Me too.",
+ "category": "memes-cats",
+ "file": "media/memes/memes-cats/cats-8b0ef73e.webp",
+ "thumb": "media/meme-thumbs/memes-cats/cats-8b0ef73e.webp",
+ "width": 1080,
+ "height": 893,
+ "bytes": 125068,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Battery 1%. Me too.",
+ "tags": [
+  "battery",
+  "cat",
+  "tired",
+  "too"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Petro Stelte",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ABlack-Cat-Sitia-Crete-Greece.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

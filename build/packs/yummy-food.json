@@ -1,0 +1,536 @@
+{
+ "id": "yummy-food",
+ "title": "Yummy Food",
+ "category": "food",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/yummy-food.png",
+ "cover": "media/covers/yummy-food.webp",
+ "stickers": [
+  {
+   "id": "yummy-food-01",
+   "title": "Bread",
+   "file": "media/stickers/yummy-food/01.webp",
+   "thumb": "media/thumbs/yummy-food/01.webp",
+   "emojis": [
+    "🍞"
+   ],
+   "tags": [
+    "bread",
+    "loaf"
+   ],
+   "bytes": 18316,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-02",
+   "title": "Croissant",
+   "file": "media/stickers/yummy-food/02.webp",
+   "thumb": "media/thumbs/yummy-food/02.webp",
+   "emojis": [
+    "🥐"
+   ],
+   "tags": [
+    "bread",
+    "breakfast",
+    "croissant",
+    "food",
+    "french",
+    "roll"
+   ],
+   "bytes": 23200,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-03",
+   "title": "Baguette bread",
+   "file": "media/stickers/yummy-food/03.webp",
+   "thumb": "media/thumbs/yummy-food/03.webp",
+   "emojis": [
+    "🥖"
+   ],
+   "tags": [
+    "baguette",
+    "bread",
+    "food",
+    "french"
+   ],
+   "bytes": 20734,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-04",
+   "title": "Flatbread",
+   "file": "media/stickers/yummy-food/04.webp",
+   "thumb": "media/thumbs/yummy-food/04.webp",
+   "emojis": [
+    "🫓"
+   ],
+   "tags": [
+    "arepa",
+    "flatbread",
+    "lavash",
+    "naan",
+    "pita"
+   ],
+   "bytes": 20628,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-05",
+   "title": "Pretzel",
+   "file": "media/stickers/yummy-food/05.webp",
+   "thumb": "media/thumbs/yummy-food/05.webp",
+   "emojis": [
+    "🥨"
+   ],
+   "tags": [
+    "pretzel",
+    "twisted"
+   ],
+   "bytes": 34188,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-06",
+   "title": "Bagel",
+   "file": "media/stickers/yummy-food/06.webp",
+   "thumb": "media/thumbs/yummy-food/06.webp",
+   "emojis": [
+    "🥯"
+   ],
+   "tags": [
+    "bagel",
+    "bakery",
+    "breakfast",
+    "schmear"
+   ],
+   "bytes": 27572,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-07",
+   "title": "Pancakes",
+   "file": "media/stickers/yummy-food/07.webp",
+   "thumb": "media/thumbs/yummy-food/07.webp",
+   "emojis": [
+    "🥞"
+   ],
+   "tags": [
+    "breakfast",
+    "crêpe",
+    "food",
+    "hotcake",
+    "pancake",
+    "pancakes"
+   ],
+   "bytes": 21818,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-08",
+   "title": "Waffle",
+   "file": "media/stickers/yummy-food/08.webp",
+   "thumb": "media/thumbs/yummy-food/08.webp",
+   "emojis": [
+    "🧇"
+   ],
+   "tags": [
+    "breakfast",
+    "indecisive",
+    "iron",
+    "waffle"
+   ],
+   "bytes": 19866,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-09",
+   "title": "Cheese wedge",
+   "file": "media/stickers/yummy-food/09.webp",
+   "thumb": "media/thumbs/yummy-food/09.webp",
+   "emojis": [
+    "🧀"
+   ],
+   "tags": [
+    "cheese",
+    "cheese wedge"
+   ],
+   "bytes": 18864,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-10",
+   "title": "Meat on bone",
+   "file": "media/stickers/yummy-food/10.webp",
+   "thumb": "media/thumbs/yummy-food/10.webp",
+   "emojis": [
+    "🍖"
+   ],
+   "tags": [
+    "bone",
+    "meat",
+    "meat on bone"
+   ],
+   "bytes": 22004,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-11",
+   "title": "Poultry leg",
+   "file": "media/stickers/yummy-food/11.webp",
+   "thumb": "media/thumbs/yummy-food/11.webp",
+   "emojis": [
+    "🍗"
+   ],
+   "tags": [
+    "bone",
+    "chicken",
+    "drumstick",
+    "leg",
+    "poultry"
+   ],
+   "bytes": 17576,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-12",
+   "title": "Cut of meat",
+   "file": "media/stickers/yummy-food/12.webp",
+   "thumb": "media/thumbs/yummy-food/12.webp",
+   "emojis": [
+    "🥩"
+   ],
+   "tags": [
+    "chop",
+    "cut of meat",
+    "lambchop",
+    "porkchop",
+    "steak"
+   ],
+   "bytes": 25814,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-13",
+   "title": "Bacon",
+   "file": "media/stickers/yummy-food/13.webp",
+   "thumb": "media/thumbs/yummy-food/13.webp",
+   "emojis": [
+    "🥓"
+   ],
+   "tags": [
+    "bacon",
+    "breakfast",
+    "food",
+    "meat"
+   ],
+   "bytes": 28638,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-14",
+   "title": "Hamburger",
+   "file": "media/stickers/yummy-food/14.webp",
+   "thumb": "media/thumbs/yummy-food/14.webp",
+   "emojis": [
+    "🍔"
+   ],
+   "tags": [
+    "burger",
+    "hamburger"
+   ],
+   "bytes": 18768,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-15",
+   "title": "French fries",
+   "file": "media/stickers/yummy-food/15.webp",
+   "thumb": "media/thumbs/yummy-food/15.webp",
+   "emojis": [
+    "🍟"
+   ],
+   "tags": [
+    "french",
+    "fries"
+   ],
+   "bytes": 20794,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-16",
+   "title": "Pizza",
+   "file": "media/stickers/yummy-food/16.webp",
+   "thumb": "media/thumbs/yummy-food/16.webp",
+   "emojis": [
+    "🍕"
+   ],
+   "tags": [
+    "cheese",
+    "pizza",
+    "slice"
+   ],
+   "bytes": 19850,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-17",
+   "title": "Hot dog",
+   "file": "media/stickers/yummy-food/17.webp",
+   "thumb": "media/thumbs/yummy-food/17.webp",
+   "emojis": [
+    "🌭"
+   ],
+   "tags": [
+    "frankfurter",
+    "hot dog",
+    "hotdog",
+    "sausage"
+   ],
+   "bytes": 22914,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-18",
+   "title": "Sandwich",
+   "file": "media/stickers/yummy-food/18.webp",
+   "thumb": "media/thumbs/yummy-food/18.webp",
+   "emojis": [
+    "🥪"
+   ],
+   "tags": [
+    "bread",
+    "sandwich"
+   ],
+   "bytes": 22212,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-19",
+   "title": "Taco",
+   "file": "media/stickers/yummy-food/19.webp",
+   "thumb": "media/thumbs/yummy-food/19.webp",
+   "emojis": [
+    "🌮"
+   ],
+   "tags": [
+    "mexican",
+    "taco"
+   ],
+   "bytes": 16412,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-20",
+   "title": "Burrito",
+   "file": "media/stickers/yummy-food/20.webp",
+   "thumb": "media/thumbs/yummy-food/20.webp",
+   "emojis": [
+    "🌯"
+   ],
+   "tags": [
+    "burrito",
+    "mexican",
+    "wrap"
+   ],
+   "bytes": 23112,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-21",
+   "title": "Stuffed flatbread",
+   "file": "media/stickers/yummy-food/21.webp",
+   "thumb": "media/thumbs/yummy-food/21.webp",
+   "emojis": [
+    "🥙"
+   ],
+   "tags": [
+    "falafel",
+    "flatbread",
+    "food",
+    "gyro",
+    "kebab",
+    "stuffed"
+   ],
+   "bytes": 24364,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-22",
+   "title": "Falafel",
+   "file": "media/stickers/yummy-food/22.webp",
+   "thumb": "media/thumbs/yummy-food/22.webp",
+   "emojis": [
+    "🧆"
+   ],
+   "tags": [
+    "chickpea",
+    "falafel",
+    "meatball"
+   ],
+   "bytes": 20784,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-23",
+   "title": "Egg",
+   "file": "media/stickers/yummy-food/23.webp",
+   "thumb": "media/thumbs/yummy-food/23.webp",
+   "emojis": [
+    "🥚"
+   ],
+   "tags": [
+    "breakfast",
+    "egg",
+    "food"
+   ],
+   "bytes": 17096,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-24",
+   "title": "Cooking",
+   "file": "media/stickers/yummy-food/24.webp",
+   "thumb": "media/thumbs/yummy-food/24.webp",
+   "emojis": [
+    "🍳"
+   ],
+   "tags": [
+    "breakfast",
+    "cooking",
+    "egg",
+    "frying",
+    "pan"
+   ],
+   "bytes": 23820,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-25",
+   "title": "Shallow pan of food",
+   "file": "media/stickers/yummy-food/25.webp",
+   "thumb": "media/thumbs/yummy-food/25.webp",
+   "emojis": [
+    "🥘"
+   ],
+   "tags": [
+    "casserole",
+    "food",
+    "paella",
+    "pan",
+    "shallow",
+    "shallow pan of food"
+   ],
+   "bytes": 33696,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-26",
+   "title": "Pot of food",
+   "file": "media/stickers/yummy-food/26.webp",
+   "thumb": "media/thumbs/yummy-food/26.webp",
+   "emojis": [
+    "🍲"
+   ],
+   "tags": [
+    "pot",
+    "pot of food",
+    "stew"
+   ],
+   "bytes": 24310,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-27",
+   "title": "Curry rice",
+   "file": "media/stickers/yummy-food/27.webp",
+   "thumb": "media/thumbs/yummy-food/27.webp",
+   "emojis": [
+    "🍛"
+   ],
+   "tags": [
+    "curry",
+    "rice"
+   ],
+   "bytes": 19498,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-28",
+   "title": "Steaming bowl",
+   "file": "media/stickers/yummy-food/28.webp",
+   "thumb": "media/thumbs/yummy-food/28.webp",
+   "emojis": [
+    "🍜"
+   ],
+   "tags": [
+    "bowl",
+    "noodle",
+    "ramen",
+    "steaming"
+   ],
+   "bytes": 22462,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-29",
+   "title": "Spaghetti",
+   "file": "media/stickers/yummy-food/29.webp",
+   "thumb": "media/thumbs/yummy-food/29.webp",
+   "emojis": [
+    "🍝"
+   ],
+   "tags": [
+    "pasta",
+    "spaghetti"
+   ],
+   "bytes": 25910,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "yummy-food-30",
+   "title": "Sushi",
+   "file": "media/stickers/yummy-food/30.webp",
+   "thumb": "media/thumbs/yummy-food/30.webp",
+   "emojis": [
+    "🍣"
+   ],
+   "tags": [
+    "sushi"
+   ],
+   "bytes": 16380,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

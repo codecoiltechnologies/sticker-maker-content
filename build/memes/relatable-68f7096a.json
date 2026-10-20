@@ -1,0 +1,29 @@
+{
+ "id": "relatable-68f7096a",
+ "title": "My brain on Monday morning",
+ "category": "memes-relatable",
+ "file": "media/memes/memes-relatable/relatable-68f7096a.webp",
+ "thumb": "media/meme-thumbs/memes-relatable/relatable-68f7096a.webp",
+ "width": 1080,
+ "height": 893,
+ "bytes": 38528,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "My brain on Monday morning",
+ "tags": [
+  "brain",
+  "foggy",
+  "monday",
+  "morning",
+  "mountain"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3APeak_of_a_karst_mountain_submerged_in_clouds_in_Vang_Vieng_Laos.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

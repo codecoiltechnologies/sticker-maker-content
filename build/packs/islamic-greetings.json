@@ -1,0 +1,392 @@
+{
+ "id": "islamic-greetings",
+ "title": "Islamic Greetings",
+ "category": "islamic",
+ "type": "static",
+ "language": "ar",
+ "tray": "media/trays/islamic-greetings.png",
+ "cover": "media/covers/islamic-greetings.webp",
+ "stickers": [
+  {
+   "id": "islamic-greetings-01",
+   "title": "Assalamu Alaikum (السلام علیکم)",
+   "text": "السلام علیکم",
+   "file": "media/stickers/islamic-greetings/01.webp",
+   "thumb": "media/thumbs/islamic-greetings/01.webp",
+   "emojis": [
+    "👋"
+   ],
+   "tags": [
+    "assalamu",
+    "alaikum",
+    "السلام",
+    "علیکم"
+   ],
+   "language": "ur",
+   "bytes": 40504,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-02",
+   "title": "Wa Alaikum Assalam (وعلیکم السلام)",
+   "text": "وعلیکم السلام",
+   "file": "media/stickers/islamic-greetings/02.webp",
+   "thumb": "media/thumbs/islamic-greetings/02.webp",
+   "emojis": [
+    "👋"
+   ],
+   "tags": [
+    "wa",
+    "alaikum",
+    "assalam",
+    "وعلیکم",
+    "السلام"
+   ],
+   "language": "ur",
+   "bytes": 57066,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-03",
+   "title": "MashaAllah (ماشاءاللہ)",
+   "text": "ماشاءاللہ",
+   "file": "media/stickers/islamic-greetings/03.webp",
+   "thumb": "media/thumbs/islamic-greetings/03.webp",
+   "emojis": [
+    "✨"
+   ],
+   "tags": [
+    "mashaallah",
+    "ماشاءاللہ"
+   ],
+   "language": "ur",
+   "bytes": 52136,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-04",
+   "title": "InshaAllah (ان شاءاللہ)",
+   "text": "ان شاءاللہ",
+   "file": "media/stickers/islamic-greetings/04.webp",
+   "thumb": "media/thumbs/islamic-greetings/04.webp",
+   "emojis": [
+    "🤲"
+   ],
+   "tags": [
+    "inshaallah",
+    "ان",
+    "شاءاللہ"
+   ],
+   "language": "ur",
+   "bytes": 47492,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-05",
+   "title": "Alhamdulillah (الحمدللہ)",
+   "text": "الحمدللہ",
+   "file": "media/stickers/islamic-greetings/05.webp",
+   "thumb": "media/thumbs/islamic-greetings/05.webp",
+   "emojis": [
+    "💚"
+   ],
+   "tags": [
+    "alhamdulillah",
+    "الحمدللہ"
+   ],
+   "language": "ur",
+   "bytes": 48972,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-06",
+   "title": "SubhanAllah (سبحان اللہ)",
+   "text": "سبحان اللہ",
+   "file": "media/stickers/islamic-greetings/06.webp",
+   "thumb": "media/thumbs/islamic-greetings/06.webp",
+   "emojis": [
+    "🌙"
+   ],
+   "tags": [
+    "subhanallah",
+    "سبحان",
+    "اللہ"
+   ],
+   "language": "ur",
+   "bytes": 51136,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-07",
+   "title": "Allahu Akbar (اللہ اکبر)",
+   "text": "اللہ اکبر",
+   "file": "media/stickers/islamic-greetings/07.webp",
+   "thumb": "media/thumbs/islamic-greetings/07.webp",
+   "emojis": [
+    "☪️"
+   ],
+   "tags": [
+    "allahu",
+    "akbar",
+    "اللہ",
+    "اکبر"
+   ],
+   "language": "ar",
+   "bytes": 45752,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-08",
+   "title": "JazakAllah Khair (جزاک اللہ خیر)",
+   "text": "جزاک اللہ خیر",
+   "file": "media/stickers/islamic-greetings/08.webp",
+   "thumb": "media/thumbs/islamic-greetings/08.webp",
+   "emojis": [
+    "🌹"
+   ],
+   "tags": [
+    "jazakallah",
+    "khair",
+    "جزاک",
+    "اللہ",
+    "خیر"
+   ],
+   "language": "ur",
+   "bytes": 51346,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-09",
+   "title": "Bismillah (بسم اللہ)",
+   "text": "بسم اللہ",
+   "file": "media/stickers/islamic-greetings/09.webp",
+   "thumb": "media/thumbs/islamic-greetings/09.webp",
+   "emojis": [
+    "📿"
+   ],
+   "tags": [
+    "bismillah",
+    "بسم",
+    "اللہ"
+   ],
+   "language": "ar",
+   "bytes": 45350,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-10",
+   "title": "Astaghfirullah (استغفراللہ)",
+   "text": "استغفراللہ",
+   "file": "media/stickers/islamic-greetings/10.webp",
+   "thumb": "media/thumbs/islamic-greetings/10.webp",
+   "emojis": [
+    "📿"
+   ],
+   "tags": [
+    "astaghfirullah",
+    "استغفراللہ"
+   ],
+   "language": "ur",
+   "bytes": 49932,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-11",
+   "title": "Ameen (آمین)",
+   "text": "آمین",
+   "file": "media/stickers/islamic-greetings/11.webp",
+   "thumb": "media/thumbs/islamic-greetings/11.webp",
+   "emojis": [
+    "🤲"
+   ],
+   "tags": [
+    "ameen",
+    "آمین"
+   ],
+   "language": "ur",
+   "bytes": 38506,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-12",
+   "title": "Jumma Mubarak (جمعہ مبارک)",
+   "text": "جمعہ مبارک",
+   "file": "media/stickers/islamic-greetings/12.webp",
+   "thumb": "media/thumbs/islamic-greetings/12.webp",
+   "emojis": [
+    "🕌"
+   ],
+   "tags": [
+    "jumma",
+    "mubarak",
+    "جمعہ",
+    "مبارک"
+   ],
+   "language": "ur",
+   "bytes": 55156,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-13",
+   "title": "Allah Hafiz (اللہ حافظ)",
+   "text": "اللہ حافظ",
+   "file": "media/stickers/islamic-greetings/13.webp",
+   "thumb": "media/thumbs/islamic-greetings/13.webp",
+   "emojis": [
+    "👋"
+   ],
+   "tags": [
+    "allah",
+    "hafiz",
+    "اللہ",
+    "حافظ"
+   ],
+   "language": "ur",
+   "bytes": 50760,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-14",
+   "title": "BarakAllah (بارک اللہ)",
+   "text": "بارک اللہ",
+   "file": "media/stickers/islamic-greetings/14.webp",
+   "thumb": "media/thumbs/islamic-greetings/14.webp",
+   "emojis": [
+    "🌟"
+   ],
+   "tags": [
+    "barakallah",
+    "بارک",
+    "اللہ"
+   ],
+   "language": "ur",
+   "bytes": 49902,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-15",
+   "title": "Fi Amanillah (فی امان اللہ)",
+   "text": "فی امان اللہ",
+   "file": "media/stickers/islamic-greetings/15.webp",
+   "thumb": "media/thumbs/islamic-greetings/15.webp",
+   "emojis": [
+    "🕊️"
+   ],
+   "tags": [
+    "fi",
+    "amanillah",
+    "فی",
+    "امان",
+    "اللہ"
+   ],
+   "language": "ur",
+   "bytes": 51386,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-16",
+   "title": "Dua karna (دعا کرنا)",
+   "text": "دعا کرنا",
+   "file": "media/stickers/islamic-greetings/16.webp",
+   "thumb": "media/thumbs/islamic-greetings/16.webp",
+   "emojis": [
+    "🤲"
+   ],
+   "tags": [
+    "dua",
+    "karna",
+    "دعا",
+    "کرنا"
+   ],
+   "language": "ur",
+   "bytes": 46900,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-17",
+   "title": "Assalamu Alaikum",
+   "text": "Assalamu Alaikum",
+   "file": "media/stickers/islamic-greetings/17.webp",
+   "thumb": "media/thumbs/islamic-greetings/17.webp",
+   "emojis": [
+    "👋"
+   ],
+   "tags": [
+    "assalamu",
+    "alaikum"
+   ],
+   "language": "en",
+   "bytes": 42436,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-18",
+   "title": "Jazak Allah",
+   "text": "Jazak Allah",
+   "file": "media/stickers/islamic-greetings/18.webp",
+   "thumb": "media/thumbs/islamic-greetings/18.webp",
+   "emojis": [
+    "🌹"
+   ],
+   "tags": [
+    "jazak",
+    "allah"
+   ],
+   "language": "en",
+   "bytes": 40252,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-19",
+   "title": "Ameen",
+   "text": "Ameen",
+   "file": "media/stickers/islamic-greetings/19.webp",
+   "thumb": "media/thumbs/islamic-greetings/19.webp",
+   "emojis": [
+    "🤲"
+   ],
+   "tags": [
+    "ameen"
+   ],
+   "language": "en",
+   "bytes": 34256,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "islamic-greetings-20",
+   "title": "MashaAllah",
+   "text": "MashaAllah",
+   "file": "media/stickers/islamic-greetings/20.webp",
+   "thumb": "media/thumbs/islamic-greetings/20.webp",
+   "emojis": [
+    "✨"
+   ],
+   "tags": [
+    "mashaallah"
+   ],
+   "language": "en",
+   "bytes": 33952,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

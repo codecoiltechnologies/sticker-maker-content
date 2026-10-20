@@ -1,0 +1,31 @@
+{
+ "id": "food-e495f020",
+ "title": "When someone puts pineapple in biryani",
+ "category": "memes-food",
+ "file": "media/memes/memes-food/food-e495f020.webp",
+ "thumb": "media/meme-thumbs/memes-food/food-e495f020.webp",
+ "width": 1080,
+ "height": 1320,
+ "bytes": 241046,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "When someone puts pineapple in biryani",
+ "tags": [
+  "biryani",
+  "monkey",
+  "pineapple",
+  "puts",
+  "shocked",
+  "someone",
+  "when"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGolden_monkey_%28Cercopithecus_kandti%29_head_2.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

@@ -1,0 +1,504 @@
+{
+ "id": "wild-animals",
+ "title": "Wild Animals",
+ "category": "animals",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/wild-animals.png",
+ "cover": "media/covers/wild-animals.webp",
+ "stickers": [
+  {
+   "id": "wild-animals-01",
+   "title": "Lion",
+   "file": "media/stickers/wild-animals/01.webp",
+   "thumb": "media/thumbs/wild-animals/01.webp",
+   "emojis": [
+    "🦁"
+   ],
+   "tags": [
+    "Leo",
+    "face",
+    "lion",
+    "zodiac"
+   ],
+   "bytes": 25604,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-02",
+   "title": "Tiger face",
+   "file": "media/stickers/wild-animals/02.webp",
+   "thumb": "media/thumbs/wild-animals/02.webp",
+   "emojis": [
+    "🐯"
+   ],
+   "tags": [
+    "face",
+    "tiger"
+   ],
+   "bytes": 26686,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-03",
+   "title": "Tiger",
+   "file": "media/stickers/wild-animals/03.webp",
+   "thumb": "media/thumbs/wild-animals/03.webp",
+   "emojis": [
+    "🐅"
+   ],
+   "tags": [
+    "tiger"
+   ],
+   "bytes": 25260,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-04",
+   "title": "Leopard",
+   "file": "media/stickers/wild-animals/04.webp",
+   "thumb": "media/thumbs/wild-animals/04.webp",
+   "emojis": [
+    "🐆"
+   ],
+   "tags": [
+    "leopard"
+   ],
+   "bytes": 23616,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-05",
+   "title": "Elephant",
+   "file": "media/stickers/wild-animals/05.webp",
+   "thumb": "media/thumbs/wild-animals/05.webp",
+   "emojis": [
+    "🐘"
+   ],
+   "tags": [
+    "elephant"
+   ],
+   "bytes": 17694,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-06",
+   "title": "Rhinoceros",
+   "file": "media/stickers/wild-animals/06.webp",
+   "thumb": "media/thumbs/wild-animals/06.webp",
+   "emojis": [
+    "🦏"
+   ],
+   "tags": [
+    "rhinoceros"
+   ],
+   "bytes": 16856,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-07",
+   "title": "Hippopotamus",
+   "file": "media/stickers/wild-animals/07.webp",
+   "thumb": "media/thumbs/wild-animals/07.webp",
+   "emojis": [
+    "🦛"
+   ],
+   "tags": [
+    "hippo",
+    "hippopotamus"
+   ],
+   "bytes": 16250,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-08",
+   "title": "Giraffe",
+   "file": "media/stickers/wild-animals/08.webp",
+   "thumb": "media/thumbs/wild-animals/08.webp",
+   "emojis": [
+    "🦒"
+   ],
+   "tags": [
+    "giraffe",
+    "spots"
+   ],
+   "bytes": 28632,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-09",
+   "title": "Zebra",
+   "file": "media/stickers/wild-animals/09.webp",
+   "thumb": "media/thumbs/wild-animals/09.webp",
+   "emojis": [
+    "🦓"
+   ],
+   "tags": [
+    "stripe",
+    "zebra"
+   ],
+   "bytes": 28694,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-10",
+   "title": "Gorilla",
+   "file": "media/stickers/wild-animals/10.webp",
+   "thumb": "media/thumbs/wild-animals/10.webp",
+   "emojis": [
+    "🦍"
+   ],
+   "tags": [
+    "gorilla"
+   ],
+   "bytes": 19024,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-11",
+   "title": "Orangutan",
+   "file": "media/stickers/wild-animals/11.webp",
+   "thumb": "media/thumbs/wild-animals/11.webp",
+   "emojis": [
+    "🦧"
+   ],
+   "tags": [
+    "ape",
+    "orangutan"
+   ],
+   "bytes": 26296,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-12",
+   "title": "Wolf",
+   "file": "media/stickers/wild-animals/12.webp",
+   "thumb": "media/thumbs/wild-animals/12.webp",
+   "emojis": [
+    "🐺"
+   ],
+   "tags": [
+    "face",
+    "wolf"
+   ],
+   "bytes": 20450,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-13",
+   "title": "Boar",
+   "file": "media/stickers/wild-animals/13.webp",
+   "thumb": "media/thumbs/wild-animals/13.webp",
+   "emojis": [
+    "🐗"
+   ],
+   "tags": [
+    "boar",
+    "pig"
+   ],
+   "bytes": 18936,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-14",
+   "title": "Deer",
+   "file": "media/stickers/wild-animals/14.webp",
+   "thumb": "media/thumbs/wild-animals/14.webp",
+   "emojis": [
+    "🦌"
+   ],
+   "tags": [
+    "deer"
+   ],
+   "bytes": 28328,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-15",
+   "title": "Moose",
+   "file": "media/stickers/wild-animals/15.webp",
+   "thumb": "media/thumbs/wild-animals/15.webp",
+   "emojis": [
+    "🫎"
+   ],
+   "tags": [
+    "animal",
+    "antlers",
+    "elk",
+    "mammal",
+    "moose"
+   ],
+   "bytes": 32606,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-16",
+   "title": "Bison",
+   "file": "media/stickers/wild-animals/16.webp",
+   "thumb": "media/thumbs/wild-animals/16.webp",
+   "emojis": [
+    "🦬"
+   ],
+   "tags": [
+    "bison",
+    "buffalo",
+    "herd",
+    "wisent"
+   ],
+   "bytes": 22704,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-17",
+   "title": "Water buffalo",
+   "file": "media/stickers/wild-animals/17.webp",
+   "thumb": "media/thumbs/wild-animals/17.webp",
+   "emojis": [
+    "🐃"
+   ],
+   "tags": [
+    "buffalo",
+    "water"
+   ],
+   "bytes": 21728,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-18",
+   "title": "Ox",
+   "file": "media/stickers/wild-animals/18.webp",
+   "thumb": "media/thumbs/wild-animals/18.webp",
+   "emojis": [
+    "🐂"
+   ],
+   "tags": [
+    "Taurus",
+    "bull",
+    "ox",
+    "zodiac"
+   ],
+   "bytes": 22258,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-19",
+   "title": "Cow",
+   "file": "media/stickers/wild-animals/19.webp",
+   "thumb": "media/thumbs/wild-animals/19.webp",
+   "emojis": [
+    "🐄"
+   ],
+   "tags": [
+    "cow"
+   ],
+   "bytes": 25174,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-20",
+   "title": "Camel",
+   "file": "media/stickers/wild-animals/20.webp",
+   "thumb": "media/thumbs/wild-animals/20.webp",
+   "emojis": [
+    "🐪"
+   ],
+   "tags": [
+    "camel",
+    "dromedary",
+    "hump"
+   ],
+   "bytes": 24258,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-21",
+   "title": "Two-hump camel",
+   "file": "media/stickers/wild-animals/21.webp",
+   "thumb": "media/thumbs/wild-animals/21.webp",
+   "emojis": [
+    "🐫"
+   ],
+   "tags": [
+    "bactrian",
+    "camel",
+    "hump",
+    "two-hump camel"
+   ],
+   "bytes": 25084,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-22",
+   "title": "Llama",
+   "file": "media/stickers/wild-animals/22.webp",
+   "thumb": "media/thumbs/wild-animals/22.webp",
+   "emojis": [
+    "🦙"
+   ],
+   "tags": [
+    "alpaca",
+    "guanaco",
+    "llama",
+    "vicuña",
+    "wool"
+   ],
+   "bytes": 20542,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-23",
+   "title": "Kangaroo",
+   "file": "media/stickers/wild-animals/23.webp",
+   "thumb": "media/thumbs/wild-animals/23.webp",
+   "emojis": [
+    "🦘"
+   ],
+   "tags": [
+    "Australia",
+    "joey",
+    "jump",
+    "kangaroo",
+    "marsupial"
+   ],
+   "bytes": 25586,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-24",
+   "title": "Badger",
+   "file": "media/stickers/wild-animals/24.webp",
+   "thumb": "media/thumbs/wild-animals/24.webp",
+   "emojis": [
+    "🦡"
+   ],
+   "tags": [
+    "badger",
+    "honey badger",
+    "pester"
+   ],
+   "bytes": 15976,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-25",
+   "title": "Skunk",
+   "file": "media/stickers/wild-animals/25.webp",
+   "thumb": "media/thumbs/wild-animals/25.webp",
+   "emojis": [
+    "🦨"
+   ],
+   "tags": [
+    "skunk",
+    "stink"
+   ],
+   "bytes": 24278,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-26",
+   "title": "Bat",
+   "file": "media/stickers/wild-animals/26.webp",
+   "thumb": "media/thumbs/wild-animals/26.webp",
+   "emojis": [
+    "🦇"
+   ],
+   "tags": [
+    "bat",
+    "vampire"
+   ],
+   "bytes": 23146,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-27",
+   "title": "Rat",
+   "file": "media/stickers/wild-animals/27.webp",
+   "thumb": "media/thumbs/wild-animals/27.webp",
+   "emojis": [
+    "🐀"
+   ],
+   "tags": [
+    "rat"
+   ],
+   "bytes": 23048,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-28",
+   "title": "Mammoth",
+   "file": "media/stickers/wild-animals/28.webp",
+   "thumb": "media/thumbs/wild-animals/28.webp",
+   "emojis": [
+    "🦣"
+   ],
+   "tags": [
+    "extinction",
+    "large",
+    "mammoth",
+    "tusk",
+    "woolly"
+   ],
+   "bytes": 22994,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-29",
+   "title": "Mouse",
+   "file": "media/stickers/wild-animals/29.webp",
+   "thumb": "media/thumbs/wild-animals/29.webp",
+   "emojis": [
+    "🐁"
+   ],
+   "tags": [
+    "mouse"
+   ],
+   "bytes": 22138,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-animals-30",
+   "title": "Pig",
+   "file": "media/stickers/wild-animals/30.webp",
+   "thumb": "media/thumbs/wild-animals/30.webp",
+   "emojis": [
+    "🐖"
+   ],
+   "tags": [
+    "pig",
+    "sow"
+   ],
+   "bytes": 17316,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

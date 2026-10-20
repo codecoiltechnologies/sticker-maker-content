@@ -1,0 +1,32 @@
+{
+ "id": "animals-da88cb0e",
+ "title": "Me walking up to the fridge for the fifth time in an hour",
+ "category": "memes-animals",
+ "file": "media/memes/memes-animals/animals-da88cb0e.webp",
+ "thumb": "media/meme-thumbs/memes-animals/animals-da88cb0e.webp",
+ "width": 1080,
+ "height": 968,
+ "bytes": 253342,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Me walking up to the fridge for the fifth time in an hour",
+ "tags": [
+  "donkey",
+  "fifth",
+  "for",
+  "fridge",
+  "hour",
+  "the",
+  "time",
+  "walking"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Jules Verne Times Two",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADonkey_%28Equus_africanus_asinus%29_at_Dev%C3%ADn_Castle_%28Bratislava%2C_Slovakia%29_julesvernex2.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

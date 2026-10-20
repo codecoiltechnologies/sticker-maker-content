@@ -1,0 +1,173 @@
+{
+ "id": "cute-boy",
+ "title": "Cute Boy",
+ "category": "cartoon",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/cute-boy.png",
+ "cover": "media/covers/cute-boy.webp",
+ "stickers": [
+  {
+   "id": "cute-boy-01",
+   "title": "Cute Boy 1",
+   "file": "media/stickers/cute-boy/01.webp",
+   "thumb": "media/thumbs/cute-boy/01.webp",
+   "emojis": [
+    "😊"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 27168,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "cute-boy-02",
+   "title": "Cute Boy 2",
+   "file": "media/stickers/cute-boy/02.webp",
+   "thumb": "media/thumbs/cute-boy/02.webp",
+   "emojis": [
+    "😘"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 33204,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "cute-boy-03",
+   "title": "Cute Boy 3",
+   "file": "media/stickers/cute-boy/03.webp",
+   "thumb": "media/thumbs/cute-boy/03.webp",
+   "emojis": [
+    "😠"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 25564,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "cute-boy-04",
+   "title": "Cute Boy 4",
+   "file": "media/stickers/cute-boy/04.webp",
+   "thumb": "media/thumbs/cute-boy/04.webp",
+   "emojis": [
+    "😂"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 24788,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "cute-boy-05",
+   "title": "Cute Boy 5",
+   "file": "media/stickers/cute-boy/05.webp",
+   "thumb": "media/thumbs/cute-boy/05.webp",
+   "emojis": [
+    "😢"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 28608,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "cute-boy-06",
+   "title": "Cute Boy 6",
+   "file": "media/stickers/cute-boy/06.webp",
+   "thumb": "media/thumbs/cute-boy/06.webp",
+   "emojis": [
+    "😍"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 25892,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "cute-boy-07",
+   "title": "Cute Boy 7",
+   "file": "media/stickers/cute-boy/07.webp",
+   "thumb": "media/thumbs/cute-boy/07.webp",
+   "emojis": [
+    "😎"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 28904,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "cute-boy-08",
+   "title": "Cute Boy 8",
+   "file": "media/stickers/cute-boy/08.webp",
+   "thumb": "media/thumbs/cute-boy/08.webp",
+   "emojis": [
+    "😮"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 24962,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "cute-boy-09",
+   "title": "Cute Boy 9",
+   "file": "media/stickers/cute-boy/09.webp",
+   "thumb": "media/thumbs/cute-boy/09.webp",
+   "emojis": [
+    "😠"
+   ],
+   "tags": [
+    "chibi",
+    "cartoon",
+    "cute",
+    "boy"
+   ],
+   "bytes": 26878,
+   "fileType": "image/webp",
+   "credit": "own"
+  }
+ ]
+}

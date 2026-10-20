@@ -1,0 +1,544 @@
+{
+ "id": "love-mood",
+ "title": "Love Mood",
+ "category": "love",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/love-mood.png",
+ "cover": "media/covers/love-mood.webp",
+ "stickers": [
+  {
+   "id": "love-mood-01",
+   "title": "Smiling face with hearts",
+   "file": "media/stickers/happy-faces/15.webp",
+   "thumb": "media/thumbs/happy-faces/15.webp",
+   "emojis": [
+    "🥰"
+   ],
+   "tags": [
+    "adore",
+    "crush",
+    "hearts",
+    "in love",
+    "smiling face with hearts"
+   ],
+   "bytes": 27214,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-02",
+   "title": "Smiling face with heart-eyes",
+   "file": "media/stickers/happy-faces/16.webp",
+   "thumb": "media/thumbs/happy-faces/16.webp",
+   "emojis": [
+    "😍"
+   ],
+   "tags": [
+    "eye",
+    "face",
+    "love",
+    "smile",
+    "smiling face with heart-eyes"
+   ],
+   "bytes": 24442,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-03",
+   "title": "Face blowing a kiss",
+   "file": "media/stickers/happy-faces/18.webp",
+   "thumb": "media/thumbs/happy-faces/18.webp",
+   "emojis": [
+    "😘"
+   ],
+   "tags": [
+    "face",
+    "face blowing a kiss",
+    "kiss"
+   ],
+   "bytes": 27702,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-04",
+   "title": "Kissing face with smiling eyes",
+   "file": "media/stickers/happy-faces/22.webp",
+   "thumb": "media/thumbs/happy-faces/22.webp",
+   "emojis": [
+    "😙"
+   ],
+   "tags": [
+    "eye",
+    "face",
+    "kiss",
+    "kissing face with smiling eyes",
+    "smile"
+   ],
+   "bytes": 22462,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-05",
+   "title": "Kissing face with closed eyes",
+   "file": "media/stickers/happy-faces/21.webp",
+   "thumb": "media/thumbs/happy-faces/21.webp",
+   "emojis": [
+    "😚"
+   ],
+   "tags": [
+    "closed",
+    "eye",
+    "face",
+    "kiss",
+    "kissing face with closed eyes"
+   ],
+   "bytes": 24986,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-06",
+   "title": "Smiling face",
+   "file": "media/stickers/happy-faces/20.webp",
+   "thumb": "media/thumbs/happy-faces/20.webp",
+   "emojis": [
+    "☺️"
+   ],
+   "tags": [
+    "face",
+    "outlined",
+    "relaxed",
+    "smile",
+    "smiling face"
+   ],
+   "bytes": 25276,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-07",
+   "title": "Smiling cat with heart-eyes",
+   "file": "media/stickers/cat-monkey-moods/04.webp",
+   "thumb": "media/thumbs/cat-monkey-moods/04.webp",
+   "emojis": [
+    "😻"
+   ],
+   "tags": [
+    "cat",
+    "eye",
+    "face",
+    "heart",
+    "love",
+    "smile",
+    "smiling cat with heart-eyes"
+   ],
+   "bytes": 24324,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-08",
+   "title": "Kissing cat",
+   "file": "media/stickers/cat-monkey-moods/06.webp",
+   "thumb": "media/thumbs/cat-monkey-moods/06.webp",
+   "emojis": [
+    "😽"
+   ],
+   "tags": [
+    "cat",
+    "eye",
+    "face",
+    "kiss",
+    "kissing cat"
+   ],
+   "bytes": 22944,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-09",
+   "title": "Heart hands",
+   "file": "media/stickers/hands-gestures/26.webp",
+   "thumb": "media/thumbs/hands-gestures/26.webp",
+   "emojis": [
+    "🫶"
+   ],
+   "tags": [
+    "heart hands",
+    "love"
+   ],
+   "bytes": 21762,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-10",
+   "title": "Hugging face",
+   "file": "media/stickers/happy-faces/30.webp",
+   "thumb": "media/thumbs/happy-faces/30.webp",
+   "emojis": [
+    "🤗"
+   ],
+   "tags": [
+    "face",
+    "hug",
+    "hugging",
+    "open hands",
+    "smiling face",
+    "smiling face with open hands"
+   ],
+   "bytes": 25978,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-11",
+   "title": "Tulip",
+   "file": "media/stickers/love-mood/11.webp",
+   "thumb": "media/thumbs/love-mood/11.webp",
+   "emojis": [
+    "🌷"
+   ],
+   "tags": [
+    "flower",
+    "tulip"
+   ],
+   "bytes": 21768,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-12",
+   "title": "Wilted flower",
+   "file": "media/stickers/love-mood/12.webp",
+   "thumb": "media/thumbs/love-mood/12.webp",
+   "emojis": [
+    "🥀"
+   ],
+   "tags": [
+    "flower",
+    "wilted"
+   ],
+   "bytes": 30200,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-13",
+   "title": "Chocolate bar",
+   "file": "media/stickers/love-mood/13.webp",
+   "thumb": "media/thumbs/love-mood/13.webp",
+   "emojis": [
+    "🍫"
+   ],
+   "tags": [
+    "bar",
+    "chocolate",
+    "dessert",
+    "sweet"
+   ],
+   "bytes": 19256,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-14",
+   "title": "Teddy bear",
+   "file": "media/stickers/love-mood/14.webp",
+   "thumb": "media/thumbs/love-mood/14.webp",
+   "emojis": [
+    "🧸"
+   ],
+   "tags": [
+    "plaything",
+    "plush",
+    "stuffed",
+    "teddy bear",
+    "toy"
+   ],
+   "bytes": 26326,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-15",
+   "title": "Wrapped gift",
+   "file": "media/stickers/love-mood/15.webp",
+   "thumb": "media/thumbs/love-mood/15.webp",
+   "emojis": [
+    "🎁"
+   ],
+   "tags": [
+    "box",
+    "celebration",
+    "gift",
+    "present",
+    "wrapped"
+   ],
+   "bytes": 15246,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-16",
+   "title": "Wedding",
+   "file": "media/stickers/love-mood/16.webp",
+   "thumb": "media/thumbs/love-mood/16.webp",
+   "emojis": [
+    "💒"
+   ],
+   "tags": [
+    "chapel",
+    "romance",
+    "wedding"
+   ],
+   "bytes": 18560,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-17",
+   "title": "Clinking glasses",
+   "file": "media/stickers/love-mood/17.webp",
+   "thumb": "media/thumbs/love-mood/17.webp",
+   "emojis": [
+    "🥂"
+   ],
+   "tags": [
+    "celebrate",
+    "clink",
+    "clinking glasses",
+    "drink",
+    "glass"
+   ],
+   "bytes": 25066,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-18",
+   "title": "Shortcake",
+   "file": "media/stickers/love-mood/18.webp",
+   "thumb": "media/thumbs/love-mood/18.webp",
+   "emojis": [
+    "🍰"
+   ],
+   "tags": [
+    "cake",
+    "dessert",
+    "pastry",
+    "shortcake",
+    "slice",
+    "sweet"
+   ],
+   "bytes": 20234,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-19",
+   "title": "Candle",
+   "file": "media/stickers/love-mood/19.webp",
+   "thumb": "media/thumbs/love-mood/19.webp",
+   "emojis": [
+    "🕯️"
+   ],
+   "tags": [
+    "candle",
+    "light"
+   ],
+   "bytes": 11664,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-20",
+   "title": "Swan",
+   "file": "media/stickers/love-mood/20.webp",
+   "thumb": "media/thumbs/love-mood/20.webp",
+   "emojis": [
+    "🦢"
+   ],
+   "tags": [
+    "bird",
+    "cygnet",
+    "swan",
+    "ugly duckling"
+   ],
+   "bytes": 18832,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-21",
+   "title": "Crescent moon",
+   "file": "media/stickers/love-mood/21.webp",
+   "thumb": "media/thumbs/love-mood/21.webp",
+   "emojis": [
+    "🌙"
+   ],
+   "tags": [
+    "crescent",
+    "moon"
+   ],
+   "bytes": 19544,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-22",
+   "title": "Sparkles",
+   "file": "media/stickers/love-mood/22.webp",
+   "thumb": "media/thumbs/love-mood/22.webp",
+   "emojis": [
+    "✨"
+   ],
+   "tags": [
+    "*",
+    "sparkle",
+    "sparkles",
+    "star"
+   ],
+   "bytes": 24874,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-23",
+   "title": "Woman",
+   "file": "media/stickers/love-mood/23.webp",
+   "thumb": "media/thumbs/love-mood/23.webp",
+   "emojis": [
+    "👩"
+   ],
+   "tags": [
+    "adult",
+    "woman"
+   ],
+   "bytes": 26146,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-24",
+   "title": "Red heart",
+   "file": "media/stickers/hearts/01.webp",
+   "thumb": "media/thumbs/hearts/01.webp",
+   "emojis": [
+    "❤️"
+   ],
+   "tags": [
+    "heart",
+    "red heart"
+   ],
+   "bytes": 18980,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-25",
+   "title": "Man",
+   "file": "media/stickers/love-mood/25.webp",
+   "thumb": "media/thumbs/love-mood/25.webp",
+   "emojis": [
+    "👨"
+   ],
+   "tags": [
+    "adult",
+    "man"
+   ],
+   "bytes": 23712,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-26",
+   "title": "Revolving hearts",
+   "file": "media/stickers/hearts/18.webp",
+   "thumb": "media/thumbs/hearts/18.webp",
+   "emojis": [
+    "💞"
+   ],
+   "tags": [
+    "revolving",
+    "revolving hearts"
+   ],
+   "bytes": 32260,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-27",
+   "title": "People hugging",
+   "file": "media/stickers/people-reacting/26.webp",
+   "thumb": "media/thumbs/people-reacting/26.webp",
+   "emojis": [
+    "🫂"
+   ],
+   "tags": [
+    "goodbye",
+    "hello",
+    "hug",
+    "people hugging",
+    "thanks"
+   ],
+   "bytes": 17532,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-28",
+   "title": "Cherry blossom",
+   "file": "media/stickers/love-mood/28.webp",
+   "thumb": "media/thumbs/love-mood/28.webp",
+   "emojis": [
+    "🌸"
+   ],
+   "tags": [
+    "blossom",
+    "cherry",
+    "flower"
+   ],
+   "bytes": 24550,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-29",
+   "title": "Strawberry",
+   "file": "media/stickers/love-mood/29.webp",
+   "thumb": "media/thumbs/love-mood/29.webp",
+   "emojis": [
+    "🍓"
+   ],
+   "tags": [
+    "berry",
+    "fruit",
+    "strawberry"
+   ],
+   "bytes": 18998,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "love-mood-30",
+   "title": "Ribbon",
+   "file": "media/stickers/love-mood/30.webp",
+   "thumb": "media/thumbs/love-mood/30.webp",
+   "emojis": [
+    "🎀"
+   ],
+   "tags": [
+    "celebration",
+    "ribbon"
+   ],
+   "bytes": 23194,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "id": "cats-7bd6e1b6",
+ "title": "Bhai ki nayi gaari pe pehla haq mera hai",
+ "category": "memes-cats",
+ "file": "media/memes/memes-cats/cats-7bd6e1b6.webp",
+ "thumb": "media/meme-thumbs/memes-cats/cats-7bd6e1b6.webp",
+ "width": 1080,
+ "height": 960,
+ "bytes": 163308,
+ "fileType": "image/webp",
+ "language": "ur-Latn",
+ "format": "caption",
+ "text": "Bhai ki nayi gaari pe pehla haq mera hai",
+ "tags": [
+  "bhai",
+  "brother",
+  "car",
+  "cat",
+  "gaari",
+  "hai",
+  "haq",
+  "mera",
+  "nayi",
+  "pehla"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Jakub Hałun",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACat_in_Piran%2C_Slovenia%2C_20240504_1600_8594.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

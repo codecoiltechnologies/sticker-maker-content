@@ -1,0 +1,561 @@
+{
+ "id": "wild-faces",
+ "title": "Wild Faces",
+ "category": "funny",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/wild-faces.png",
+ "cover": "media/covers/wild-faces.webp",
+ "stickers": [
+  {
+   "id": "wild-faces-01",
+   "title": "Face with steam from nose",
+   "file": "media/stickers/wild-faces/01.webp",
+   "thumb": "media/thumbs/wild-faces/01.webp",
+   "emojis": [
+    "😤"
+   ],
+   "tags": [
+    "face",
+    "face with steam from nose",
+    "triumph",
+    "won"
+   ],
+   "bytes": 27670,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-02",
+   "title": "Pouting face",
+   "file": "media/stickers/wild-faces/02.webp",
+   "thumb": "media/thumbs/wild-faces/02.webp",
+   "emojis": [
+    "😡"
+   ],
+   "tags": [
+    "angry",
+    "face",
+    "mad",
+    "pouting",
+    "rage",
+    "red"
+   ],
+   "bytes": 25860,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-03",
+   "title": "Angry face",
+   "file": "media/stickers/wild-faces/03.webp",
+   "thumb": "media/thumbs/wild-faces/03.webp",
+   "emojis": [
+    "😠"
+   ],
+   "tags": [
+    "anger",
+    "angry",
+    "face",
+    "mad"
+   ],
+   "bytes": 26376,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-04",
+   "title": "Face with symbols on mouth",
+   "file": "media/stickers/wild-faces/04.webp",
+   "thumb": "media/thumbs/wild-faces/04.webp",
+   "emojis": [
+    "🤬"
+   ],
+   "tags": [
+    "face with symbols on mouth",
+    "swearing"
+   ],
+   "bytes": 28564,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-05",
+   "title": "Smiling face with horns",
+   "file": "media/stickers/wild-faces/05.webp",
+   "thumb": "media/thumbs/wild-faces/05.webp",
+   "emojis": [
+    "😈"
+   ],
+   "tags": [
+    "face",
+    "fairy tale",
+    "fantasy",
+    "horns",
+    "smile",
+    "smiling face with horns"
+   ],
+   "bytes": 27634,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-06",
+   "title": "Angry face with horns",
+   "file": "media/stickers/wild-faces/06.webp",
+   "thumb": "media/thumbs/wild-faces/06.webp",
+   "emojis": [
+    "👿"
+   ],
+   "tags": [
+    "angry face with horns",
+    "demon",
+    "devil",
+    "face",
+    "fantasy",
+    "imp"
+   ],
+   "bytes": 27728,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-07",
+   "title": "Skull",
+   "file": "media/stickers/wild-faces/07.webp",
+   "thumb": "media/thumbs/wild-faces/07.webp",
+   "emojis": [
+    "💀"
+   ],
+   "tags": [
+    "death",
+    "face",
+    "fairy tale",
+    "monster",
+    "skull"
+   ],
+   "bytes": 20010,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-08",
+   "title": "Skull and crossbones",
+   "file": "media/stickers/wild-faces/08.webp",
+   "thumb": "media/thumbs/wild-faces/08.webp",
+   "emojis": [
+    "☠️"
+   ],
+   "tags": [
+    "crossbones",
+    "death",
+    "face",
+    "monster",
+    "skull",
+    "skull and crossbones"
+   ],
+   "bytes": 27784,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-09",
+   "title": "Pile of poo",
+   "file": "media/stickers/wild-faces/09.webp",
+   "thumb": "media/thumbs/wild-faces/09.webp",
+   "emojis": [
+    "💩"
+   ],
+   "tags": [
+    "dung",
+    "face",
+    "monster",
+    "pile of poo",
+    "poo",
+    "poop"
+   ],
+   "bytes": 21184,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-10",
+   "title": "Clown face",
+   "file": "media/stickers/wild-faces/10.webp",
+   "thumb": "media/thumbs/wild-faces/10.webp",
+   "emojis": [
+    "🤡"
+   ],
+   "tags": [
+    "clown",
+    "face"
+   ],
+   "bytes": 31906,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-11",
+   "title": "Ogre",
+   "file": "media/stickers/wild-faces/11.webp",
+   "thumb": "media/thumbs/wild-faces/11.webp",
+   "emojis": [
+    "👹"
+   ],
+   "tags": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "monster",
+    "ogre"
+   ],
+   "bytes": 32368,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-12",
+   "title": "Goblin",
+   "file": "media/stickers/wild-faces/12.webp",
+   "thumb": "media/thumbs/wild-faces/12.webp",
+   "emojis": [
+    "👺"
+   ],
+   "tags": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "goblin",
+    "monster"
+   ],
+   "bytes": 20178,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-13",
+   "title": "Ghost",
+   "file": "media/stickers/wild-faces/13.webp",
+   "thumb": "media/thumbs/wild-faces/13.webp",
+   "emojis": [
+    "👻"
+   ],
+   "tags": [
+    "creature",
+    "face",
+    "fairy tale",
+    "fantasy",
+    "ghost",
+    "monster"
+   ],
+   "bytes": 19632,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-14",
+   "title": "Alien",
+   "file": "media/stickers/wild-faces/14.webp",
+   "thumb": "media/thumbs/wild-faces/14.webp",
+   "emojis": [
+    "👽"
+   ],
+   "tags": [
+    "alien",
+    "creature",
+    "extraterrestrial",
+    "face",
+    "fantasy",
+    "ufo"
+   ],
+   "bytes": 23370,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-15",
+   "title": "Alien monster",
+   "file": "media/stickers/wild-faces/15.webp",
+   "thumb": "media/thumbs/wild-faces/15.webp",
+   "emojis": [
+    "👾"
+   ],
+   "tags": [
+    "alien",
+    "creature",
+    "extraterrestrial",
+    "face",
+    "monster",
+    "ufo"
+   ],
+   "bytes": 21682,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-16",
+   "title": "Robot",
+   "file": "media/stickers/wild-faces/16.webp",
+   "thumb": "media/thumbs/wild-faces/16.webp",
+   "emojis": [
+    "🤖"
+   ],
+   "tags": [
+    "face",
+    "monster",
+    "robot"
+   ],
+   "bytes": 22842,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-17",
+   "title": "Face with medical mask",
+   "file": "media/stickers/wild-faces/17.webp",
+   "thumb": "media/thumbs/wild-faces/17.webp",
+   "emojis": [
+    "😷"
+   ],
+   "tags": [
+    "cold",
+    "doctor",
+    "face",
+    "face with medical mask",
+    "mask",
+    "sick"
+   ],
+   "bytes": 26834,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-18",
+   "title": "Face with thermometer",
+   "file": "media/stickers/wild-faces/18.webp",
+   "thumb": "media/thumbs/wild-faces/18.webp",
+   "emojis": [
+    "🤒"
+   ],
+   "tags": [
+    "face",
+    "face with thermometer",
+    "ill",
+    "sick",
+    "thermometer"
+   ],
+   "bytes": 28760,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-19",
+   "title": "Face with head-bandage",
+   "file": "media/stickers/wild-faces/19.webp",
+   "thumb": "media/thumbs/wild-faces/19.webp",
+   "emojis": [
+    "🤕"
+   ],
+   "tags": [
+    "bandage",
+    "face",
+    "face with head-bandage",
+    "hurt",
+    "injury"
+   ],
+   "bytes": 26288,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-20",
+   "title": "Nauseated face",
+   "file": "media/stickers/wild-faces/20.webp",
+   "thumb": "media/thumbs/wild-faces/20.webp",
+   "emojis": [
+    "🤢"
+   ],
+   "tags": [
+    "face",
+    "nauseated",
+    "vomit"
+   ],
+   "bytes": 26380,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-21",
+   "title": "Face vomiting",
+   "file": "media/stickers/wild-faces/21.webp",
+   "thumb": "media/thumbs/wild-faces/21.webp",
+   "emojis": [
+    "🤮"
+   ],
+   "tags": [
+    "face vomiting",
+    "puke",
+    "sick",
+    "vomit"
+   ],
+   "bytes": 25120,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-22",
+   "title": "Sneezing face",
+   "file": "media/stickers/wild-faces/22.webp",
+   "thumb": "media/thumbs/wild-faces/22.webp",
+   "emojis": [
+    "🤧"
+   ],
+   "tags": [
+    "face",
+    "gesundheit",
+    "sneeze",
+    "sneezing face"
+   ],
+   "bytes": 25770,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-23",
+   "title": "Hot face",
+   "file": "media/stickers/wild-faces/23.webp",
+   "thumb": "media/thumbs/wild-faces/23.webp",
+   "emojis": [
+    "🥵"
+   ],
+   "tags": [
+    "feverish",
+    "heat stroke",
+    "hot",
+    "hot face",
+    "red-faced",
+    "sweating"
+   ],
+   "bytes": 28054,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-24",
+   "title": "Cold face",
+   "file": "media/stickers/wild-faces/24.webp",
+   "thumb": "media/thumbs/wild-faces/24.webp",
+   "emojis": [
+    "🥶"
+   ],
+   "tags": [
+    "blue-faced",
+    "cold",
+    "cold face",
+    "freezing",
+    "frostbite",
+    "icicles"
+   ],
+   "bytes": 24626,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-25",
+   "title": "Woozy face",
+   "file": "media/stickers/wild-faces/25.webp",
+   "thumb": "media/thumbs/wild-faces/25.webp",
+   "emojis": [
+    "🥴"
+   ],
+   "tags": [
+    "dizzy",
+    "intoxicated",
+    "tipsy",
+    "uneven eyes",
+    "wavy mouth",
+    "woozy face"
+   ],
+   "bytes": 27684,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-26",
+   "title": "Knocked-out face",
+   "file": "media/stickers/wild-faces/26.webp",
+   "thumb": "media/thumbs/wild-faces/26.webp",
+   "emojis": [
+    "😵"
+   ],
+   "tags": [
+    "crossed-out eyes",
+    "dead",
+    "face",
+    "face with crossed-out eyes",
+    "knocked out"
+   ],
+   "bytes": 24980,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-27",
+   "title": "Face with spiral eyes",
+   "file": "media/stickers/wild-faces/27.webp",
+   "thumb": "media/thumbs/wild-faces/27.webp",
+   "emojis": [
+    "😵‍💫"
+   ],
+   "tags": [
+    "dizzy",
+    "face with spiral eyes",
+    "hypnotized",
+    "spiral",
+    "trouble",
+    "whoa"
+   ],
+   "bytes": 30450,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-28",
+   "title": "Exploding head",
+   "file": "media/stickers/wild-faces/28.webp",
+   "thumb": "media/thumbs/wild-faces/28.webp",
+   "emojis": [
+    "🤯"
+   ],
+   "tags": [
+    "exploding head",
+    "mind blown",
+    "shocked"
+   ],
+   "bytes": 24172,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "wild-faces-29",
+   "title": "Partying face",
+   "file": "media/stickers/wild-faces/29.webp",
+   "thumb": "media/thumbs/wild-faces/29.webp",
+   "emojis": [
+    "🥳"
+   ],
+   "tags": [
+    "celebration",
+    "hat",
+    "horn",
+    "party",
+    "partying face"
+   ],
+   "bytes": 30300,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

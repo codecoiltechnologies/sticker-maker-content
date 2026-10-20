@@ -1,0 +1,525 @@
+{
+ "id": "animated-party-food",
+ "title": "Animated Party & Food",
+ "category": "animated",
+ "type": "animated",
+ "language": "",
+ "tray": "media/trays/animated-party-food.png",
+ "cover": "media/covers/animated-party-food.webp",
+ "stickers": [
+  {
+   "id": "animated-party-food-01",
+   "title": "Sparkles",
+   "file": "media/stickers/animated-party-food/01.webp",
+   "thumb": "media/thumbs/animated-party-food/01.webp",
+   "gif": "media/gifs/animated-party-food/01.gif",
+   "emojis": [
+    "✨"
+   ],
+   "tags": [
+    "sparkles"
+   ],
+   "bytes": 192956,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-02",
+   "title": "Ice cream",
+   "file": "media/stickers/animated-party-food/02.webp",
+   "thumb": "media/thumbs/animated-party-food/02.webp",
+   "gif": "media/gifs/animated-party-food/02.gif",
+   "emojis": [
+    "🍨"
+   ],
+   "tags": [
+    "ice-cream"
+   ],
+   "bytes": 217980,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-03",
+   "title": "Bread",
+   "file": "media/stickers/animated-party-food/03.webp",
+   "thumb": "media/thumbs/animated-party-food/03.webp",
+   "gif": "media/gifs/animated-party-food/03.gif",
+   "emojis": [
+    "🍞"
+   ],
+   "tags": [
+    "bread"
+   ],
+   "bytes": 214824,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-04",
+   "title": "Bubble tea",
+   "file": "media/stickers/animated-party-food/04.webp",
+   "thumb": "media/thumbs/animated-party-food/04.webp",
+   "gif": "media/gifs/animated-party-food/04.gif",
+   "emojis": [
+    "🧋"
+   ],
+   "tags": [
+    "bubble-tea",
+    "milk-tea"
+   ],
+   "bytes": 425534,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-05",
+   "title": "Strawberry",
+   "file": "media/stickers/animated-party-food/05.webp",
+   "thumb": "media/thumbs/animated-party-food/05.webp",
+   "gif": "media/gifs/animated-party-food/05.gif",
+   "emojis": [
+    "🍓"
+   ],
+   "tags": [
+    "strawberry"
+   ],
+   "bytes": 360666,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-06",
+   "title": "1st place medal",
+   "file": "media/stickers/animated-party-food/06.webp",
+   "thumb": "media/thumbs/animated-party-food/06.webp",
+   "gif": "media/gifs/animated-party-food/06.gif",
+   "emojis": [
+    "🥇"
+   ],
+   "tags": [
+    "1st-place-medal",
+    "gold-medal"
+   ],
+   "bytes": 383770,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-07",
+   "title": "Spaghetti",
+   "file": "media/stickers/animated-party-food/07.webp",
+   "thumb": "media/thumbs/animated-party-food/07.webp",
+   "gif": "media/gifs/animated-party-food/07.gif",
+   "emojis": [
+    "🍝"
+   ],
+   "tags": [
+    "spaghetti"
+   ],
+   "bytes": 460668,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-08",
+   "title": "Party popper",
+   "file": "media/stickers/animated-party-food/08.webp",
+   "thumb": "media/thumbs/animated-party-food/08.webp",
+   "gif": "media/gifs/animated-party-food/08.gif",
+   "emojis": [
+    "🎉"
+   ],
+   "tags": [
+    "party-popper"
+   ],
+   "bytes": 300334,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-09",
+   "title": "Soft ice cream",
+   "file": "media/stickers/animated-party-food/09.webp",
+   "thumb": "media/thumbs/animated-party-food/09.webp",
+   "gif": "media/gifs/animated-party-food/09.gif",
+   "emojis": [
+    "🍦"
+   ],
+   "tags": [
+    "soft-ice-cream"
+   ],
+   "bytes": 329020,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-10",
+   "title": "Pancakes",
+   "file": "media/stickers/animated-party-food/10.webp",
+   "thumb": "media/thumbs/animated-party-food/10.webp",
+   "gif": "media/gifs/animated-party-food/10.gif",
+   "emojis": [
+    "🥞"
+   ],
+   "tags": [
+    "pancakes"
+   ],
+   "bytes": 454654,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-11",
+   "title": "Beverage box",
+   "file": "media/stickers/animated-party-food/11.webp",
+   "thumb": "media/thumbs/animated-party-food/11.webp",
+   "gif": "media/gifs/animated-party-food/11.gif",
+   "emojis": [
+    "🧃"
+   ],
+   "tags": [
+    "beverage-box"
+   ],
+   "bytes": 353166,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-12",
+   "title": "Cherries",
+   "file": "media/stickers/animated-party-food/12.webp",
+   "thumb": "media/thumbs/animated-party-food/12.webp",
+   "gif": "media/gifs/animated-party-food/12.gif",
+   "emojis": [
+    "🍒"
+   ],
+   "tags": [
+    "cherries"
+   ],
+   "bytes": 317606,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-13",
+   "title": "2nd place medal",
+   "file": "media/stickers/animated-party-food/13.webp",
+   "thumb": "media/thumbs/animated-party-food/13.webp",
+   "gif": "media/gifs/animated-party-food/13.gif",
+   "emojis": [
+    "🥈"
+   ],
+   "tags": [
+    "2nd-place-medal",
+    "silver-medal"
+   ],
+   "bytes": 265258,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-14",
+   "title": "Steaming bowl",
+   "file": "media/stickers/animated-party-food/14.webp",
+   "thumb": "media/thumbs/animated-party-food/14.webp",
+   "gif": "media/gifs/animated-party-food/14.gif",
+   "emojis": [
+    "🍜"
+   ],
+   "tags": [
+    "steaming-bowl"
+   ],
+   "bytes": 437436,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-15",
+   "title": "Confetti ball",
+   "file": "media/stickers/animated-party-food/15.webp",
+   "thumb": "media/thumbs/animated-party-food/15.webp",
+   "gif": "media/gifs/animated-party-food/15.gif",
+   "emojis": [
+    "🎊"
+   ],
+   "tags": [
+    "confetti-ball"
+   ],
+   "bytes": 366850,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-16",
+   "title": "Pie",
+   "file": "media/stickers/animated-party-food/16.webp",
+   "thumb": "media/thumbs/animated-party-food/16.webp",
+   "gif": "media/gifs/animated-party-food/16.gif",
+   "emojis": [
+    "🥧"
+   ],
+   "tags": [
+    "pie"
+   ],
+   "bytes": 250994,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-17",
+   "title": "Cooking",
+   "file": "media/stickers/animated-party-food/17.webp",
+   "thumb": "media/thumbs/animated-party-food/17.webp",
+   "gif": "media/gifs/animated-party-food/17.gif",
+   "emojis": [
+    "🍳"
+   ],
+   "tags": [
+    "cooking"
+   ],
+   "bytes": 345676,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-18",
+   "title": "Baby bottle",
+   "file": "media/stickers/animated-party-food/18.webp",
+   "thumb": "media/thumbs/animated-party-food/18.webp",
+   "gif": "media/gifs/animated-party-food/18.gif",
+   "emojis": [
+    "🍼"
+   ],
+   "tags": [
+    "baby-bottle"
+   ],
+   "bytes": 484952,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-19",
+   "title": "Red apple",
+   "file": "media/stickers/animated-party-food/19.webp",
+   "thumb": "media/thumbs/animated-party-food/19.webp",
+   "gif": "media/gifs/animated-party-food/19.gif",
+   "emojis": [
+    "🍎"
+   ],
+   "tags": [
+    "red-apple"
+   ],
+   "bytes": 184260,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-20",
+   "title": "3rd place medal",
+   "file": "media/stickers/animated-party-food/20.webp",
+   "thumb": "media/thumbs/animated-party-food/20.webp",
+   "gif": "media/gifs/animated-party-food/20.gif",
+   "emojis": [
+    "🥉"
+   ],
+   "tags": [
+    "3rd-place-medal",
+    "bronze-medal"
+   ],
+   "bytes": 420570,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-21",
+   "title": "Oden",
+   "file": "media/stickers/animated-party-food/21.webp",
+   "thumb": "media/thumbs/animated-party-food/21.webp",
+   "gif": "media/gifs/animated-party-food/21.gif",
+   "emojis": [
+    "🍢"
+   ],
+   "tags": [
+    "oden"
+   ],
+   "bytes": 425524,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-22",
+   "title": "Balloon",
+   "file": "media/stickers/animated-party-food/22.webp",
+   "thumb": "media/thumbs/animated-party-food/22.webp",
+   "gif": "media/gifs/animated-party-food/22.gif",
+   "emojis": [
+    "🎈"
+   ],
+   "tags": [
+    "balloon"
+   ],
+   "bytes": 193310,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-23",
+   "title": "Doughnut",
+   "file": "media/stickers/animated-party-food/23.webp",
+   "thumb": "media/thumbs/animated-party-food/23.webp",
+   "gif": "media/gifs/animated-party-food/23.gif",
+   "emojis": [
+    "🍩"
+   ],
+   "tags": [
+    "doughnut"
+   ],
+   "bytes": 295980,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-24",
+   "title": "Cheese wedge",
+   "file": "media/stickers/animated-party-food/24.webp",
+   "thumb": "media/thumbs/animated-party-food/24.webp",
+   "gif": "media/gifs/animated-party-food/24.gif",
+   "emojis": [
+    "🧀"
+   ],
+   "tags": [
+    "cheese-wedge"
+   ],
+   "bytes": 82588,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-25",
+   "title": "Teacup without handle",
+   "file": "media/stickers/animated-party-food/25.webp",
+   "thumb": "media/thumbs/animated-party-food/25.webp",
+   "gif": "media/gifs/animated-party-food/25.gif",
+   "emojis": [
+    "🍵"
+   ],
+   "tags": [
+    "teacup-without-handle"
+   ],
+   "bytes": 143716,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-26",
+   "title": "Tomato",
+   "file": "media/stickers/animated-party-food/26.webp",
+   "thumb": "media/thumbs/animated-party-food/26.webp",
+   "gif": "media/gifs/animated-party-food/26.gif",
+   "emojis": [
+    "🍅"
+   ],
+   "tags": [
+    "tomato"
+   ],
+   "bytes": 339152,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-27",
+   "title": "Trophy",
+   "file": "media/stickers/animated-party-food/27.webp",
+   "thumb": "media/thumbs/animated-party-food/27.webp",
+   "gif": "media/gifs/animated-party-food/27.gif",
+   "emojis": [
+    "🏆"
+   ],
+   "tags": [
+    "trophy"
+   ],
+   "bytes": 478532,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-28",
+   "title": "Dango",
+   "file": "media/stickers/animated-party-food/28.webp",
+   "thumb": "media/thumbs/animated-party-food/28.webp",
+   "gif": "media/gifs/animated-party-food/28.gif",
+   "emojis": [
+    "🍡"
+   ],
+   "tags": [
+    "dango"
+   ],
+   "bytes": 241160,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-29",
+   "title": "Wrapped gift",
+   "file": "media/stickers/animated-party-food/29.webp",
+   "thumb": "media/thumbs/animated-party-food/29.webp",
+   "gif": "media/gifs/animated-party-food/29.gif",
+   "emojis": [
+    "🎁"
+   ],
+   "tags": [
+    "wrapped-gift"
+   ],
+   "bytes": 465352,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-party-food-30",
+   "title": "Cookie",
+   "file": "media/stickers/animated-party-food/30.webp",
+   "thumb": "media/thumbs/animated-party-food/30.webp",
+   "gif": "media/gifs/animated-party-food/30.gif",
+   "emojis": [
+    "🍪"
+   ],
+   "tags": [
+    "cookie"
+   ],
+   "bytes": 425988,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  }
+ ]
+}

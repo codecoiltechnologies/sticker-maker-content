@@ -1,0 +1,537 @@
+{
+ "id": "people-reacting",
+ "title": "People Reacting",
+ "category": "reactions",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/people-reacting.png",
+ "cover": "media/covers/people-reacting.webp",
+ "stickers": [
+  {
+   "id": "people-reacting-01",
+   "title": "Person raising hand",
+   "file": "media/stickers/people-reacting/01.webp",
+   "thumb": "media/thumbs/people-reacting/01.webp",
+   "emojis": [
+    "🙋"
+   ],
+   "tags": [
+    "gesture",
+    "hand",
+    "happy",
+    "person raising hand",
+    "raised"
+   ],
+   "bytes": 29036,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-02",
+   "title": "Man raising hand",
+   "file": "media/stickers/people-reacting/02.webp",
+   "thumb": "media/thumbs/people-reacting/02.webp",
+   "emojis": [
+    "🙋‍♂️"
+   ],
+   "tags": [
+    "gesture",
+    "man",
+    "man raising hand",
+    "raising hand"
+   ],
+   "bytes": 29584,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-03",
+   "title": "Woman raising hand",
+   "file": "media/stickers/people-reacting/03.webp",
+   "thumb": "media/thumbs/people-reacting/03.webp",
+   "emojis": [
+    "🙋‍♀️"
+   ],
+   "tags": [
+    "gesture",
+    "raising hand",
+    "woman",
+    "woman raising hand"
+   ],
+   "bytes": 28910,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-04",
+   "title": "Person facepalming",
+   "file": "media/stickers/people-reacting/04.webp",
+   "thumb": "media/thumbs/people-reacting/04.webp",
+   "emojis": [
+    "🤦"
+   ],
+   "tags": [
+    "disbelief",
+    "exasperation",
+    "face",
+    "palm",
+    "person facepalming"
+   ],
+   "bytes": 20854,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-05",
+   "title": "Man facepalming",
+   "file": "media/stickers/people-reacting/05.webp",
+   "thumb": "media/thumbs/people-reacting/05.webp",
+   "emojis": [
+    "🤦‍♂️"
+   ],
+   "tags": [
+    "disbelief",
+    "exasperation",
+    "facepalm",
+    "man",
+    "man facepalming"
+   ],
+   "bytes": 20758,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-06",
+   "title": "Woman facepalming",
+   "file": "media/stickers/people-reacting/06.webp",
+   "thumb": "media/thumbs/people-reacting/06.webp",
+   "emojis": [
+    "🤦‍♀️"
+   ],
+   "tags": [
+    "disbelief",
+    "exasperation",
+    "facepalm",
+    "woman",
+    "woman facepalming"
+   ],
+   "bytes": 21222,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-07",
+   "title": "Person shrugging",
+   "file": "media/stickers/people-reacting/07.webp",
+   "thumb": "media/thumbs/people-reacting/07.webp",
+   "emojis": [
+    "🤷"
+   ],
+   "tags": [
+    "doubt",
+    "ignorance",
+    "indifference",
+    "person shrugging",
+    "shrug"
+   ],
+   "bytes": 27274,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-08",
+   "title": "Man shrugging",
+   "file": "media/stickers/people-reacting/08.webp",
+   "thumb": "media/thumbs/people-reacting/08.webp",
+   "emojis": [
+    "🤷‍♂️"
+   ],
+   "tags": [
+    "doubt",
+    "ignorance",
+    "indifference",
+    "man",
+    "man shrugging",
+    "shrug"
+   ],
+   "bytes": 27098,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-09",
+   "title": "Woman shrugging",
+   "file": "media/stickers/people-reacting/09.webp",
+   "thumb": "media/thumbs/people-reacting/09.webp",
+   "emojis": [
+    "🤷‍♀️"
+   ],
+   "tags": [
+    "doubt",
+    "ignorance",
+    "indifference",
+    "shrug",
+    "woman",
+    "woman shrugging"
+   ],
+   "bytes": 27732,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-10",
+   "title": "Person gesturing no",
+   "file": "media/stickers/people-reacting/10.webp",
+   "thumb": "media/thumbs/people-reacting/10.webp",
+   "emojis": [
+    "🙅"
+   ],
+   "tags": [
+    "forbidden",
+    "gesture",
+    "hand",
+    "person gesturing NO",
+    "prohibited"
+   ],
+   "bytes": 29194,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-11",
+   "title": "Man gesturing no",
+   "file": "media/stickers/people-reacting/11.webp",
+   "thumb": "media/thumbs/people-reacting/11.webp",
+   "emojis": [
+    "🙅‍♂️"
+   ],
+   "tags": [
+    "forbidden",
+    "gesture",
+    "hand",
+    "man",
+    "man gesturing NO",
+    "prohibited"
+   ],
+   "bytes": 30968,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-12",
+   "title": "Woman gesturing no",
+   "file": "media/stickers/people-reacting/12.webp",
+   "thumb": "media/thumbs/people-reacting/12.webp",
+   "emojis": [
+    "🙅‍♀️"
+   ],
+   "tags": [
+    "forbidden",
+    "gesture",
+    "hand",
+    "prohibited",
+    "woman",
+    "woman gesturing NO"
+   ],
+   "bytes": 29076,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-13",
+   "title": "Person gesturing ok",
+   "file": "media/stickers/people-reacting/13.webp",
+   "thumb": "media/thumbs/people-reacting/13.webp",
+   "emojis": [
+    "🙆"
+   ],
+   "tags": [
+    "OK",
+    "gesture",
+    "hand",
+    "person gesturing OK"
+   ],
+   "bytes": 37518,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-14",
+   "title": "Man gesturing ok",
+   "file": "media/stickers/people-reacting/14.webp",
+   "thumb": "media/thumbs/people-reacting/14.webp",
+   "emojis": [
+    "🙆‍♂️"
+   ],
+   "tags": [
+    "OK",
+    "gesture",
+    "hand",
+    "man",
+    "man gesturing OK"
+   ],
+   "bytes": 38054,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-15",
+   "title": "Woman gesturing ok",
+   "file": "media/stickers/people-reacting/15.webp",
+   "thumb": "media/thumbs/people-reacting/15.webp",
+   "emojis": [
+    "🙆‍♀️"
+   ],
+   "tags": [
+    "OK",
+    "gesture",
+    "hand",
+    "woman",
+    "woman gesturing OK"
+   ],
+   "bytes": 31254,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-16",
+   "title": "Person tipping hand",
+   "file": "media/stickers/people-reacting/16.webp",
+   "thumb": "media/thumbs/people-reacting/16.webp",
+   "emojis": [
+    "💁"
+   ],
+   "tags": [
+    "hand",
+    "help",
+    "information",
+    "person tipping hand",
+    "sassy",
+    "tipping"
+   ],
+   "bytes": 26656,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-17",
+   "title": "Man tipping hand",
+   "file": "media/stickers/people-reacting/17.webp",
+   "thumb": "media/thumbs/people-reacting/17.webp",
+   "emojis": [
+    "💁‍♂️"
+   ],
+   "tags": [
+    "man",
+    "man tipping hand",
+    "sassy",
+    "tipping hand"
+   ],
+   "bytes": 25970,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-18",
+   "title": "Woman tipping hand",
+   "file": "media/stickers/people-reacting/18.webp",
+   "thumb": "media/thumbs/people-reacting/18.webp",
+   "emojis": [
+    "💁‍♀️"
+   ],
+   "tags": [
+    "sassy",
+    "tipping hand",
+    "woman",
+    "woman tipping hand"
+   ],
+   "bytes": 24668,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-19",
+   "title": "Person bowing",
+   "file": "media/stickers/people-reacting/19.webp",
+   "thumb": "media/thumbs/people-reacting/19.webp",
+   "emojis": [
+    "🙇"
+   ],
+   "tags": [
+    "apology",
+    "bow",
+    "gesture",
+    "person bowing",
+    "sorry"
+   ],
+   "bytes": 26410,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-20",
+   "title": "Man bowing",
+   "file": "media/stickers/people-reacting/20.webp",
+   "thumb": "media/thumbs/people-reacting/20.webp",
+   "emojis": [
+    "🙇‍♂️"
+   ],
+   "tags": [
+    "apology",
+    "bowing",
+    "favor",
+    "gesture",
+    "man",
+    "sorry"
+   ],
+   "bytes": 28240,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-21",
+   "title": "Woman bowing",
+   "file": "media/stickers/people-reacting/21.webp",
+   "thumb": "media/thumbs/people-reacting/21.webp",
+   "emojis": [
+    "🙇‍♀️"
+   ],
+   "tags": [
+    "apology",
+    "bowing",
+    "favor",
+    "gesture",
+    "sorry",
+    "woman"
+   ],
+   "bytes": 29078,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-22",
+   "title": "Person frowning",
+   "file": "media/stickers/people-reacting/22.webp",
+   "thumb": "media/thumbs/people-reacting/22.webp",
+   "emojis": [
+    "🙍"
+   ],
+   "tags": [
+    "frown",
+    "gesture",
+    "person frowning"
+   ],
+   "bytes": 21130,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-23",
+   "title": "Person pouting",
+   "file": "media/stickers/people-reacting/23.webp",
+   "thumb": "media/thumbs/people-reacting/23.webp",
+   "emojis": [
+    "🙎"
+   ],
+   "tags": [
+    "gesture",
+    "person pouting",
+    "pouting"
+   ],
+   "bytes": 23198,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-24",
+   "title": "Deaf person",
+   "file": "media/stickers/people-reacting/24.webp",
+   "thumb": "media/thumbs/people-reacting/24.webp",
+   "emojis": [
+    "🧏"
+   ],
+   "tags": [
+    "accessibility",
+    "deaf",
+    "deaf person",
+    "ear",
+    "hear"
+   ],
+   "bytes": 21464,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-25",
+   "title": "Speaking head",
+   "file": "media/stickers/people-reacting/25.webp",
+   "thumb": "media/thumbs/people-reacting/25.webp",
+   "emojis": [
+    "🗣️"
+   ],
+   "tags": [
+    "face",
+    "head",
+    "silhouette",
+    "speak",
+    "speaking"
+   ],
+   "bytes": 18978,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-26",
+   "title": "People hugging",
+   "file": "media/stickers/people-reacting/26.webp",
+   "thumb": "media/thumbs/people-reacting/26.webp",
+   "emojis": [
+    "🫂"
+   ],
+   "tags": [
+    "goodbye",
+    "hello",
+    "hug",
+    "people hugging",
+    "thanks"
+   ],
+   "bytes": 17532,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-27",
+   "title": "Woman dancing",
+   "file": "media/stickers/people-reacting/27.webp",
+   "thumb": "media/thumbs/people-reacting/27.webp",
+   "emojis": [
+    "💃"
+   ],
+   "tags": [
+    "dance",
+    "dancing",
+    "woman"
+   ],
+   "bytes": 29502,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "people-reacting-28",
+   "title": "Man dancing",
+   "file": "media/stickers/people-reacting/28.webp",
+   "thumb": "media/thumbs/people-reacting/28.webp",
+   "emojis": [
+    "🕺"
+   ],
+   "tags": [
+    "dance",
+    "dancing",
+    "man"
+   ],
+   "bytes": 28906,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "id": "flowers-plants",
+ "title": "Flowers & Plants",
+ "category": "nature",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/flowers-plants.png",
+ "cover": "media/covers/flowers-plants.webp",
+ "stickers": [
+  {
+   "id": "flowers-plants-01",
+   "title": "Cherry blossom",
+   "file": "media/stickers/love-mood/28.webp",
+   "thumb": "media/thumbs/love-mood/28.webp",
+   "emojis": [
+    "🌸"
+   ],
+   "tags": [
+    "blossom",
+    "cherry",
+    "flower"
+   ],
+   "bytes": 24550,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-02",
+   "title": "White flower",
+   "file": "media/stickers/flowers-plants/02.webp",
+   "thumb": "media/thumbs/flowers-plants/02.webp",
+   "emojis": [
+    "💮"
+   ],
+   "tags": [
+    "flower",
+    "white flower"
+   ],
+   "bytes": 30230,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-03",
+   "title": "Rosette",
+   "file": "media/stickers/flowers-plants/03.webp",
+   "thumb": "media/thumbs/flowers-plants/03.webp",
+   "emojis": [
+    "🏵️"
+   ],
+   "tags": [
+    "plant",
+    "rosette"
+   ],
+   "bytes": 29520,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-04",
+   "title": "Rose",
+   "file": "media/stickers/hearts/28.webp",
+   "thumb": "media/thumbs/hearts/28.webp",
+   "emojis": [
+    "🌹"
+   ],
+   "tags": [
+    "flower",
+    "rose"
+   ],
+   "bytes": 17508,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-05",
+   "title": "Wilted flower",
+   "file": "media/stickers/love-mood/12.webp",
+   "thumb": "media/thumbs/love-mood/12.webp",
+   "emojis": [
+    "🥀"
+   ],
+   "tags": [
+    "flower",
+    "wilted"
+   ],
+   "bytes": 30200,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-06",
+   "title": "Hibiscus",
+   "file": "media/stickers/flowers-plants/06.webp",
+   "thumb": "media/thumbs/flowers-plants/06.webp",
+   "emojis": [
+    "🌺"
+   ],
+   "tags": [
+    "flower",
+    "hibiscus"
+   ],
+   "bytes": 25388,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-07",
+   "title": "Sunflower",
+   "file": "media/stickers/flowers-plants/07.webp",
+   "thumb": "media/thumbs/flowers-plants/07.webp",
+   "emojis": [
+    "🌻"
+   ],
+   "tags": [
+    "flower",
+    "sun",
+    "sunflower"
+   ],
+   "bytes": 26108,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-08",
+   "title": "Blossom",
+   "file": "media/stickers/flowers-plants/08.webp",
+   "thumb": "media/thumbs/flowers-plants/08.webp",
+   "emojis": [
+    "🌼"
+   ],
+   "tags": [
+    "blossom",
+    "flower"
+   ],
+   "bytes": 21992,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-09",
+   "title": "Tulip",
+   "file": "media/stickers/love-mood/11.webp",
+   "thumb": "media/thumbs/love-mood/11.webp",
+   "emojis": [
+    "🌷"
+   ],
+   "tags": [
+    "flower",
+    "tulip"
+   ],
+   "bytes": 21768,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-10",
+   "title": "Lotus",
+   "file": "media/stickers/flowers-plants/10.webp",
+   "thumb": "media/thumbs/flowers-plants/10.webp",
+   "emojis": [
+    "🪷"
+   ],
+   "tags": [
+    "Buddhism",
+    "Hinduism",
+    "India",
+    "Vietnam",
+    "flower",
+    "lotus",
+    "purity"
+   ],
+   "bytes": 27852,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-11",
+   "title": "Hyacinth",
+   "file": "media/stickers/flowers-plants/11.webp",
+   "thumb": "media/thumbs/flowers-plants/11.webp",
+   "emojis": [
+    "🪻"
+   ],
+   "tags": [
+    "bluebonnet",
+    "flower",
+    "hyacinth",
+    "lavender",
+    "lupine",
+    "snapdragon"
+   ],
+   "bytes": 37096,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-12",
+   "title": "Bouquet",
+   "file": "media/stickers/hearts/27.webp",
+   "thumb": "media/thumbs/hearts/27.webp",
+   "emojis": [
+    "💐"
+   ],
+   "tags": [
+    "bouquet",
+    "flower"
+   ],
+   "bytes": 28670,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-13",
+   "title": "Seedling",
+   "file": "media/stickers/flowers-plants/13.webp",
+   "thumb": "media/thumbs/flowers-plants/13.webp",
+   "emojis": [
+    "🌱"
+   ],
+   "tags": [
+    "seedling",
+    "young"
+   ],
+   "bytes": 16652,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-14",
+   "title": "Potted plant",
+   "file": "media/stickers/flowers-plants/14.webp",
+   "thumb": "media/thumbs/flowers-plants/14.webp",
+   "emojis": [
+    "🪴"
+   ],
+   "tags": [
+    "boring",
+    "grow",
+    "house",
+    "nurturing",
+    "plant",
+    "potted plant",
+    "useless"
+   ],
+   "bytes": 28992,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-15",
+   "title": "Evergreen tree",
+   "file": "media/stickers/flowers-plants/15.webp",
+   "thumb": "media/thumbs/flowers-plants/15.webp",
+   "emojis": [
+    "🌲"
+   ],
+   "tags": [
+    "evergreen tree",
+    "tree"
+   ],
+   "bytes": 18946,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-16",
+   "title": "Deciduous tree",
+   "file": "media/stickers/flowers-plants/16.webp",
+   "thumb": "media/thumbs/flowers-plants/16.webp",
+   "emojis": [
+    "🌳"
+   ],
+   "tags": [
+    "deciduous",
+    "shedding",
+    "tree"
+   ],
+   "bytes": 15904,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-17",
+   "title": "Palm tree",
+   "file": "media/stickers/flowers-plants/17.webp",
+   "thumb": "media/thumbs/flowers-plants/17.webp",
+   "emojis": [
+    "🌴"
+   ],
+   "tags": [
+    "palm",
+    "tree"
+   ],
+   "bytes": 18000,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-18",
+   "title": "Cactus",
+   "file": "media/stickers/flowers-plants/18.webp",
+   "thumb": "media/thumbs/flowers-plants/18.webp",
+   "emojis": [
+    "🌵"
+   ],
+   "tags": [
+    "cactus",
+    "plant"
+   ],
+   "bytes": 22962,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-19",
+   "title": "Sheaf of rice",
+   "file": "media/stickers/flowers-plants/19.webp",
+   "thumb": "media/thumbs/flowers-plants/19.webp",
+   "emojis": [
+    "🌾"
+   ],
+   "tags": [
+    "ear",
+    "grain",
+    "rice",
+    "sheaf of rice"
+   ],
+   "bytes": 21110,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-20",
+   "title": "Herb",
+   "file": "media/stickers/flowers-plants/20.webp",
+   "thumb": "media/thumbs/flowers-plants/20.webp",
+   "emojis": [
+    "🌿"
+   ],
+   "tags": [
+    "herb",
+    "leaf"
+   ],
+   "bytes": 32062,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-21",
+   "title": "Shamrock",
+   "file": "media/stickers/flowers-plants/21.webp",
+   "thumb": "media/thumbs/flowers-plants/21.webp",
+   "emojis": [
+    "☘️"
+   ],
+   "tags": [
+    "plant",
+    "shamrock"
+   ],
+   "bytes": 27148,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-22",
+   "title": "Four leaf clover",
+   "file": "media/stickers/flowers-plants/22.webp",
+   "thumb": "media/thumbs/flowers-plants/22.webp",
+   "emojis": [
+    "🍀"
+   ],
+   "tags": [
+    "4",
+    "clover",
+    "four",
+    "four-leaf clover",
+    "leaf"
+   ],
+   "bytes": 25466,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-23",
+   "title": "Maple leaf",
+   "file": "media/stickers/flowers-plants/23.webp",
+   "thumb": "media/thumbs/flowers-plants/23.webp",
+   "emojis": [
+    "🍁"
+   ],
+   "tags": [
+    "falling",
+    "leaf",
+    "maple"
+   ],
+   "bytes": 22628,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-24",
+   "title": "Fallen leaf",
+   "file": "media/stickers/flowers-plants/24.webp",
+   "thumb": "media/thumbs/flowers-plants/24.webp",
+   "emojis": [
+    "🍂"
+   ],
+   "tags": [
+    "fallen leaf",
+    "falling",
+    "leaf"
+   ],
+   "bytes": 25704,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-25",
+   "title": "Leaf fluttering in wind",
+   "file": "media/stickers/flowers-plants/25.webp",
+   "thumb": "media/thumbs/flowers-plants/25.webp",
+   "emojis": [
+    "🍃"
+   ],
+   "tags": [
+    "blow",
+    "flutter",
+    "leaf",
+    "leaf fluttering in wind",
+    "wind"
+   ],
+   "bytes": 32556,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-26",
+   "title": "Mushroom",
+   "file": "media/stickers/flowers-plants/26.webp",
+   "thumb": "media/thumbs/flowers-plants/26.webp",
+   "emojis": [
+    "🍄"
+   ],
+   "tags": [
+    "mushroom",
+    "toadstool"
+   ],
+   "bytes": 21396,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-27",
+   "title": "Empty nest",
+   "file": "media/stickers/flowers-plants/27.webp",
+   "thumb": "media/thumbs/flowers-plants/27.webp",
+   "emojis": [
+    "🪹"
+   ],
+   "tags": [
+    "empty nest",
+    "nesting"
+   ],
+   "bytes": 26416,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "flowers-plants-28",
+   "title": "Nest with eggs",
+   "file": "media/stickers/flowers-plants/28.webp",
+   "thumb": "media/thumbs/flowers-plants/28.webp",
+   "emojis": [
+    "🪺"
+   ],
+   "tags": [
+    "nest with eggs",
+    "nesting"
+   ],
+   "bytes": 28586,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

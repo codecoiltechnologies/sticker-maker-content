@@ -1,0 +1,577 @@
+{
+ "id": "happy-faces",
+ "title": "Happy Faces",
+ "category": "emoji",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/happy-faces.png",
+ "cover": "media/covers/happy-faces.webp",
+ "stickers": [
+  {
+   "id": "happy-faces-01",
+   "title": "Grinning face",
+   "file": "media/stickers/happy-faces/01.webp",
+   "thumb": "media/thumbs/happy-faces/01.webp",
+   "emojis": [
+    "😀"
+   ],
+   "tags": [
+    "face",
+    "grin",
+    "grinning face"
+   ],
+   "bytes": 25840,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-02",
+   "title": "Grinning face with big eyes",
+   "file": "media/stickers/happy-faces/02.webp",
+   "thumb": "media/thumbs/happy-faces/02.webp",
+   "emojis": [
+    "😃"
+   ],
+   "tags": [
+    "face",
+    "grinning face with big eyes",
+    "mouth",
+    "open",
+    "smile"
+   ],
+   "bytes": 25694,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-03",
+   "title": "Grinning face with smiling eyes",
+   "file": "media/stickers/happy-faces/03.webp",
+   "thumb": "media/thumbs/happy-faces/03.webp",
+   "emojis": [
+    "😄"
+   ],
+   "tags": [
+    "eye",
+    "face",
+    "grinning face with smiling eyes",
+    "mouth",
+    "open",
+    "smile"
+   ],
+   "bytes": 23776,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-04",
+   "title": "Beaming face with smiling eyes",
+   "file": "media/stickers/happy-faces/04.webp",
+   "thumb": "media/thumbs/happy-faces/04.webp",
+   "emojis": [
+    "😁"
+   ],
+   "tags": [
+    "beaming face with smiling eyes",
+    "eye",
+    "face",
+    "grin",
+    "smile"
+   ],
+   "bytes": 24382,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-05",
+   "title": "Grinning squinting face",
+   "file": "media/stickers/happy-faces/05.webp",
+   "thumb": "media/thumbs/happy-faces/05.webp",
+   "emojis": [
+    "😆"
+   ],
+   "tags": [
+    "face",
+    "grinning squinting face",
+    "laugh",
+    "mouth",
+    "satisfied",
+    "smile"
+   ],
+   "bytes": 24348,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-06",
+   "title": "Grinning face with sweat",
+   "file": "media/stickers/happy-faces/06.webp",
+   "thumb": "media/thumbs/happy-faces/06.webp",
+   "emojis": [
+    "😅"
+   ],
+   "tags": [
+    "cold",
+    "face",
+    "grinning face with sweat",
+    "open",
+    "smile",
+    "sweat"
+   ],
+   "bytes": 25294,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-07",
+   "title": "Rolling on the floor laughing",
+   "file": "media/stickers/happy-faces/07.webp",
+   "thumb": "media/thumbs/happy-faces/07.webp",
+   "emojis": [
+    "🤣"
+   ],
+   "tags": [
+    "face",
+    "floor",
+    "laugh",
+    "rofl",
+    "rolling",
+    "rolling on the floor laughing",
+    "rotfl"
+   ],
+   "bytes": 28354,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-08",
+   "title": "Face with tears of joy",
+   "file": "media/stickers/happy-faces/08.webp",
+   "thumb": "media/thumbs/happy-faces/08.webp",
+   "emojis": [
+    "😂"
+   ],
+   "tags": [
+    "face",
+    "face with tears of joy",
+    "joy",
+    "laugh",
+    "tear"
+   ],
+   "bytes": 24332,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-09",
+   "title": "Slightly smiling face",
+   "file": "media/stickers/happy-faces/09.webp",
+   "thumb": "media/thumbs/happy-faces/09.webp",
+   "emojis": [
+    "🙂"
+   ],
+   "tags": [
+    "face",
+    "slightly smiling face",
+    "smile"
+   ],
+   "bytes": 25074,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-10",
+   "title": "Upside-down face",
+   "file": "media/stickers/happy-faces/10.webp",
+   "thumb": "media/thumbs/happy-faces/10.webp",
+   "emojis": [
+    "🙃"
+   ],
+   "tags": [
+    "face",
+    "upside-down"
+   ],
+   "bytes": 25376,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-11",
+   "title": "Melting face",
+   "file": "media/stickers/happy-faces/11.webp",
+   "thumb": "media/thumbs/happy-faces/11.webp",
+   "emojis": [
+    "🫠"
+   ],
+   "tags": [
+    "disappear",
+    "dissolve",
+    "liquid",
+    "melt",
+    "melting face"
+   ],
+   "bytes": 24558,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-12",
+   "title": "Winking face",
+   "file": "media/stickers/happy-faces/12.webp",
+   "thumb": "media/thumbs/happy-faces/12.webp",
+   "emojis": [
+    "😉"
+   ],
+   "tags": [
+    "face",
+    "wink",
+    "winking face"
+   ],
+   "bytes": 26174,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-13",
+   "title": "Smiling face with smiling eyes",
+   "file": "media/stickers/happy-faces/13.webp",
+   "thumb": "media/thumbs/happy-faces/13.webp",
+   "emojis": [
+    "😊"
+   ],
+   "tags": [
+    "blush",
+    "eye",
+    "face",
+    "smile",
+    "smiling face with smiling eyes"
+   ],
+   "bytes": 23364,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-14",
+   "title": "Smiling face with halo",
+   "file": "media/stickers/happy-faces/14.webp",
+   "thumb": "media/thumbs/happy-faces/14.webp",
+   "emojis": [
+    "😇"
+   ],
+   "tags": [
+    "angel",
+    "face",
+    "fantasy",
+    "halo",
+    "innocent",
+    "smiling face with halo"
+   ],
+   "bytes": 22224,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-15",
+   "title": "Smiling face with hearts",
+   "file": "media/stickers/happy-faces/15.webp",
+   "thumb": "media/thumbs/happy-faces/15.webp",
+   "emojis": [
+    "🥰"
+   ],
+   "tags": [
+    "adore",
+    "crush",
+    "hearts",
+    "in love",
+    "smiling face with hearts"
+   ],
+   "bytes": 27214,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-16",
+   "title": "Smiling face with heart-eyes",
+   "file": "media/stickers/happy-faces/16.webp",
+   "thumb": "media/thumbs/happy-faces/16.webp",
+   "emojis": [
+    "😍"
+   ],
+   "tags": [
+    "eye",
+    "face",
+    "love",
+    "smile",
+    "smiling face with heart-eyes"
+   ],
+   "bytes": 24442,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-17",
+   "title": "Star-struck",
+   "file": "media/stickers/happy-faces/17.webp",
+   "thumb": "media/thumbs/happy-faces/17.webp",
+   "emojis": [
+    "🤩"
+   ],
+   "tags": [
+    "eyes",
+    "face",
+    "grinning",
+    "star",
+    "star-struck"
+   ],
+   "bytes": 26664,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-18",
+   "title": "Face blowing a kiss",
+   "file": "media/stickers/happy-faces/18.webp",
+   "thumb": "media/thumbs/happy-faces/18.webp",
+   "emojis": [
+    "😘"
+   ],
+   "tags": [
+    "face",
+    "face blowing a kiss",
+    "kiss"
+   ],
+   "bytes": 27702,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-19",
+   "title": "Kissing face",
+   "file": "media/stickers/happy-faces/19.webp",
+   "thumb": "media/thumbs/happy-faces/19.webp",
+   "emojis": [
+    "😗"
+   ],
+   "tags": [
+    "face",
+    "kiss",
+    "kissing face"
+   ],
+   "bytes": 24824,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-20",
+   "title": "Smiling face",
+   "file": "media/stickers/happy-faces/20.webp",
+   "thumb": "media/thumbs/happy-faces/20.webp",
+   "emojis": [
+    "☺️"
+   ],
+   "tags": [
+    "face",
+    "outlined",
+    "relaxed",
+    "smile",
+    "smiling face"
+   ],
+   "bytes": 25276,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-21",
+   "title": "Kissing face with closed eyes",
+   "file": "media/stickers/happy-faces/21.webp",
+   "thumb": "media/thumbs/happy-faces/21.webp",
+   "emojis": [
+    "😚"
+   ],
+   "tags": [
+    "closed",
+    "eye",
+    "face",
+    "kiss",
+    "kissing face with closed eyes"
+   ],
+   "bytes": 24986,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-22",
+   "title": "Kissing face with smiling eyes",
+   "file": "media/stickers/happy-faces/22.webp",
+   "thumb": "media/thumbs/happy-faces/22.webp",
+   "emojis": [
+    "😙"
+   ],
+   "tags": [
+    "eye",
+    "face",
+    "kiss",
+    "kissing face with smiling eyes",
+    "smile"
+   ],
+   "bytes": 22462,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-23",
+   "title": "Smiling face with tear",
+   "file": "media/stickers/happy-faces/23.webp",
+   "thumb": "media/thumbs/happy-faces/23.webp",
+   "emojis": [
+    "🥲"
+   ],
+   "tags": [
+    "grateful",
+    "proud",
+    "relieved",
+    "smiling",
+    "smiling face with tear",
+    "tear",
+    "touched"
+   ],
+   "bytes": 25960,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-24",
+   "title": "Face savoring food",
+   "file": "media/stickers/happy-faces/24.webp",
+   "thumb": "media/thumbs/happy-faces/24.webp",
+   "emojis": [
+    "😋"
+   ],
+   "tags": [
+    "delicious",
+    "face",
+    "face savoring food",
+    "savouring",
+    "smile",
+    "yum"
+   ],
+   "bytes": 24554,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-25",
+   "title": "Face with tongue",
+   "file": "media/stickers/happy-faces/25.webp",
+   "thumb": "media/thumbs/happy-faces/25.webp",
+   "emojis": [
+    "😛"
+   ],
+   "tags": [
+    "face",
+    "face with tongue",
+    "tongue"
+   ],
+   "bytes": 25842,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-26",
+   "title": "Winking face with tongue",
+   "file": "media/stickers/happy-faces/26.webp",
+   "thumb": "media/thumbs/happy-faces/26.webp",
+   "emojis": [
+    "😜"
+   ],
+   "tags": [
+    "eye",
+    "face",
+    "joke",
+    "tongue",
+    "wink",
+    "winking face with tongue"
+   ],
+   "bytes": 26148,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-27",
+   "title": "Zany face",
+   "file": "media/stickers/happy-faces/27.webp",
+   "thumb": "media/thumbs/happy-faces/27.webp",
+   "emojis": [
+    "🤪"
+   ],
+   "tags": [
+    "eye",
+    "goofy",
+    "large",
+    "small",
+    "zany face"
+   ],
+   "bytes": 27938,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-28",
+   "title": "Squinting face with tongue",
+   "file": "media/stickers/happy-faces/28.webp",
+   "thumb": "media/thumbs/happy-faces/28.webp",
+   "emojis": [
+    "😝"
+   ],
+   "tags": [
+    "eye",
+    "face",
+    "horrible",
+    "squinting face with tongue",
+    "taste",
+    "tongue"
+   ],
+   "bytes": 24008,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-29",
+   "title": "Money-mouth face",
+   "file": "media/stickers/happy-faces/29.webp",
+   "thumb": "media/thumbs/happy-faces/29.webp",
+   "emojis": [
+    "🤑"
+   ],
+   "tags": [
+    "face",
+    "money",
+    "money-mouth face",
+    "mouth"
+   ],
+   "bytes": 25654,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "happy-faces-30",
+   "title": "Hugging face",
+   "file": "media/stickers/happy-faces/30.webp",
+   "thumb": "media/thumbs/happy-faces/30.webp",
+   "emojis": [
+    "🤗"
+   ],
+   "tags": [
+    "face",
+    "hug",
+    "hugging",
+    "open hands",
+    "smiling face",
+    "smiling face with open hands"
+   ],
+   "bytes": 25978,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

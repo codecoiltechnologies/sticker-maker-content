@@ -1,0 +1,363 @@
+{
+ "id": "cricket-fever",
+ "title": "Cricket Fever",
+ "category": "sports",
+ "type": "static",
+ "language": "en",
+ "tray": "media/trays/cricket-fever.png",
+ "cover": "media/covers/cricket-fever.webp",
+ "stickers": [
+  {
+   "id": "cricket-fever-01",
+   "title": "Sixer!",
+   "text": "Sixer!",
+   "file": "media/stickers/cricket-fever/01.webp",
+   "thumb": "media/thumbs/cricket-fever/01.webp",
+   "emojis": [
+    "🏏"
+   ],
+   "tags": [
+    "sixer"
+   ],
+   "language": "en",
+   "bytes": 36270,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-02",
+   "title": "Four!",
+   "text": "Four!",
+   "file": "media/stickers/cricket-fever/02.webp",
+   "thumb": "media/thumbs/cricket-fever/02.webp",
+   "emojis": [
+    "🏏"
+   ],
+   "tags": [
+    "four"
+   ],
+   "language": "en",
+   "bytes": 26912,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-03",
+   "title": "Howzat?",
+   "text": "Howzat?",
+   "file": "media/stickers/cricket-fever/03.webp",
+   "thumb": "media/thumbs/cricket-fever/03.webp",
+   "emojis": [
+    "☝️"
+   ],
+   "tags": [
+    "howzat"
+   ],
+   "language": "en",
+   "bytes": 24346,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-04",
+   "title": "Out!",
+   "text": "Out!",
+   "file": "media/stickers/cricket-fever/04.webp",
+   "thumb": "media/thumbs/cricket-fever/04.webp",
+   "emojis": [
+    "👆"
+   ],
+   "tags": [
+    "out"
+   ],
+   "language": "en",
+   "bytes": 26578,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-05",
+   "title": "Not out",
+   "text": "Not out",
+   "file": "media/stickers/cricket-fever/05.webp",
+   "thumb": "media/thumbs/cricket-fever/05.webp",
+   "emojis": [
+    "🙅"
+   ],
+   "tags": [
+    "not",
+    "out"
+   ],
+   "language": "en",
+   "bytes": 31656,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-06",
+   "title": "Wicket!",
+   "text": "Wicket!",
+   "file": "media/stickers/cricket-fever/06.webp",
+   "thumb": "media/thumbs/cricket-fever/06.webp",
+   "emojis": [
+    "🎯"
+   ],
+   "tags": [
+    "wicket"
+   ],
+   "language": "en",
+   "bytes": 26464,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-07",
+   "title": "Century!",
+   "text": "Century!",
+   "file": "media/stickers/cricket-fever/07.webp",
+   "thumb": "media/thumbs/cricket-fever/07.webp",
+   "emojis": [
+    "💯"
+   ],
+   "tags": [
+    "century"
+   ],
+   "language": "en",
+   "bytes": 24752,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-08",
+   "title": "Bowled!",
+   "text": "Bowled!",
+   "file": "media/stickers/cricket-fever/08.webp",
+   "thumb": "media/thumbs/cricket-fever/08.webp",
+   "emojis": [
+    "🏏"
+   ],
+   "tags": [
+    "bowled"
+   ],
+   "language": "en",
+   "bytes": 25188,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-09",
+   "title": "Run out",
+   "text": "Run out",
+   "file": "media/stickers/cricket-fever/09.webp",
+   "thumb": "media/thumbs/cricket-fever/09.webp",
+   "emojis": [
+    "🏃"
+   ],
+   "tags": [
+    "run",
+    "out"
+   ],
+   "language": "en",
+   "bytes": 28892,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-10",
+   "title": "Super over",
+   "text": "Super over",
+   "file": "media/stickers/cricket-fever/10.webp",
+   "thumb": "media/thumbs/cricket-fever/10.webp",
+   "emojis": [
+    "🔥"
+   ],
+   "tags": [
+    "super",
+    "over"
+   ],
+   "language": "en",
+   "bytes": 38636,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-11",
+   "title": "Match day",
+   "text": "Match day",
+   "file": "media/stickers/cricket-fever/11.webp",
+   "thumb": "media/thumbs/cricket-fever/11.webp",
+   "emojis": [
+    "🏟️"
+   ],
+   "tags": [
+    "match",
+    "day"
+   ],
+   "language": "en",
+   "bytes": 40390,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-12",
+   "title": "Kya shot hai!",
+   "text": "Kya shot hai!",
+   "file": "media/stickers/cricket-fever/12.webp",
+   "thumb": "media/thumbs/cricket-fever/12.webp",
+   "emojis": [
+    "🤩"
+   ],
+   "tags": [
+    "kya",
+    "shot",
+    "hai"
+   ],
+   "language": "en",
+   "bytes": 45532,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-13",
+   "title": "Catch it!",
+   "text": "Catch it!",
+   "file": "media/stickers/cricket-fever/13.webp",
+   "thumb": "media/thumbs/cricket-fever/13.webp",
+   "emojis": [
+    "🙌"
+   ],
+   "tags": [
+    "catch",
+    "it"
+   ],
+   "language": "en",
+   "bytes": 35570,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-14",
+   "title": "No ball",
+   "text": "No ball",
+   "file": "media/stickers/cricket-fever/14.webp",
+   "thumb": "media/thumbs/cricket-fever/14.webp",
+   "emojis": [
+    "🚫"
+   ],
+   "tags": [
+    "no",
+    "ball"
+   ],
+   "language": "en",
+   "bytes": 30378,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-15",
+   "title": "Free hit",
+   "text": "Free hit",
+   "file": "media/stickers/cricket-fever/15.webp",
+   "thumb": "media/thumbs/cricket-fever/15.webp",
+   "emojis": [
+    "💥"
+   ],
+   "tags": [
+    "free",
+    "hit"
+   ],
+   "language": "en",
+   "bytes": 37500,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-16",
+   "title": "Duck!",
+   "text": "Duck!",
+   "file": "media/stickers/cricket-fever/16.webp",
+   "thumb": "media/thumbs/cricket-fever/16.webp",
+   "emojis": [
+    "🦆"
+   ],
+   "tags": [
+    "duck"
+   ],
+   "language": "en",
+   "bytes": 27272,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-17",
+   "title": "Hat-trick",
+   "text": "Hat-trick",
+   "file": "media/stickers/cricket-fever/17.webp",
+   "thumb": "media/thumbs/cricket-fever/17.webp",
+   "emojis": [
+    "🎩"
+   ],
+   "tags": [
+    "hat-trick"
+   ],
+   "language": "en",
+   "bytes": 24572,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-18",
+   "title": "Champions",
+   "text": "Champions",
+   "file": "media/stickers/cricket-fever/18.webp",
+   "thumb": "media/thumbs/cricket-fever/18.webp",
+   "emojis": [
+    "🏆"
+   ],
+   "tags": [
+    "champions"
+   ],
+   "language": "en",
+   "bytes": 32298,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-19",
+   "title": "Pakistan jeetega",
+   "text": "Pakistan jeetega",
+   "file": "media/stickers/cricket-fever/19.webp",
+   "thumb": "media/thumbs/cricket-fever/19.webp",
+   "emojis": [
+    "💚"
+   ],
+   "tags": [
+    "pakistan",
+    "jeetega"
+   ],
+   "language": "en",
+   "bytes": 42754,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "cricket-fever-20",
+   "title": "Dil se Pakistan",
+   "text": "Dil se Pakistan",
+   "file": "media/stickers/cricket-fever/20.webp",
+   "thumb": "media/thumbs/cricket-fever/20.webp",
+   "emojis": [
+    "💚"
+   ],
+   "tags": [
+    "dil",
+    "se",
+    "pakistan"
+   ],
+   "language": "en",
+   "bytes": 47070,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

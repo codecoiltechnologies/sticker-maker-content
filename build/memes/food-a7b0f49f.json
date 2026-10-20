@@ -1,0 +1,33 @@
+{
+ "id": "food-a7b0f49f",
+ "title": "Guests: brought a box of chocolates. Me, waiting for them to leave:",
+ "category": "memes-food",
+ "file": "media/memes/memes-food/food-a7b0f49f.webp",
+ "thumb": "media/meme-thumbs/memes-food/food-a7b0f49f.webp",
+ "width": 1080,
+ "height": 1340,
+ "bytes": 68772,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Guests: brought a box of chocolates.\nMe, waiting for them to leave:",
+ "tags": [
+  "box",
+  "brought",
+  "chocolate",
+  "chocolates",
+  "for",
+  "guests",
+  "leave",
+  "them",
+  "waiting"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "M0tty",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AChocolate_box_-_Marcolini_01.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "cats-82d1cc12",
+ "title": "You said just 5 minutes It's been 2 hours",
+ "category": "memes-cats",
+ "file": "media/memes/memes-cats/cats-82d1cc12.webp",
+ "thumb": "media/meme-thumbs/memes-cats/cats-82d1cc12.webp",
+ "width": 1080,
+ "height": 752,
+ "bytes": 98822,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "classic",
+ "text": "You said \"just 5 minutes\"\nIt's been 2 hours",
+ "tags": [
+  "been",
+  "cat",
+  "hours",
+  "just",
+  "minutes",
+  "said",
+  "stare",
+  "waiting",
+  "you"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Aqwis",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACatWithOcularProsthetic.jpeg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

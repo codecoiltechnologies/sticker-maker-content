@@ -1,0 +1,535 @@
+{
+ "id": "sky-weather",
+ "title": "Sky & Weather",
+ "category": "nature",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/sky-weather.png",
+ "cover": "media/covers/sky-weather.webp",
+ "stickers": [
+  {
+   "id": "sky-weather-01",
+   "title": "Sun",
+   "file": "media/stickers/sky-weather/01.webp",
+   "thumb": "media/thumbs/sky-weather/01.webp",
+   "emojis": [
+    "☀️"
+   ],
+   "tags": [
+    "bright",
+    "rays",
+    "sun",
+    "sunny"
+   ],
+   "bytes": 20590,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-02",
+   "title": "Sun behind small cloud",
+   "file": "media/stickers/sky-weather/02.webp",
+   "thumb": "media/thumbs/sky-weather/02.webp",
+   "emojis": [
+    "🌤️"
+   ],
+   "tags": [
+    "cloud",
+    "sun",
+    "sun behind small cloud"
+   ],
+   "bytes": 20612,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-03",
+   "title": "Sun behind cloud",
+   "file": "media/stickers/sky-weather/03.webp",
+   "thumb": "media/thumbs/sky-weather/03.webp",
+   "emojis": [
+    "⛅"
+   ],
+   "tags": [
+    "cloud",
+    "sun",
+    "sun behind cloud"
+   ],
+   "bytes": 19928,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-04",
+   "title": "Sun behind large cloud",
+   "file": "media/stickers/sky-weather/04.webp",
+   "thumb": "media/thumbs/sky-weather/04.webp",
+   "emojis": [
+    "🌥️"
+   ],
+   "tags": [
+    "cloud",
+    "sun",
+    "sun behind large cloud"
+   ],
+   "bytes": 17446,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-05",
+   "title": "Cloud",
+   "file": "media/stickers/sky-weather/05.webp",
+   "thumb": "media/thumbs/sky-weather/05.webp",
+   "emojis": [
+    "☁️"
+   ],
+   "tags": [
+    "cloud",
+    "weather"
+   ],
+   "bytes": 10696,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-06",
+   "title": "Sun behind rain cloud",
+   "file": "media/stickers/sky-weather/06.webp",
+   "thumb": "media/thumbs/sky-weather/06.webp",
+   "emojis": [
+    "🌦️"
+   ],
+   "tags": [
+    "cloud",
+    "rain",
+    "sun",
+    "sun behind rain cloud"
+   ],
+   "bytes": 28042,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-07",
+   "title": "Cloud with rain",
+   "file": "media/stickers/sky-weather/07.webp",
+   "thumb": "media/thumbs/sky-weather/07.webp",
+   "emojis": [
+    "🌧️"
+   ],
+   "tags": [
+    "cloud",
+    "cloud with rain",
+    "rain"
+   ],
+   "bytes": 25754,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-08",
+   "title": "Cloud with lightning and rain",
+   "file": "media/stickers/sky-weather/08.webp",
+   "thumb": "media/thumbs/sky-weather/08.webp",
+   "emojis": [
+    "⛈️"
+   ],
+   "tags": [
+    "cloud",
+    "cloud with lightning and rain",
+    "rain",
+    "thunder"
+   ],
+   "bytes": 31544,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-09",
+   "title": "Cloud with lightning",
+   "file": "media/stickers/sky-weather/09.webp",
+   "thumb": "media/thumbs/sky-weather/09.webp",
+   "emojis": [
+    "🌩️"
+   ],
+   "tags": [
+    "cloud",
+    "cloud with lightning",
+    "lightning"
+   ],
+   "bytes": 18648,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-10",
+   "title": "Cloud with snow",
+   "file": "media/stickers/sky-weather/10.webp",
+   "thumb": "media/thumbs/sky-weather/10.webp",
+   "emojis": [
+    "🌨️"
+   ],
+   "tags": [
+    "cloud",
+    "cloud with snow",
+    "cold",
+    "snow"
+   ],
+   "bytes": 20812,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-11",
+   "title": "Snowflake",
+   "file": "media/stickers/sky-weather/11.webp",
+   "thumb": "media/thumbs/sky-weather/11.webp",
+   "emojis": [
+    "❄️"
+   ],
+   "tags": [
+    "cold",
+    "snow",
+    "snowflake"
+   ],
+   "bytes": 45972,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-12",
+   "title": "Snowman",
+   "file": "media/stickers/sky-weather/12.webp",
+   "thumb": "media/thumbs/sky-weather/12.webp",
+   "emojis": [
+    "☃️"
+   ],
+   "tags": [
+    "cold",
+    "snow",
+    "snowman"
+   ],
+   "bytes": 31068,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-13",
+   "title": "Snowman without snow",
+   "file": "media/stickers/sky-weather/13.webp",
+   "thumb": "media/thumbs/sky-weather/13.webp",
+   "emojis": [
+    "⛄"
+   ],
+   "tags": [
+    "cold",
+    "snow",
+    "snowman",
+    "snowman without snow"
+   ],
+   "bytes": 22564,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-14",
+   "title": "Wind face",
+   "file": "media/stickers/sky-weather/14.webp",
+   "thumb": "media/thumbs/sky-weather/14.webp",
+   "emojis": [
+    "🌬️"
+   ],
+   "tags": [
+    "blow",
+    "cloud",
+    "face",
+    "wind"
+   ],
+   "bytes": 19516,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-15",
+   "title": "Dashing away",
+   "file": "media/stickers/sky-weather/15.webp",
+   "thumb": "media/thumbs/sky-weather/15.webp",
+   "emojis": [
+    "💨"
+   ],
+   "tags": [
+    "comic",
+    "dash",
+    "dashing away",
+    "running"
+   ],
+   "bytes": 24092,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-16",
+   "title": "Tornado",
+   "file": "media/stickers/sky-weather/16.webp",
+   "thumb": "media/thumbs/sky-weather/16.webp",
+   "emojis": [
+    "🌪️"
+   ],
+   "tags": [
+    "cloud",
+    "tornado",
+    "whirlwind"
+   ],
+   "bytes": 12822,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-17",
+   "title": "Fog",
+   "file": "media/stickers/sky-weather/17.webp",
+   "thumb": "media/thumbs/sky-weather/17.webp",
+   "emojis": [
+    "🌫️"
+   ],
+   "tags": [
+    "cloud",
+    "fog"
+   ],
+   "bytes": 6678,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-18",
+   "title": "Rainbow",
+   "file": "media/stickers/sky-weather/18.webp",
+   "thumb": "media/thumbs/sky-weather/18.webp",
+   "emojis": [
+    "🌈"
+   ],
+   "tags": [
+    "rain",
+    "rainbow"
+   ],
+   "bytes": 21290,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-19",
+   "title": "Umbrella with rain drops",
+   "file": "media/stickers/sky-weather/19.webp",
+   "thumb": "media/thumbs/sky-weather/19.webp",
+   "emojis": [
+    "☔"
+   ],
+   "tags": [
+    "clothing",
+    "drop",
+    "rain",
+    "umbrella",
+    "umbrella with rain drops"
+   ],
+   "bytes": 24184,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-20",
+   "title": "High voltage",
+   "file": "media/stickers/sky-weather/20.webp",
+   "thumb": "media/thumbs/sky-weather/20.webp",
+   "emojis": [
+    "⚡"
+   ],
+   "tags": [
+    "danger",
+    "electric",
+    "high voltage",
+    "lightning",
+    "voltage",
+    "zap"
+   ],
+   "bytes": 11838,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-21",
+   "title": "Fire",
+   "file": "media/stickers/sky-weather/21.webp",
+   "thumb": "media/thumbs/sky-weather/21.webp",
+   "emojis": [
+    "🔥"
+   ],
+   "tags": [
+    "fire",
+    "flame",
+    "tool"
+   ],
+   "bytes": 18994,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-22",
+   "title": "Droplet",
+   "file": "media/stickers/sky-weather/22.webp",
+   "thumb": "media/thumbs/sky-weather/22.webp",
+   "emojis": [
+    "💧"
+   ],
+   "tags": [
+    "cold",
+    "comic",
+    "drop",
+    "droplet",
+    "sweat"
+   ],
+   "bytes": 15872,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-23",
+   "title": "Water wave",
+   "file": "media/stickers/sky-weather/23.webp",
+   "thumb": "media/thumbs/sky-weather/23.webp",
+   "emojis": [
+    "🌊"
+   ],
+   "tags": [
+    "ocean",
+    "water",
+    "wave"
+   ],
+   "bytes": 23420,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-24",
+   "title": "Crescent moon",
+   "file": "media/stickers/love-mood/21.webp",
+   "thumb": "media/thumbs/love-mood/21.webp",
+   "emojis": [
+    "🌙"
+   ],
+   "tags": [
+    "crescent",
+    "moon"
+   ],
+   "bytes": 19544,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-25",
+   "title": "First quarter moon face",
+   "file": "media/stickers/sky-weather/25.webp",
+   "thumb": "media/thumbs/sky-weather/25.webp",
+   "emojis": [
+    "🌛"
+   ],
+   "tags": [
+    "face",
+    "first quarter moon face",
+    "moon",
+    "quarter"
+   ],
+   "bytes": 20672,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-26",
+   "title": "Full moon face",
+   "file": "media/stickers/sky-weather/26.webp",
+   "thumb": "media/thumbs/sky-weather/26.webp",
+   "emojis": [
+    "🌝"
+   ],
+   "tags": [
+    "bright",
+    "face",
+    "full",
+    "moon"
+   ],
+   "bytes": 25756,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-27",
+   "title": "Sun with face",
+   "file": "media/stickers/sky-weather/27.webp",
+   "thumb": "media/thumbs/sky-weather/27.webp",
+   "emojis": [
+    "🌞"
+   ],
+   "tags": [
+    "bright",
+    "face",
+    "sun",
+    "sun with face"
+   ],
+   "bytes": 26118,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-28",
+   "title": "Star",
+   "file": "media/stickers/sky-weather/28.webp",
+   "thumb": "media/thumbs/sky-weather/28.webp",
+   "emojis": [
+    "⭐"
+   ],
+   "tags": [
+    "star"
+   ],
+   "bytes": 19088,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-29",
+   "title": "Glowing star",
+   "file": "media/stickers/sky-weather/29.webp",
+   "thumb": "media/thumbs/sky-weather/29.webp",
+   "emojis": [
+    "🌟"
+   ],
+   "tags": [
+    "glittery",
+    "glow",
+    "glowing star",
+    "shining",
+    "sparkle",
+    "star"
+   ],
+   "bytes": 28210,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sky-weather-30",
+   "title": "Shooting star",
+   "file": "media/stickers/sky-weather/30.webp",
+   "thumb": "media/thumbs/sky-weather/30.webp",
+   "emojis": [
+    "🌠"
+   ],
+   "tags": [
+    "falling",
+    "shooting",
+    "star"
+   ],
+   "bytes": 13556,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

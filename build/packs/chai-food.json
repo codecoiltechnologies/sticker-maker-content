@@ -1,0 +1,335 @@
+{
+ "id": "chai-food",
+ "title": "Chai & Food",
+ "category": "food",
+ "type": "static",
+ "language": "ur-Latn",
+ "tray": "media/trays/chai-food.png",
+ "cover": "media/covers/chai-food.webp",
+ "stickers": [
+  {
+   "id": "chai-food-01",
+   "title": "Chai time",
+   "text": "Chai time",
+   "file": "media/stickers/chai-food/01.webp",
+   "thumb": "media/thumbs/chai-food/01.webp",
+   "emojis": [
+    "☕"
+   ],
+   "tags": [
+    "chai",
+    "time"
+   ],
+   "language": "ur-Latn",
+   "bytes": 37566,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-02",
+   "title": "Doodh patti",
+   "text": "Doodh patti",
+   "file": "media/stickers/chai-food/02.webp",
+   "thumb": "media/thumbs/chai-food/02.webp",
+   "emojis": [
+    "🫖"
+   ],
+   "tags": [
+    "doodh",
+    "patti"
+   ],
+   "language": "ur-Latn",
+   "bytes": 34416,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-03",
+   "title": "Biryani lover",
+   "text": "Biryani lover",
+   "file": "media/stickers/chai-food/03.webp",
+   "thumb": "media/thumbs/chai-food/03.webp",
+   "emojis": [
+    "🍛"
+   ],
+   "tags": [
+    "biryani",
+    "lover"
+   ],
+   "language": "ur-Latn",
+   "bytes": 49844,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-04",
+   "title": "Bhook lagi hai",
+   "text": "Bhook lagi hai",
+   "file": "media/stickers/chai-food/04.webp",
+   "thumb": "media/thumbs/chai-food/04.webp",
+   "emojis": [
+    "😋"
+   ],
+   "tags": [
+    "bhook",
+    "lagi",
+    "hai"
+   ],
+   "language": "ur-Latn",
+   "bytes": 40058,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-05",
+   "title": "Khana khaya?",
+   "text": "Khana khaya?",
+   "file": "media/stickers/chai-food/05.webp",
+   "thumb": "media/thumbs/chai-food/05.webp",
+   "emojis": [
+    "🍽️"
+   ],
+   "tags": [
+    "khana",
+    "khaya"
+   ],
+   "language": "ur-Latn",
+   "bytes": 41704,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-06",
+   "title": "Samosa party",
+   "text": "Samosa party",
+   "file": "media/stickers/chai-food/06.webp",
+   "thumb": "media/thumbs/chai-food/06.webp",
+   "emojis": [
+    "🥟"
+   ],
+   "tags": [
+    "samosa",
+    "party"
+   ],
+   "language": "ur-Latn",
+   "bytes": 42958,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-07",
+   "title": "Pizza?",
+   "text": "Pizza?",
+   "file": "media/stickers/chai-food/07.webp",
+   "thumb": "media/thumbs/chai-food/07.webp",
+   "emojis": [
+    "🍕"
+   ],
+   "tags": [
+    "pizza"
+   ],
+   "language": "ur-Latn",
+   "bytes": 27220,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-08",
+   "title": "Diet kal se",
+   "text": "Diet kal se",
+   "file": "media/stickers/chai-food/08.webp",
+   "thumb": "media/thumbs/chai-food/08.webp",
+   "emojis": [
+    "🍔"
+   ],
+   "tags": [
+    "diet",
+    "kal",
+    "se"
+   ],
+   "language": "ur-Latn",
+   "bytes": 38486,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-09",
+   "title": "Garam garam",
+   "text": "Garam garam",
+   "file": "media/stickers/chai-food/09.webp",
+   "thumb": "media/thumbs/chai-food/09.webp",
+   "emojis": [
+    "🔥"
+   ],
+   "tags": [
+    "garam",
+    "garam"
+   ],
+   "language": "ur-Latn",
+   "bytes": 40684,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-10",
+   "title": "Yummy!",
+   "text": "Yummy!",
+   "file": "media/stickers/chai-food/10.webp",
+   "thumb": "media/thumbs/chai-food/10.webp",
+   "emojis": [
+    "😋"
+   ],
+   "tags": [
+    "yummy"
+   ],
+   "language": "ur-Latn",
+   "bytes": 36974,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-11",
+   "title": "Mazedaar",
+   "text": "Mazedaar",
+   "file": "media/stickers/chai-food/11.webp",
+   "thumb": "media/thumbs/chai-food/11.webp",
+   "emojis": [
+    "🤤"
+   ],
+   "tags": [
+    "mazedaar"
+   ],
+   "language": "ur-Latn",
+   "bytes": 30190,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-12",
+   "title": "Halwa puri Sunday",
+   "text": "Halwa puri Sunday",
+   "file": "media/stickers/chai-food/12.webp",
+   "thumb": "media/thumbs/chai-food/12.webp",
+   "emojis": [
+    "🥘"
+   ],
+   "tags": [
+    "halwa",
+    "puri",
+    "sunday"
+   ],
+   "language": "ur-Latn",
+   "bytes": 48144,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-13",
+   "title": "Ice cream?",
+   "text": "Ice cream?",
+   "file": "media/stickers/chai-food/13.webp",
+   "thumb": "media/thumbs/chai-food/13.webp",
+   "emojis": [
+    "🍦"
+   ],
+   "tags": [
+    "ice",
+    "cream"
+   ],
+   "language": "ur-Latn",
+   "bytes": 35966,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-14",
+   "title": "Burger party",
+   "text": "Burger party",
+   "file": "media/stickers/chai-food/14.webp",
+   "thumb": "media/thumbs/chai-food/14.webp",
+   "emojis": [
+    "🍔"
+   ],
+   "tags": [
+    "burger",
+    "party"
+   ],
+   "language": "ur-Latn",
+   "bytes": 45782,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-15",
+   "title": "Nashta?",
+   "text": "Nashta?",
+   "file": "media/stickers/chai-food/15.webp",
+   "thumb": "media/thumbs/chai-food/15.webp",
+   "emojis": [
+    "🍳"
+   ],
+   "tags": [
+    "nashta"
+   ],
+   "language": "ur-Latn",
+   "bytes": 33826,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-16",
+   "title": "Coffee lover",
+   "text": "Coffee lover",
+   "file": "media/stickers/chai-food/16.webp",
+   "thumb": "media/thumbs/chai-food/16.webp",
+   "emojis": [
+    "☕"
+   ],
+   "tags": [
+    "coffee",
+    "lover"
+   ],
+   "language": "ur-Latn",
+   "bytes": 38674,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-17",
+   "title": "Mithai lao",
+   "text": "Mithai lao",
+   "file": "media/stickers/chai-food/17.webp",
+   "thumb": "media/thumbs/chai-food/17.webp",
+   "emojis": [
+    "🍬"
+   ],
+   "tags": [
+    "mithai",
+    "lao"
+   ],
+   "language": "ur-Latn",
+   "bytes": 42714,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "chai-food-18",
+   "title": "Sab kha gaye?",
+   "text": "Sab kha gaye?",
+   "file": "media/stickers/chai-food/18.webp",
+   "thumb": "media/thumbs/chai-food/18.webp",
+   "emojis": [
+    "😱"
+   ],
+   "tags": [
+    "sab",
+    "kha",
+    "gaye"
+   ],
+   "language": "ur-Latn",
+   "bytes": 47436,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

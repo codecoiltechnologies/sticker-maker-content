@@ -1,0 +1,100 @@
+{
+ "id": "sm-originals",
+ "title": "Sticker Maker Originals",
+ "category": "cartoon",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/sm-originals.png",
+ "cover": "media/covers/sm-originals.webp",
+ "stickers": [
+  {
+   "id": "sm-originals-01",
+   "title": "Cheeky Wink",
+   "file": "media/stickers/sm-originals/01.webp",
+   "thumb": "media/thumbs/sm-originals/01.webp",
+   "emojis": [
+    "😜"
+   ],
+   "tags": [
+    "wink",
+    "tongue",
+    "funny",
+    "original"
+   ],
+   "bytes": 47684,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "sm-originals-02",
+   "title": "Trending",
+   "file": "media/stickers/sm-originals/02.webp",
+   "thumb": "media/thumbs/sm-originals/02.webp",
+   "emojis": [
+    "🔥"
+   ],
+   "tags": [
+    "trending",
+    "hot",
+    "fire",
+    "original"
+   ],
+   "bytes": 71252,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "sm-originals-03",
+   "title": "In Love",
+   "file": "media/stickers/sm-originals/03.webp",
+   "thumb": "media/thumbs/sm-originals/03.webp",
+   "emojis": [
+    "😍"
+   ],
+   "tags": [
+    "love",
+    "hearts",
+    "original"
+   ],
+   "bytes": 57082,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "sm-originals-04",
+   "title": "Wink Girl",
+   "file": "media/stickers/sm-originals/04.webp",
+   "thumb": "media/thumbs/sm-originals/04.webp",
+   "emojis": [
+    "😉"
+   ],
+   "tags": [
+    "girl",
+    "wink",
+    "cute",
+    "original"
+   ],
+   "bytes": 76062,
+   "fileType": "image/webp",
+   "credit": "own"
+  },
+  {
+   "id": "sm-originals-05",
+   "title": "Wink Kitty",
+   "file": "media/stickers/sm-originals/05.webp",
+   "thumb": "media/thumbs/sm-originals/05.webp",
+   "emojis": [
+    "😺"
+   ],
+   "tags": [
+    "cat",
+    "kitty",
+    "wink",
+    "original"
+   ],
+   "bytes": 62246,
+   "fileType": "image/webp",
+   "credit": "own"
+  }
+ ]
+}

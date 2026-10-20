@@ -1,0 +1,529 @@
+{
+ "id": "animated-nature-fun",
+ "title": "Animated Nature & Fun",
+ "category": "animated",
+ "type": "animated",
+ "language": "",
+ "tray": "media/trays/animated-nature-fun.png",
+ "cover": "media/covers/animated-nature-fun.webp",
+ "stickers": [
+  {
+   "id": "animated-nature-fun-01",
+   "title": "Snowman",
+   "file": "media/stickers/animated-nature-fun/01.webp",
+   "thumb": "media/thumbs/animated-nature-fun/01.webp",
+   "gif": "media/gifs/animated-nature-fun/01.gif",
+   "emojis": [
+    "☃"
+   ],
+   "tags": [
+    "snowman-with-snow"
+   ],
+   "bytes": 403950,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-02",
+   "title": "Bouquet",
+   "file": "media/stickers/animated-nature-fun/02.webp",
+   "thumb": "media/thumbs/animated-nature-fun/02.webp",
+   "gif": "media/gifs/animated-nature-fun/02.gif",
+   "emojis": [
+    "💐"
+   ],
+   "tags": [
+    "bouquet",
+    "flowers"
+   ],
+   "bytes": 455654,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-03",
+   "title": "Soccer ball",
+   "file": "media/stickers/animated-nature-fun/03.webp",
+   "thumb": "media/thumbs/animated-nature-fun/03.webp",
+   "gif": "media/gifs/animated-nature-fun/03.gif",
+   "emojis": [
+    "⚽"
+   ],
+   "tags": [
+    "soccer-ball"
+   ],
+   "bytes": 421612,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-04",
+   "title": "Heart suit",
+   "file": "media/stickers/animated-nature-fun/04.webp",
+   "thumb": "media/thumbs/animated-nature-fun/04.webp",
+   "gif": "media/gifs/animated-nature-fun/04.gif",
+   "emojis": [
+    "♥"
+   ],
+   "tags": [
+    "heart"
+   ],
+   "bytes": 269900,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-05",
+   "title": "Musical notes",
+   "file": "media/stickers/animated-nature-fun/05.webp",
+   "thumb": "media/thumbs/animated-nature-fun/05.webp",
+   "gif": "media/gifs/animated-nature-fun/05.gif",
+   "emojis": [
+    "🎶"
+   ],
+   "tags": [
+    "musical-notes"
+   ],
+   "bytes": 98798,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-06",
+   "title": "Collision",
+   "file": "media/stickers/animated-nature-fun/06.webp",
+   "thumb": "media/thumbs/animated-nature-fun/06.webp",
+   "gif": "media/gifs/animated-nature-fun/06.gif",
+   "emojis": [
+    "💥"
+   ],
+   "tags": [
+    "collision"
+   ],
+   "bytes": 391998,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-07",
+   "title": "Parachute",
+   "file": "media/stickers/animated-nature-fun/07.webp",
+   "thumb": "media/thumbs/animated-nature-fun/07.webp",
+   "gif": "media/gifs/animated-nature-fun/07.gif",
+   "emojis": [
+    "🪂"
+   ],
+   "tags": [
+    "parachute"
+   ],
+   "bytes": 435706,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-08",
+   "title": "Splatter",
+   "file": "media/stickers/animated-nature-fun/08.webp",
+   "thumb": "media/thumbs/animated-nature-fun/08.webp",
+   "gif": "media/gifs/animated-nature-fun/08.gif",
+   "emojis": [
+    "🫟"
+   ],
+   "tags": [
+    "splatter"
+   ],
+   "bytes": 239496,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-09",
+   "title": "Alarm clock",
+   "file": "media/stickers/animated-nature-fun/09.webp",
+   "thumb": "media/thumbs/animated-nature-fun/09.webp",
+   "gif": "media/gifs/animated-nature-fun/09.gif",
+   "emojis": [
+    "⏰"
+   ],
+   "tags": [
+    "alarm-clock"
+   ],
+   "bytes": 179922,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-10",
+   "title": "Snowman without snow",
+   "file": "media/stickers/animated-nature-fun/10.webp",
+   "thumb": "media/thumbs/animated-nature-fun/10.webp",
+   "gif": "media/gifs/animated-nature-fun/10.gif",
+   "emojis": [
+    "⛄"
+   ],
+   "tags": [
+    "snowman"
+   ],
+   "bytes": 269716,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-11",
+   "title": "Rose",
+   "file": "media/stickers/animated-nature-fun/11.webp",
+   "thumb": "media/thumbs/animated-nature-fun/11.webp",
+   "gif": "media/gifs/animated-nature-fun/11.gif",
+   "emojis": [
+    "🌹"
+   ],
+   "tags": [
+    "rose"
+   ],
+   "bytes": 367034,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-12",
+   "title": "Baseball",
+   "file": "media/stickers/animated-nature-fun/12.webp",
+   "thumb": "media/thumbs/animated-nature-fun/12.webp",
+   "gif": "media/gifs/animated-nature-fun/12.gif",
+   "emojis": [
+    "⚾"
+   ],
+   "tags": [
+    "baseball"
+   ],
+   "bytes": 144012,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-13",
+   "title": "Piñata",
+   "file": "media/stickers/animated-nature-fun/13.webp",
+   "thumb": "media/thumbs/animated-nature-fun/13.webp",
+   "gif": "media/gifs/animated-nature-fun/13.gif",
+   "emojis": [
+    "🪅"
+   ],
+   "tags": [
+    "piñata"
+   ],
+   "bytes": 429658,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-14",
+   "title": "Fight cloud",
+   "file": "media/stickers/animated-nature-fun/14.webp",
+   "thumb": "media/thumbs/animated-nature-fun/14.webp",
+   "gif": "media/gifs/animated-nature-fun/14.gif",
+   "emojis": [
+    "🫯"
+   ],
+   "tags": [
+    "fight"
+   ],
+   "bytes": 306200,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-15",
+   "title": "Flying saucer",
+   "file": "media/stickers/animated-nature-fun/15.webp",
+   "thumb": "media/thumbs/animated-nature-fun/15.webp",
+   "gif": "media/gifs/animated-nature-fun/15.gif",
+   "emojis": [
+    "🛸"
+   ],
+   "tags": [
+    "flying-saucer"
+   ],
+   "bytes": 466298,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-16",
+   "title": "Cross mark",
+   "file": "media/stickers/animated-nature-fun/16.webp",
+   "thumb": "media/thumbs/animated-nature-fun/16.webp",
+   "gif": "media/gifs/animated-nature-fun/16.gif",
+   "emojis": [
+    "❌"
+   ],
+   "tags": [
+    "cross-mark",
+    "x"
+   ],
+   "bytes": 179156,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-17",
+   "title": "Hourglass done",
+   "file": "media/stickers/animated-nature-fun/17.webp",
+   "thumb": "media/thumbs/animated-nature-fun/17.webp",
+   "gif": "media/gifs/animated-nature-fun/17.gif",
+   "emojis": [
+    "⌛"
+   ],
+   "tags": [
+    "hourglass-done"
+   ],
+   "bytes": 427806,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-18",
+   "title": "New moon face",
+   "file": "media/stickers/animated-nature-fun/18.webp",
+   "thumb": "media/thumbs/animated-nature-fun/18.webp",
+   "gif": "media/gifs/animated-nature-fun/18.gif",
+   "emojis": [
+    "🌚"
+   ],
+   "tags": [
+    "moon-face-new"
+   ],
+   "bytes": 464302,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-19",
+   "title": "Wilted flower",
+   "file": "media/stickers/animated-nature-fun/19.webp",
+   "thumb": "media/thumbs/animated-nature-fun/19.webp",
+   "gif": "media/gifs/animated-nature-fun/19.gif",
+   "emojis": [
+    "🥀"
+   ],
+   "tags": [
+    "wilted-flower"
+   ],
+   "bytes": 400832,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-20",
+   "title": "Softball",
+   "file": "media/stickers/animated-nature-fun/20.webp",
+   "thumb": "media/thumbs/animated-nature-fun/20.webp",
+   "gif": "media/gifs/animated-nature-fun/20.gif",
+   "emojis": [
+    "🥎"
+   ],
+   "tags": [
+    "softball"
+   ],
+   "bytes": 174604,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-21",
+   "title": "Mirror ball",
+   "file": "media/stickers/animated-nature-fun/21.webp",
+   "thumb": "media/thumbs/animated-nature-fun/21.webp",
+   "gif": "media/gifs/animated-nature-fun/21.gif",
+   "emojis": [
+    "🪩"
+   ],
+   "tags": [
+    "disco-ball",
+    "mirror-ball"
+   ],
+   "bytes": 468746,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-22",
+   "title": "Hole",
+   "file": "media/stickers/animated-nature-fun/22.webp",
+   "thumb": "media/thumbs/animated-nature-fun/22.webp",
+   "gif": "media/gifs/animated-nature-fun/22.gif",
+   "emojis": [
+    "🕳"
+   ],
+   "tags": [
+    "hole"
+   ],
+   "bytes": 250274,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-23",
+   "title": "Rocket",
+   "file": "media/stickers/animated-nature-fun/23.webp",
+   "thumb": "media/thumbs/animated-nature-fun/23.webp",
+   "gif": "media/gifs/animated-nature-fun/23.gif",
+   "emojis": [
+    "🚀"
+   ],
+   "tags": [
+    "rocket"
+   ],
+   "bytes": 183100,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-24",
+   "title": "Check mark button",
+   "file": "media/stickers/animated-nature-fun/24.webp",
+   "thumb": "media/thumbs/animated-nature-fun/24.webp",
+   "gif": "media/gifs/animated-nature-fun/24.gif",
+   "emojis": [
+    "✅"
+   ],
+   "tags": [
+    "check-mark",
+    "check-mark-green"
+   ],
+   "bytes": 86324,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-25",
+   "title": "Hourglass not done",
+   "file": "media/stickers/animated-nature-fun/25.webp",
+   "thumb": "media/thumbs/animated-nature-fun/25.webp",
+   "gif": "media/gifs/animated-nature-fun/25.gif",
+   "emojis": [
+    "⏳"
+   ],
+   "tags": [
+    "hourglass-not-done"
+   ],
+   "bytes": 413290,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-26",
+   "title": "Full moon face",
+   "file": "media/stickers/animated-nature-fun/26.webp",
+   "thumb": "media/thumbs/animated-nature-fun/26.webp",
+   "gif": "media/gifs/animated-nature-fun/26.gif",
+   "emojis": [
+    "🌝"
+   ],
+   "tags": [
+    "moon-face-full"
+   ],
+   "bytes": 454828,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-27",
+   "title": "Tulip",
+   "file": "media/stickers/animated-nature-fun/27.webp",
+   "thumb": "media/thumbs/animated-nature-fun/27.webp",
+   "gif": "media/gifs/animated-nature-fun/27.gif",
+   "emojis": [
+    "🌷"
+   ],
+   "tags": [
+    "tulip"
+   ],
+   "bytes": 473684,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-28",
+   "title": "Basketball",
+   "file": "media/stickers/animated-nature-fun/28.webp",
+   "thumb": "media/thumbs/animated-nature-fun/28.webp",
+   "gif": "media/gifs/animated-nature-fun/28.gif",
+   "emojis": [
+    "🏀"
+   ],
+   "tags": [
+    "basketball"
+   ],
+   "bytes": 440094,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-29",
+   "title": "Bullseye",
+   "file": "media/stickers/animated-nature-fun/29.webp",
+   "thumb": "media/thumbs/animated-nature-fun/29.webp",
+   "gif": "media/gifs/animated-nature-fun/29.gif",
+   "emojis": [
+    "🎯"
+   ],
+   "tags": [
+    "direct-hit",
+    "target"
+   ],
+   "bytes": 475566,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-nature-fun-30",
+   "title": "Hundred points",
+   "file": "media/stickers/animated-nature-fun/30.webp",
+   "thumb": "media/thumbs/animated-nature-fun/30.webp",
+   "gif": "media/gifs/animated-nature-fun/30.gif",
+   "emojis": [
+    "💯"
+   ],
+   "tags": [
+    "100",
+    "hundred",
+    "one-hundred",
+    "points"
+   ],
+   "bytes": 357942,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "dogs-a14c1cfc",
+ "title": "Bhai guarding the last slice of pizza",
+ "category": "memes-dogs",
+ "file": "media/memes/memes-dogs/dogs-a14c1cfc.webp",
+ "thumb": "media/meme-thumbs/memes-dogs/dogs-a14c1cfc.webp",
+ "width": 1080,
+ "height": 891,
+ "bytes": 265876,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Bhai guarding the last slice of pizza",
+ "tags": [
+  "bhai",
+  "dog",
+  "guarding",
+  "last",
+  "pizza",
+  "slice",
+  "the"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Jakub Hałun",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3A20110425_German_Shepherd_Dog_8505.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

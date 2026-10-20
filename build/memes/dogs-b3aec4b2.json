@@ -1,0 +1,32 @@
+{
+ "id": "dogs-b3aec4b2",
+ "title": "Main character moment on the hiking trip",
+ "category": "memes-dogs",
+ "file": "media/memes/memes-dogs/dogs-b3aec4b2.webp",
+ "thumb": "media/meme-thumbs/memes-dogs/dogs-b3aec4b2.webp",
+ "width": 1080,
+ "height": 1340,
+ "bytes": 226808,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Main character moment on the hiking trip",
+ "tags": [
+  "character",
+  "dog",
+  "hiking",
+  "hill",
+  "main",
+  "moment",
+  "the",
+  "trip"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Jakub Hałun",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADog%2C_Helgafell%2C_Sn%C3%A6fellsnes_peninsula%2C_Iceland%2C_20230505_1507_5224.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

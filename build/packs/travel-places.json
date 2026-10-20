@@ -1,0 +1,513 @@
+{
+ "id": "travel-places",
+ "title": "Travel & Places",
+ "category": "nature",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/travel-places.png",
+ "cover": "media/covers/travel-places.webp",
+ "stickers": [
+  {
+   "id": "travel-places-01",
+   "title": "Airplane",
+   "file": "media/stickers/travel-places/01.webp",
+   "thumb": "media/thumbs/travel-places/01.webp",
+   "emojis": [
+    "✈️"
+   ],
+   "tags": [
+    "aeroplane",
+    "airplane"
+   ],
+   "bytes": 28762,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-02",
+   "title": "Airplane departure",
+   "file": "media/stickers/travel-places/02.webp",
+   "thumb": "media/thumbs/travel-places/02.webp",
+   "emojis": [
+    "🛫"
+   ],
+   "tags": [
+    "aeroplane",
+    "airplane",
+    "check-in",
+    "departure",
+    "departures"
+   ],
+   "bytes": 21460,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-03",
+   "title": "Airplane arrival",
+   "file": "media/stickers/travel-places/03.webp",
+   "thumb": "media/thumbs/travel-places/03.webp",
+   "emojis": [
+    "🛬"
+   ],
+   "tags": [
+    "aeroplane",
+    "airplane",
+    "airplane arrival",
+    "arrivals",
+    "arriving",
+    "landing"
+   ],
+   "bytes": 22462,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-04",
+   "title": "Rocket",
+   "file": "media/stickers/travel-places/04.webp",
+   "thumb": "media/thumbs/travel-places/04.webp",
+   "emojis": [
+    "🚀"
+   ],
+   "tags": [
+    "rocket",
+    "space"
+   ],
+   "bytes": 24582,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-05",
+   "title": "Flying saucer",
+   "file": "media/stickers/travel-places/05.webp",
+   "thumb": "media/thumbs/travel-places/05.webp",
+   "emojis": [
+    "🛸"
+   ],
+   "tags": [
+    "UFO",
+    "flying saucer"
+   ],
+   "bytes": 20240,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-06",
+   "title": "Helicopter",
+   "file": "media/stickers/travel-places/06.webp",
+   "thumb": "media/thumbs/travel-places/06.webp",
+   "emojis": [
+    "🚁"
+   ],
+   "tags": [
+    "helicopter",
+    "vehicle"
+   ],
+   "bytes": 24330,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-07",
+   "title": "Locomotive",
+   "file": "media/stickers/travel-places/07.webp",
+   "thumb": "media/thumbs/travel-places/07.webp",
+   "emojis": [
+    "🚂"
+   ],
+   "tags": [
+    "engine",
+    "locomotive",
+    "railway",
+    "steam",
+    "train"
+   ],
+   "bytes": 18602,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-08",
+   "title": "High-speed train",
+   "file": "media/stickers/travel-places/08.webp",
+   "thumb": "media/thumbs/travel-places/08.webp",
+   "emojis": [
+    "🚄"
+   ],
+   "tags": [
+    "high-speed train",
+    "railway",
+    "shinkansen",
+    "speed",
+    "train"
+   ],
+   "bytes": 13114,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-09",
+   "title": "Automobile",
+   "file": "media/stickers/travel-places/09.webp",
+   "thumb": "media/thumbs/travel-places/09.webp",
+   "emojis": [
+    "🚗"
+   ],
+   "tags": [
+    "automobile",
+    "car"
+   ],
+   "bytes": 18044,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-10",
+   "title": "Taxi",
+   "file": "media/stickers/travel-places/10.webp",
+   "thumb": "media/thumbs/travel-places/10.webp",
+   "emojis": [
+    "🚕"
+   ],
+   "tags": [
+    "taxi",
+    "vehicle"
+   ],
+   "bytes": 20332,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-11",
+   "title": "Sport utility vehicle",
+   "file": "media/stickers/travel-places/11.webp",
+   "thumb": "media/thumbs/travel-places/11.webp",
+   "emojis": [
+    "🚙"
+   ],
+   "tags": [
+    "recreational",
+    "sport utility",
+    "sport utility vehicle"
+   ],
+   "bytes": 21480,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-12",
+   "title": "Bus",
+   "file": "media/stickers/travel-places/12.webp",
+   "thumb": "media/thumbs/travel-places/12.webp",
+   "emojis": [
+    "🚌"
+   ],
+   "tags": [
+    "bus",
+    "vehicle"
+   ],
+   "bytes": 16646,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-13",
+   "title": "Police car",
+   "file": "media/stickers/travel-places/13.webp",
+   "thumb": "media/thumbs/travel-places/13.webp",
+   "emojis": [
+    "🚓"
+   ],
+   "tags": [
+    "car",
+    "patrol",
+    "police"
+   ],
+   "bytes": 18436,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-14",
+   "title": "Ambulance",
+   "file": "media/stickers/travel-places/14.webp",
+   "thumb": "media/thumbs/travel-places/14.webp",
+   "emojis": [
+    "🚑"
+   ],
+   "tags": [
+    "ambulance",
+    "vehicle"
+   ],
+   "bytes": 18262,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-15",
+   "title": "Fire engine",
+   "file": "media/stickers/travel-places/15.webp",
+   "thumb": "media/thumbs/travel-places/15.webp",
+   "emojis": [
+    "🚒"
+   ],
+   "tags": [
+    "engine",
+    "fire",
+    "truck"
+   ],
+   "bytes": 21098,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-16",
+   "title": "Auto rickshaw",
+   "file": "media/stickers/travel-places/16.webp",
+   "thumb": "media/thumbs/travel-places/16.webp",
+   "emojis": [
+    "🛺"
+   ],
+   "tags": [
+    "auto rickshaw",
+    "tuk tuk"
+   ],
+   "bytes": 20262,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-17",
+   "title": "Motorcycle",
+   "file": "media/stickers/travel-places/17.webp",
+   "thumb": "media/thumbs/travel-places/17.webp",
+   "emojis": [
+    "🏍️"
+   ],
+   "tags": [
+    "motorcycle",
+    "racing"
+   ],
+   "bytes": 23526,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-18",
+   "title": "Motor scooter",
+   "file": "media/stickers/travel-places/18.webp",
+   "thumb": "media/thumbs/travel-places/18.webp",
+   "emojis": [
+    "🛵"
+   ],
+   "tags": [
+    "motor",
+    "scooter"
+   ],
+   "bytes": 17238,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-19",
+   "title": "Bicycle",
+   "file": "media/stickers/travel-places/19.webp",
+   "thumb": "media/thumbs/travel-places/19.webp",
+   "emojis": [
+    "🚲"
+   ],
+   "tags": [
+    "bicycle",
+    "bike"
+   ],
+   "bytes": 30034,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-20",
+   "title": "Kick scooter",
+   "file": "media/stickers/travel-places/20.webp",
+   "thumb": "media/thumbs/travel-places/20.webp",
+   "emojis": [
+    "🛴"
+   ],
+   "tags": [
+    "kick",
+    "scooter"
+   ],
+   "bytes": 24326,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-21",
+   "title": "Sailboat",
+   "file": "media/stickers/travel-places/21.webp",
+   "thumb": "media/thumbs/travel-places/21.webp",
+   "emojis": [
+    "⛵"
+   ],
+   "tags": [
+    "boat",
+    "resort",
+    "sailboat",
+    "sea",
+    "yacht"
+   ],
+   "bytes": 15750,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-22",
+   "title": "Ship",
+   "file": "media/stickers/travel-places/22.webp",
+   "thumb": "media/thumbs/travel-places/22.webp",
+   "emojis": [
+    "🚢"
+   ],
+   "tags": [
+    "boat",
+    "passenger",
+    "ship"
+   ],
+   "bytes": 13734,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-23",
+   "title": "Statue of liberty",
+   "file": "media/stickers/travel-places/23.webp",
+   "thumb": "media/thumbs/travel-places/23.webp",
+   "emojis": [
+    "🗽"
+   ],
+   "tags": [
+    "Statue of Liberty",
+    "liberty",
+    "statue"
+   ],
+   "bytes": 27764,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-24",
+   "title": "Tokyo tower",
+   "file": "media/stickers/travel-places/24.webp",
+   "thumb": "media/thumbs/travel-places/24.webp",
+   "emojis": [
+    "🗼"
+   ],
+   "tags": [
+    "Tokyo",
+    "tower"
+   ],
+   "bytes": 24462,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-25",
+   "title": "Castle",
+   "file": "media/stickers/travel-places/25.webp",
+   "thumb": "media/thumbs/travel-places/25.webp",
+   "emojis": [
+    "🏰"
+   ],
+   "tags": [
+    "European",
+    "castle"
+   ],
+   "bytes": 21446,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-26",
+   "title": "Desert island",
+   "file": "media/stickers/travel-places/26.webp",
+   "thumb": "media/thumbs/travel-places/26.webp",
+   "emojis": [
+    "🏝️"
+   ],
+   "tags": [
+    "desert",
+    "island"
+   ],
+   "bytes": 22694,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-27",
+   "title": "Beach with umbrella",
+   "file": "media/stickers/travel-places/27.webp",
+   "thumb": "media/thumbs/travel-places/27.webp",
+   "emojis": [
+    "🏖️"
+   ],
+   "tags": [
+    "beach",
+    "beach with umbrella",
+    "umbrella"
+   ],
+   "bytes": 22744,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-28",
+   "title": "Mountain",
+   "file": "media/stickers/travel-places/28.webp",
+   "thumb": "media/thumbs/travel-places/28.webp",
+   "emojis": [
+    "⛰️"
+   ],
+   "tags": [
+    "mountain"
+   ],
+   "bytes": 12078,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-29",
+   "title": "Camping",
+   "file": "media/stickers/travel-places/29.webp",
+   "thumb": "media/thumbs/travel-places/29.webp",
+   "emojis": [
+    "🏕️"
+   ],
+   "tags": [
+    "camping"
+   ],
+   "bytes": 23062,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "travel-places-30",
+   "title": "Mosque",
+   "file": "media/stickers/travel-places/30.webp",
+   "thumb": "media/thumbs/travel-places/30.webp",
+   "emojis": [
+    "🕌"
+   ],
+   "tags": [
+    "Muslim",
+    "islam",
+    "mosque",
+    "religion"
+   ],
+   "bytes": 17200,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

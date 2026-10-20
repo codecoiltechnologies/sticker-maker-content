@@ -1,0 +1,32 @@
+{
+ "id": "food-26b7e013",
+ "title": "Me at the dinner table pretending I'm not hungry",
+ "category": "memes-food",
+ "file": "media/memes/memes-food/food-26b7e013.webp",
+ "thumb": "media/meme-thumbs/memes-food/food-26b7e013.webp",
+ "width": 1080,
+ "height": 959,
+ "bytes": 157328,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Me at the dinner table pretending I'm not hungry",
+ "tags": [
+  "degu",
+  "dinner",
+  "eating",
+  "hungry",
+  "not",
+  "pretending",
+  "table",
+  "the"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Pierre Camateros",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ADegu_eating_a_piece_of_dried_banana.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

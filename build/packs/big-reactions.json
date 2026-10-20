@@ -1,0 +1,353 @@
+{
+ "id": "big-reactions",
+ "title": "Big Reactions",
+ "category": "text",
+ "type": "static",
+ "language": "en",
+ "tray": "media/trays/big-reactions.png",
+ "cover": "media/covers/big-reactions.webp",
+ "stickers": [
+  {
+   "id": "big-reactions-01",
+   "title": "OMG",
+   "text": "OMG",
+   "file": "media/stickers/big-reactions/01.webp",
+   "thumb": "media/thumbs/big-reactions/01.webp",
+   "emojis": [
+    "😱"
+   ],
+   "tags": [
+    "omg"
+   ],
+   "language": "en",
+   "bytes": 29574,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-02",
+   "title": "LOL",
+   "text": "LOL",
+   "file": "media/stickers/big-reactions/02.webp",
+   "thumb": "media/thumbs/big-reactions/02.webp",
+   "emojis": [
+    "🤣"
+   ],
+   "tags": [
+    "lol"
+   ],
+   "language": "en",
+   "bytes": 33422,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-03",
+   "title": "Bruh",
+   "text": "Bruh",
+   "file": "media/stickers/big-reactions/03.webp",
+   "thumb": "media/thumbs/big-reactions/03.webp",
+   "emojis": [
+    "🙄"
+   ],
+   "tags": [
+    "bruh"
+   ],
+   "language": "en",
+   "bytes": 22082,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-04",
+   "title": "Same",
+   "text": "Same",
+   "file": "media/stickers/big-reactions/04.webp",
+   "thumb": "media/thumbs/big-reactions/04.webp",
+   "emojis": [
+    "🙋"
+   ],
+   "tags": [
+    "same"
+   ],
+   "language": "en",
+   "bytes": 28182,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-05",
+   "title": "Mood",
+   "text": "Mood",
+   "file": "media/stickers/big-reactions/05.webp",
+   "thumb": "media/thumbs/big-reactions/05.webp",
+   "emojis": [
+    "🫠"
+   ],
+   "tags": [
+    "mood"
+   ],
+   "language": "en",
+   "bytes": 27752,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-06",
+   "title": "Yasss",
+   "text": "Yasss",
+   "file": "media/stickers/big-reactions/06.webp",
+   "thumb": "media/thumbs/big-reactions/06.webp",
+   "emojis": [
+    "💅"
+   ],
+   "tags": [
+    "yasss"
+   ],
+   "language": "en",
+   "bytes": 25776,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-07",
+   "title": "Nope",
+   "text": "Nope",
+   "file": "media/stickers/big-reactions/07.webp",
+   "thumb": "media/thumbs/big-reactions/07.webp",
+   "emojis": [
+    "🙅"
+   ],
+   "tags": [
+    "nope"
+   ],
+   "language": "en",
+   "bytes": 25462,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-08",
+   "title": "Wow",
+   "text": "Wow",
+   "file": "media/stickers/big-reactions/08.webp",
+   "thumb": "media/thumbs/big-reactions/08.webp",
+   "emojis": [
+    "🤩"
+   ],
+   "tags": [
+    "wow"
+   ],
+   "language": "en",
+   "bytes": 40518,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-09",
+   "title": "Oops",
+   "text": "Oops",
+   "file": "media/stickers/big-reactions/09.webp",
+   "thumb": "media/thumbs/big-reactions/09.webp",
+   "emojis": [
+    "🫢"
+   ],
+   "tags": [
+    "oops"
+   ],
+   "language": "en",
+   "bytes": 26874,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-10",
+   "title": "Sorry",
+   "text": "Sorry",
+   "file": "media/stickers/big-reactions/10.webp",
+   "thumb": "media/thumbs/big-reactions/10.webp",
+   "emojis": [
+    "🥺"
+   ],
+   "tags": [
+    "sorry"
+   ],
+   "language": "en",
+   "bytes": 41650,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-11",
+   "title": "Thank you",
+   "text": "Thank you",
+   "file": "media/stickers/big-reactions/11.webp",
+   "thumb": "media/thumbs/big-reactions/11.webp",
+   "emojis": [
+    "🙏"
+   ],
+   "tags": [
+    "thank",
+    "you"
+   ],
+   "language": "en",
+   "bytes": 32232,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-12",
+   "title": "Yes!",
+   "text": "Yes!",
+   "file": "media/stickers/big-reactions/12.webp",
+   "thumb": "media/thumbs/big-reactions/12.webp",
+   "emojis": [
+    "👍"
+   ],
+   "tags": [
+    "yes"
+   ],
+   "language": "en",
+   "bytes": 28386,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-13",
+   "title": "No!",
+   "text": "No!",
+   "file": "media/stickers/big-reactions/13.webp",
+   "thumb": "media/thumbs/big-reactions/13.webp",
+   "emojis": [
+    "👎"
+   ],
+   "tags": [
+    "no"
+   ],
+   "language": "en",
+   "bytes": 31008,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-14",
+   "title": "OK",
+   "text": "OK",
+   "file": "media/stickers/big-reactions/14.webp",
+   "thumb": "media/thumbs/big-reactions/14.webp",
+   "emojis": [
+    "👌"
+   ],
+   "tags": [
+    "ok"
+   ],
+   "language": "en",
+   "bytes": 29120,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-15",
+   "title": "Whatever",
+   "text": "Whatever",
+   "file": "media/stickers/big-reactions/15.webp",
+   "thumb": "media/thumbs/big-reactions/15.webp",
+   "emojis": [
+    "🤷"
+   ],
+   "tags": [
+    "whatever"
+   ],
+   "language": "en",
+   "bytes": 22890,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-16",
+   "title": "Facts",
+   "text": "Facts",
+   "file": "media/stickers/big-reactions/16.webp",
+   "thumb": "media/thumbs/big-reactions/16.webp",
+   "emojis": [
+    "💯"
+   ],
+   "tags": [
+    "facts"
+   ],
+   "language": "en",
+   "bytes": 22938,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-17",
+   "title": "Cringe",
+   "text": "Cringe",
+   "file": "media/stickers/big-reactions/17.webp",
+   "thumb": "media/thumbs/big-reactions/17.webp",
+   "emojis": [
+    "😬"
+   ],
+   "tags": [
+    "cringe"
+   ],
+   "language": "en",
+   "bytes": 27116,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-18",
+   "title": "Slay",
+   "text": "Slay",
+   "file": "media/stickers/big-reactions/18.webp",
+   "thumb": "media/thumbs/big-reactions/18.webp",
+   "emojis": [
+    "👑"
+   ],
+   "tags": [
+    "slay"
+   ],
+   "language": "en",
+   "bytes": 37050,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-19",
+   "title": "Love it",
+   "text": "Love it",
+   "file": "media/stickers/big-reactions/19.webp",
+   "thumb": "media/thumbs/big-reactions/19.webp",
+   "emojis": [
+    "😍"
+   ],
+   "tags": [
+    "love",
+    "it"
+   ],
+   "language": "en",
+   "bytes": 39360,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "big-reactions-20",
+   "title": "Hahaha",
+   "text": "Hahaha",
+   "file": "media/stickers/big-reactions/20.webp",
+   "thumb": "media/thumbs/big-reactions/20.webp",
+   "emojis": [
+    "😂"
+   ],
+   "tags": [
+    "hahaha"
+   ],
+   "language": "en",
+   "bytes": 34192,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

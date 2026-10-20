@@ -1,0 +1,371 @@
+{
+ "id": "polite-replies",
+ "title": "Polite Replies",
+ "category": "reactions",
+ "type": "static",
+ "language": "ur-Latn",
+ "tray": "media/trays/polite-replies.png",
+ "cover": "media/covers/polite-replies.webp",
+ "stickers": [
+  {
+   "id": "polite-replies-01",
+   "title": "Shukriya",
+   "text": "Shukriya",
+   "file": "media/stickers/polite-replies/01.webp",
+   "thumb": "media/thumbs/polite-replies/01.webp",
+   "emojis": [
+    "🙏"
+   ],
+   "tags": [
+    "shukriya"
+   ],
+   "language": "ur-Latn",
+   "bytes": 31642,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-02",
+   "title": "Thanks a lot",
+   "text": "Thanks a lot",
+   "file": "media/stickers/polite-replies/02.webp",
+   "thumb": "media/thumbs/polite-replies/02.webp",
+   "emojis": [
+    "💐"
+   ],
+   "tags": [
+    "thanks",
+    "a",
+    "lot"
+   ],
+   "language": "ur-Latn",
+   "bytes": 45410,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-03",
+   "title": "Maaf karna",
+   "text": "Maaf karna",
+   "file": "media/stickers/polite-replies/03.webp",
+   "thumb": "media/thumbs/polite-replies/03.webp",
+   "emojis": [
+    "🥺"
+   ],
+   "tags": [
+    "maaf",
+    "karna"
+   ],
+   "language": "ur-Latn",
+   "bytes": 34954,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-04",
+   "title": "Welcome",
+   "text": "Welcome",
+   "file": "media/stickers/polite-replies/04.webp",
+   "thumb": "media/thumbs/polite-replies/04.webp",
+   "emojis": [
+    "🤗"
+   ],
+   "tags": [
+    "welcome"
+   ],
+   "language": "ur-Latn",
+   "bytes": 32582,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-05",
+   "title": "No problem",
+   "text": "No problem",
+   "file": "media/stickers/polite-replies/05.webp",
+   "thumb": "media/thumbs/polite-replies/05.webp",
+   "emojis": [
+    "👌"
+   ],
+   "tags": [
+    "no",
+    "problem"
+   ],
+   "language": "ur-Latn",
+   "bytes": 36820,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-06",
+   "title": "Koi baat nahi",
+   "text": "Koi baat nahi",
+   "file": "media/stickers/polite-replies/06.webp",
+   "thumb": "media/thumbs/polite-replies/06.webp",
+   "emojis": [
+    "😊"
+   ],
+   "tags": [
+    "koi",
+    "baat",
+    "nahi"
+   ],
+   "language": "ur-Latn",
+   "bytes": 42054,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-07",
+   "title": "Please",
+   "text": "Please",
+   "file": "media/stickers/polite-replies/07.webp",
+   "thumb": "media/thumbs/polite-replies/07.webp",
+   "emojis": [
+    "🙏"
+   ],
+   "tags": [
+    "please"
+   ],
+   "language": "ur-Latn",
+   "bytes": 32932,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-08",
+   "title": "Congrats!",
+   "text": "Congrats!",
+   "file": "media/stickers/polite-replies/08.webp",
+   "thumb": "media/thumbs/polite-replies/08.webp",
+   "emojis": [
+    "🎉"
+   ],
+   "tags": [
+    "congrats"
+   ],
+   "language": "ur-Latn",
+   "bytes": 26914,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-09",
+   "title": "Mubarak ho",
+   "text": "Mubarak ho",
+   "file": "media/stickers/polite-replies/09.webp",
+   "thumb": "media/thumbs/polite-replies/09.webp",
+   "emojis": [
+    "🎊"
+   ],
+   "tags": [
+    "mubarak",
+    "ho"
+   ],
+   "language": "ur-Latn",
+   "bytes": 43760,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-10",
+   "title": "Get well soon",
+   "text": "Get well soon",
+   "file": "media/stickers/polite-replies/10.webp",
+   "thumb": "media/thumbs/polite-replies/10.webp",
+   "emojis": [
+    "💊"
+   ],
+   "tags": [
+    "get",
+    "well",
+    "soon"
+   ],
+   "language": "ur-Latn",
+   "bytes": 37878,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-11",
+   "title": "Take care",
+   "text": "Take care",
+   "file": "media/stickers/polite-replies/11.webp",
+   "thumb": "media/thumbs/polite-replies/11.webp",
+   "emojis": [
+    "💖"
+   ],
+   "tags": [
+    "take",
+    "care"
+   ],
+   "language": "ur-Latn",
+   "bytes": 39322,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-12",
+   "title": "Khayal rakhna",
+   "text": "Khayal rakhna",
+   "file": "media/stickers/polite-replies/12.webp",
+   "thumb": "media/thumbs/polite-replies/12.webp",
+   "emojis": [
+    "🤗"
+   ],
+   "tags": [
+    "khayal",
+    "rakhna"
+   ],
+   "language": "ur-Latn",
+   "bytes": 46380,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-13",
+   "title": "Best of luck",
+   "text": "Best of luck",
+   "file": "media/stickers/polite-replies/13.webp",
+   "thumb": "media/thumbs/polite-replies/13.webp",
+   "emojis": [
+    "🍀"
+   ],
+   "tags": [
+    "best",
+    "of",
+    "luck"
+   ],
+   "language": "ur-Latn",
+   "bytes": 40430,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-14",
+   "title": "Ok ji",
+   "text": "Ok ji",
+   "file": "media/stickers/polite-replies/14.webp",
+   "thumb": "media/thumbs/polite-replies/14.webp",
+   "emojis": [
+    "👍"
+   ],
+   "tags": [
+    "ok",
+    "ji"
+   ],
+   "language": "ur-Latn",
+   "bytes": 28362,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-15",
+   "title": "Ji haan",
+   "text": "Ji haan",
+   "file": "media/stickers/polite-replies/15.webp",
+   "thumb": "media/thumbs/polite-replies/15.webp",
+   "emojis": [
+    "✅"
+   ],
+   "tags": [
+    "ji",
+    "haan"
+   ],
+   "language": "ur-Latn",
+   "bytes": 31360,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-16",
+   "title": "Ji nahi",
+   "text": "Ji nahi",
+   "file": "media/stickers/polite-replies/16.webp",
+   "thumb": "media/thumbs/polite-replies/16.webp",
+   "emojis": [
+    "❌"
+   ],
+   "tags": [
+    "ji",
+    "nahi"
+   ],
+   "language": "ur-Latn",
+   "bytes": 36360,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-17",
+   "title": "Khush raho",
+   "text": "Khush raho",
+   "file": "media/stickers/polite-replies/17.webp",
+   "thumb": "media/thumbs/polite-replies/17.webp",
+   "emojis": [
+    "😊"
+   ],
+   "tags": [
+    "khush",
+    "raho"
+   ],
+   "language": "ur-Latn",
+   "bytes": 44264,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-18",
+   "title": "Safe travels",
+   "text": "Safe travels",
+   "file": "media/stickers/polite-replies/18.webp",
+   "thumb": "media/thumbs/polite-replies/18.webp",
+   "emojis": [
+    "✈️"
+   ],
+   "tags": [
+    "safe",
+    "travels"
+   ],
+   "language": "ur-Latn",
+   "bytes": 49290,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-19",
+   "title": "Welcome home",
+   "text": "Welcome home",
+   "file": "media/stickers/polite-replies/19.webp",
+   "thumb": "media/thumbs/polite-replies/19.webp",
+   "emojis": [
+    "🏠"
+   ],
+   "tags": [
+    "welcome",
+    "home"
+   ],
+   "language": "ur-Latn",
+   "bytes": 42218,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "polite-replies-20",
+   "title": "Shaadi Mubarak",
+   "text": "Shaadi Mubarak",
+   "file": "media/stickers/polite-replies/20.webp",
+   "thumb": "media/thumbs/polite-replies/20.webp",
+   "emojis": [
+    "💍"
+   ],
+   "tags": [
+    "shaadi",
+    "mubarak"
+   ],
+   "language": "ur-Latn",
+   "bytes": 54274,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "id": "sad-heartbreak",
+ "title": "Sad & Heartbreak",
+ "category": "sad",
+ "type": "static",
+ "language": "en",
+ "tray": "media/trays/sad-heartbreak.png",
+ "cover": "media/covers/sad-heartbreak.webp",
+ "stickers": [
+  {
+   "id": "sad-heartbreak-01",
+   "title": "Dil toot gaya",
+   "text": "Dil toot gaya",
+   "file": "media/stickers/sad-heartbreak/01.webp",
+   "thumb": "media/thumbs/sad-heartbreak/01.webp",
+   "emojis": [
+    "💔"
+   ],
+   "tags": [
+    "dil",
+    "toot",
+    "gaya"
+   ],
+   "language": "en",
+   "bytes": 40958,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-02",
+   "title": "Sad",
+   "text": "Sad",
+   "file": "media/stickers/sad-heartbreak/02.webp",
+   "thumb": "media/thumbs/sad-heartbreak/02.webp",
+   "emojis": [
+    "😢"
+   ],
+   "tags": [
+    "sad"
+   ],
+   "language": "en",
+   "bytes": 39688,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-03",
+   "title": "Hurt",
+   "text": "Hurt",
+   "file": "media/stickers/sad-heartbreak/03.webp",
+   "thumb": "media/thumbs/sad-heartbreak/03.webp",
+   "emojis": [
+    "❤️‍🩹"
+   ],
+   "tags": [
+    "hurt"
+   ],
+   "language": "en",
+   "bytes": 21378,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-04",
+   "title": "Alone",
+   "text": "Alone",
+   "file": "media/stickers/sad-heartbreak/04.webp",
+   "thumb": "media/thumbs/sad-heartbreak/04.webp",
+   "emojis": [
+    "🌧️"
+   ],
+   "tags": [
+    "alone"
+   ],
+   "language": "en",
+   "bytes": 34480,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-05",
+   "title": "Why me?",
+   "text": "Why me?",
+   "file": "media/stickers/sad-heartbreak/05.webp",
+   "thumb": "media/thumbs/sad-heartbreak/05.webp",
+   "emojis": [
+    "😞"
+   ],
+   "tags": [
+    "why",
+    "me"
+   ],
+   "language": "en",
+   "bytes": 34182,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-06",
+   "title": "I'm fine (not)",
+   "text": "I'm fine (not)",
+   "file": "media/stickers/sad-heartbreak/06.webp",
+   "thumb": "media/thumbs/sad-heartbreak/06.webp",
+   "emojis": [
+    "🙃"
+   ],
+   "tags": [
+    "i'm",
+    "fine",
+    "(not)"
+   ],
+   "language": "en",
+   "bytes": 40852,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-07",
+   "title": "Crying",
+   "text": "Crying",
+   "file": "media/stickers/sad-heartbreak/07.webp",
+   "thumb": "media/thumbs/sad-heartbreak/07.webp",
+   "emojis": [
+    "😭"
+   ],
+   "tags": [
+    "crying"
+   ],
+   "language": "en",
+   "bytes": 42478,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-08",
+   "title": "Broken",
+   "text": "Broken",
+   "file": "media/stickers/sad-heartbreak/08.webp",
+   "thumb": "media/thumbs/sad-heartbreak/08.webp",
+   "emojis": [
+    "💔"
+   ],
+   "tags": [
+    "broken"
+   ],
+   "language": "en",
+   "bytes": 23080,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-09",
+   "title": "Tanhai",
+   "text": "Tanhai",
+   "file": "media/stickers/sad-heartbreak/09.webp",
+   "thumb": "media/thumbs/sad-heartbreak/09.webp",
+   "emojis": [
+    "🌙"
+   ],
+   "tags": [
+    "tanhai"
+   ],
+   "language": "en",
+   "bytes": 35254,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-10",
+   "title": "Dil toot gaya (دل ٹوٹ گیا)",
+   "text": "دل ٹوٹ گیا",
+   "file": "media/stickers/sad-heartbreak/10.webp",
+   "thumb": "media/thumbs/sad-heartbreak/10.webp",
+   "emojis": [
+    "💔"
+   ],
+   "tags": [
+    "dil",
+    "toot",
+    "gaya",
+    "دل",
+    "ٹوٹ",
+    "گیا"
+   ],
+   "language": "ur",
+   "bytes": 61040,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-11",
+   "title": "Rona aa raha hai",
+   "text": "Rona aa raha hai",
+   "file": "media/stickers/sad-heartbreak/11.webp",
+   "thumb": "media/thumbs/sad-heartbreak/11.webp",
+   "emojis": [
+    "🥲"
+   ],
+   "tags": [
+    "rona",
+    "aa",
+    "raha",
+    "hai"
+   ],
+   "language": "en",
+   "bytes": 50004,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-12",
+   "title": "Mood off",
+   "text": "Mood off",
+   "file": "media/stickers/sad-heartbreak/12.webp",
+   "thumb": "media/thumbs/sad-heartbreak/12.webp",
+   "emojis": [
+    "😑"
+   ],
+   "tags": [
+    "mood",
+    "off"
+   ],
+   "language": "en",
+   "bytes": 29020,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-13",
+   "title": "Not okay",
+   "text": "Not okay",
+   "file": "media/stickers/sad-heartbreak/13.webp",
+   "thumb": "media/thumbs/sad-heartbreak/13.webp",
+   "emojis": [
+    "😔"
+   ],
+   "tags": [
+    "not",
+    "okay"
+   ],
+   "language": "en",
+   "bytes": 32776,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-14",
+   "title": "Udaas",
+   "text": "Udaas",
+   "file": "media/stickers/sad-heartbreak/14.webp",
+   "thumb": "media/thumbs/sad-heartbreak/14.webp",
+   "emojis": [
+    "🥀"
+   ],
+   "tags": [
+    "udaas"
+   ],
+   "language": "en",
+   "bytes": 37854,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-15",
+   "title": "Leave me alone",
+   "text": "Leave me alone",
+   "file": "media/stickers/sad-heartbreak/15.webp",
+   "thumb": "media/thumbs/sad-heartbreak/15.webp",
+   "emojis": [
+    "🚪"
+   ],
+   "tags": [
+    "leave",
+    "me",
+    "alone"
+   ],
+   "language": "en",
+   "bytes": 33934,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-16",
+   "title": "Heartbreak",
+   "text": "Heartbreak",
+   "file": "media/stickers/sad-heartbreak/16.webp",
+   "thumb": "media/thumbs/sad-heartbreak/16.webp",
+   "emojis": [
+    "💔"
+   ],
+   "tags": [
+    "heartbreak"
+   ],
+   "language": "en",
+   "bytes": 30066,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-17",
+   "title": "Kisi ko parwah nahi",
+   "text": "Kisi ko parwah nahi",
+   "file": "media/stickers/sad-heartbreak/17.webp",
+   "thumb": "media/thumbs/sad-heartbreak/17.webp",
+   "emojis": [
+    "😶"
+   ],
+   "tags": [
+    "kisi",
+    "ko",
+    "parwah",
+    "nahi"
+   ],
+   "language": "en",
+   "bytes": 34790,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "sad-heartbreak-18",
+   "title": "Yaad aa rahi hai",
+   "text": "Yaad aa rahi hai",
+   "file": "media/stickers/sad-heartbreak/18.webp",
+   "thumb": "media/thumbs/sad-heartbreak/18.webp",
+   "emojis": [
+    "💭"
+   ],
+   "tags": [
+    "yaad",
+    "aa",
+    "rahi",
+    "hai"
+   ],
+   "language": "en",
+   "bytes": 47124,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

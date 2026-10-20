@@ -1,0 +1,379 @@
+{
+ "id": "bugs-reptiles",
+ "title": "Bugs & Reptiles",
+ "category": "animals",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/bugs-reptiles.png",
+ "cover": "media/covers/bugs-reptiles.webp",
+ "stickers": [
+  {
+   "id": "bugs-reptiles-01",
+   "title": "Frog",
+   "file": "media/stickers/bugs-reptiles/01.webp",
+   "thumb": "media/thumbs/bugs-reptiles/01.webp",
+   "emojis": [
+    "🐸"
+   ],
+   "tags": [
+    "face",
+    "frog"
+   ],
+   "bytes": 25208,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-02",
+   "title": "Turtle",
+   "file": "media/stickers/bugs-reptiles/02.webp",
+   "thumb": "media/thumbs/bugs-reptiles/02.webp",
+   "emojis": [
+    "🐢"
+   ],
+   "tags": [
+    "terrapin",
+    "tortoise",
+    "turtle"
+   ],
+   "bytes": 16292,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-03",
+   "title": "Snake",
+   "file": "media/stickers/bugs-reptiles/03.webp",
+   "thumb": "media/thumbs/bugs-reptiles/03.webp",
+   "emojis": [
+    "🐍"
+   ],
+   "tags": [
+    "Ophiuchus",
+    "bearer",
+    "serpent",
+    "snake",
+    "zodiac"
+   ],
+   "bytes": 31434,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-04",
+   "title": "Lizard",
+   "file": "media/stickers/bugs-reptiles/04.webp",
+   "thumb": "media/thumbs/bugs-reptiles/04.webp",
+   "emojis": [
+    "🦎"
+   ],
+   "tags": [
+    "lizard",
+    "reptile"
+   ],
+   "bytes": 27898,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-05",
+   "title": "Crocodile",
+   "file": "media/stickers/bugs-reptiles/05.webp",
+   "thumb": "media/thumbs/bugs-reptiles/05.webp",
+   "emojis": [
+    "🐊"
+   ],
+   "tags": [
+    "crocodile"
+   ],
+   "bytes": 30400,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-06",
+   "title": "T-rex",
+   "file": "media/stickers/bugs-reptiles/06.webp",
+   "thumb": "media/thumbs/bugs-reptiles/06.webp",
+   "emojis": [
+    "🦖"
+   ],
+   "tags": [
+    "T-Rex",
+    "Tyrannosaurus Rex"
+   ],
+   "bytes": 22964,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-07",
+   "title": "Sauropod",
+   "file": "media/stickers/bugs-reptiles/07.webp",
+   "thumb": "media/thumbs/bugs-reptiles/07.webp",
+   "emojis": [
+    "🦕"
+   ],
+   "tags": [
+    "brachiosaurus",
+    "brontosaurus",
+    "diplodocus",
+    "sauropod"
+   ],
+   "bytes": 21118,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-08",
+   "title": "Dragon",
+   "file": "media/stickers/bugs-reptiles/08.webp",
+   "thumb": "media/thumbs/bugs-reptiles/08.webp",
+   "emojis": [
+    "🐉"
+   ],
+   "tags": [
+    "dragon",
+    "fairy tale"
+   ],
+   "bytes": 35238,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-09",
+   "title": "Dragon face",
+   "file": "media/stickers/bugs-reptiles/09.webp",
+   "thumb": "media/thumbs/bugs-reptiles/09.webp",
+   "emojis": [
+    "🐲"
+   ],
+   "tags": [
+    "dragon",
+    "face",
+    "fairy tale"
+   ],
+   "bytes": 30032,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-10",
+   "title": "Snail",
+   "file": "media/stickers/bugs-reptiles/10.webp",
+   "thumb": "media/thumbs/bugs-reptiles/10.webp",
+   "emojis": [
+    "🐌"
+   ],
+   "tags": [
+    "snail"
+   ],
+   "bytes": 21560,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-11",
+   "title": "Bug",
+   "file": "media/stickers/bugs-reptiles/11.webp",
+   "thumb": "media/thumbs/bugs-reptiles/11.webp",
+   "emojis": [
+    "🐛"
+   ],
+   "tags": [
+    "bug",
+    "insect"
+   ],
+   "bytes": 22500,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-12",
+   "title": "Butterfly",
+   "file": "media/stickers/bugs-reptiles/12.webp",
+   "thumb": "media/thumbs/bugs-reptiles/12.webp",
+   "emojis": [
+    "🦋"
+   ],
+   "tags": [
+    "butterfly",
+    "insect",
+    "pretty"
+   ],
+   "bytes": 40830,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-13",
+   "title": "Lady beetle",
+   "file": "media/stickers/bugs-reptiles/13.webp",
+   "thumb": "media/thumbs/bugs-reptiles/13.webp",
+   "emojis": [
+    "🐞"
+   ],
+   "tags": [
+    "beetle",
+    "insect",
+    "lady beetle",
+    "ladybird",
+    "ladybug"
+   ],
+   "bytes": 30854,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-14",
+   "title": "Honeybee",
+   "file": "media/stickers/bugs-reptiles/14.webp",
+   "thumb": "media/thumbs/bugs-reptiles/14.webp",
+   "emojis": [
+    "🐝"
+   ],
+   "tags": [
+    "bee",
+    "honeybee",
+    "insect"
+   ],
+   "bytes": 23814,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-15",
+   "title": "Ant",
+   "file": "media/stickers/bugs-reptiles/15.webp",
+   "thumb": "media/thumbs/bugs-reptiles/15.webp",
+   "emojis": [
+    "🐜"
+   ],
+   "tags": [
+    "ant",
+    "insect"
+   ],
+   "bytes": 28044,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-16",
+   "title": "Beetle",
+   "file": "media/stickers/bugs-reptiles/16.webp",
+   "thumb": "media/thumbs/bugs-reptiles/16.webp",
+   "emojis": [
+    "🪲"
+   ],
+   "tags": [
+    "beetle",
+    "bug",
+    "insect"
+   ],
+   "bytes": 31376,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-17",
+   "title": "Cricket",
+   "file": "media/stickers/bugs-reptiles/17.webp",
+   "thumb": "media/thumbs/bugs-reptiles/17.webp",
+   "emojis": [
+    "🦗"
+   ],
+   "tags": [
+    "cricket",
+    "grasshopper"
+   ],
+   "bytes": 21364,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-18",
+   "title": "Spider",
+   "file": "media/stickers/bugs-reptiles/18.webp",
+   "thumb": "media/thumbs/bugs-reptiles/18.webp",
+   "emojis": [
+    "🕷️"
+   ],
+   "tags": [
+    "insect",
+    "spider"
+   ],
+   "bytes": 38398,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-19",
+   "title": "Scorpion",
+   "file": "media/stickers/bugs-reptiles/19.webp",
+   "thumb": "media/thumbs/bugs-reptiles/19.webp",
+   "emojis": [
+    "🦂"
+   ],
+   "tags": [
+    "Scorpio",
+    "scorpio",
+    "scorpion",
+    "zodiac"
+   ],
+   "bytes": 36468,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-20",
+   "title": "Spiral shell",
+   "file": "media/stickers/bugs-reptiles/20.webp",
+   "thumb": "media/thumbs/bugs-reptiles/20.webp",
+   "emojis": [
+    "🐚"
+   ],
+   "tags": [
+    "shell",
+    "spiral"
+   ],
+   "bytes": 18042,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-21",
+   "title": "Coral",
+   "file": "media/stickers/bugs-reptiles/21.webp",
+   "thumb": "media/thumbs/bugs-reptiles/21.webp",
+   "emojis": [
+    "🪸"
+   ],
+   "tags": [
+    "coral",
+    "ocean",
+    "reef"
+   ],
+   "bytes": 36226,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "bugs-reptiles-22",
+   "title": "Worm",
+   "file": "media/stickers/bugs-reptiles/22.webp",
+   "thumb": "media/thumbs/bugs-reptiles/22.webp",
+   "emojis": [
+    "🪱"
+   ],
+   "tags": [
+    "annelid",
+    "earthworm",
+    "parasite",
+    "worm"
+   ],
+   "bytes": 25704,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

@@ -1,0 +1,524 @@
+{
+ "id": "fantasy-friends",
+ "title": "Fantasy Friends",
+ "category": "cartoon",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/fantasy-friends.png",
+ "cover": "media/covers/fantasy-friends.webp",
+ "stickers": [
+  {
+   "id": "fantasy-friends-01",
+   "title": "Baby angel",
+   "file": "media/stickers/fantasy-friends/01.webp",
+   "thumb": "media/thumbs/fantasy-friends/01.webp",
+   "emojis": [
+    "👼"
+   ],
+   "tags": [
+    "angel",
+    "baby",
+    "face",
+    "fairy tale",
+    "fantasy"
+   ],
+   "bytes": 30846,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-02",
+   "title": "Santa claus",
+   "file": "media/stickers/fantasy-friends/02.webp",
+   "thumb": "media/thumbs/fantasy-friends/02.webp",
+   "emojis": [
+    "🎅"
+   ],
+   "tags": [
+    "Christmas",
+    "Santa Claus",
+    "celebration",
+    "claus",
+    "father",
+    "santa"
+   ],
+   "bytes": 30146,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-03",
+   "title": "Mrs. claus",
+   "file": "media/stickers/fantasy-friends/03.webp",
+   "thumb": "media/thumbs/fantasy-friends/03.webp",
+   "emojis": [
+    "🤶"
+   ],
+   "tags": [
+    "Christmas",
+    "Mrs.",
+    "Mrs. Claus",
+    "celebration",
+    "claus",
+    "mother"
+   ],
+   "bytes": 26808,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-04",
+   "title": "Superhero",
+   "file": "media/stickers/fantasy-friends/04.webp",
+   "thumb": "media/thumbs/fantasy-friends/04.webp",
+   "emojis": [
+    "🦸"
+   ],
+   "tags": [
+    "good",
+    "hero",
+    "heroine",
+    "superhero",
+    "superpower"
+   ],
+   "bytes": 25094,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-05",
+   "title": "Man superhero",
+   "file": "media/stickers/fantasy-friends/05.webp",
+   "thumb": "media/thumbs/fantasy-friends/05.webp",
+   "emojis": [
+    "🦸‍♂️"
+   ],
+   "tags": [
+    "good",
+    "hero",
+    "man",
+    "man superhero",
+    "superpower"
+   ],
+   "bytes": 24844,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-06",
+   "title": "Woman superhero",
+   "file": "media/stickers/fantasy-friends/06.webp",
+   "thumb": "media/thumbs/fantasy-friends/06.webp",
+   "emojis": [
+    "🦸‍♀️"
+   ],
+   "tags": [
+    "good",
+    "hero",
+    "heroine",
+    "superpower",
+    "woman",
+    "woman superhero"
+   ],
+   "bytes": 25298,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-07",
+   "title": "Supervillain",
+   "file": "media/stickers/fantasy-friends/07.webp",
+   "thumb": "media/thumbs/fantasy-friends/07.webp",
+   "emojis": [
+    "🦹"
+   ],
+   "tags": [
+    "criminal",
+    "evil",
+    "superpower",
+    "supervillain",
+    "villain"
+   ],
+   "bytes": 26724,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-08",
+   "title": "Woman supervillain",
+   "file": "media/stickers/fantasy-friends/08.webp",
+   "thumb": "media/thumbs/fantasy-friends/08.webp",
+   "emojis": [
+    "🦹‍♀️"
+   ],
+   "tags": [
+    "criminal",
+    "evil",
+    "superpower",
+    "villain",
+    "woman",
+    "woman supervillain"
+   ],
+   "bytes": 26248,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-09",
+   "title": "Mage",
+   "file": "media/stickers/fantasy-friends/09.webp",
+   "thumb": "media/thumbs/fantasy-friends/09.webp",
+   "emojis": [
+    "🧙"
+   ],
+   "tags": [
+    "mage",
+    "sorcerer",
+    "sorceress",
+    "witch",
+    "wizard"
+   ],
+   "bytes": 30058,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-10",
+   "title": "Man mage",
+   "file": "media/stickers/fantasy-friends/10.webp",
+   "thumb": "media/thumbs/fantasy-friends/10.webp",
+   "emojis": [
+    "🧙‍♂️"
+   ],
+   "tags": [
+    "man mage",
+    "sorcerer",
+    "wizard"
+   ],
+   "bytes": 28832,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-11",
+   "title": "Woman mage",
+   "file": "media/stickers/fantasy-friends/11.webp",
+   "thumb": "media/thumbs/fantasy-friends/11.webp",
+   "emojis": [
+    "🧙‍♀️"
+   ],
+   "tags": [
+    "sorceress",
+    "witch",
+    "woman mage"
+   ],
+   "bytes": 30440,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-12",
+   "title": "Fairy",
+   "file": "media/stickers/fantasy-friends/12.webp",
+   "thumb": "media/thumbs/fantasy-friends/12.webp",
+   "emojis": [
+    "🧚"
+   ],
+   "tags": [
+    "Oberon",
+    "Puck",
+    "Titania",
+    "fairy"
+   ],
+   "bytes": 26096,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-13",
+   "title": "Woman fairy",
+   "file": "media/stickers/fantasy-friends/13.webp",
+   "thumb": "media/thumbs/fantasy-friends/13.webp",
+   "emojis": [
+    "🧚‍♀️"
+   ],
+   "tags": [
+    "Titania",
+    "woman fairy"
+   ],
+   "bytes": 25786,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-14",
+   "title": "Vampire",
+   "file": "media/stickers/fantasy-friends/14.webp",
+   "thumb": "media/thumbs/fantasy-friends/14.webp",
+   "emojis": [
+    "🧛"
+   ],
+   "tags": [
+    "Dracula",
+    "undead",
+    "vampire"
+   ],
+   "bytes": 23686,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-15",
+   "title": "Woman vampire",
+   "file": "media/stickers/fantasy-friends/15.webp",
+   "thumb": "media/thumbs/fantasy-friends/15.webp",
+   "emojis": [
+    "🧛‍♀️"
+   ],
+   "tags": [
+    "undead",
+    "woman vampire"
+   ],
+   "bytes": 23984,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-16",
+   "title": "Merperson",
+   "file": "media/stickers/fantasy-friends/16.webp",
+   "thumb": "media/thumbs/fantasy-friends/16.webp",
+   "emojis": [
+    "🧜"
+   ],
+   "tags": [
+    "mermaid",
+    "merman",
+    "merperson",
+    "merwoman"
+   ],
+   "bytes": 27266,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-17",
+   "title": "Mermaid",
+   "file": "media/stickers/fantasy-friends/17.webp",
+   "thumb": "media/thumbs/fantasy-friends/17.webp",
+   "emojis": [
+    "🧜‍♀️"
+   ],
+   "tags": [
+    "mermaid",
+    "merwoman"
+   ],
+   "bytes": 28808,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-18",
+   "title": "Elf",
+   "file": "media/stickers/fantasy-friends/18.webp",
+   "thumb": "media/thumbs/fantasy-friends/18.webp",
+   "emojis": [
+    "🧝"
+   ],
+   "tags": [
+    "elf",
+    "magical"
+   ],
+   "bytes": 23972,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-19",
+   "title": "Woman elf",
+   "file": "media/stickers/fantasy-friends/19.webp",
+   "thumb": "media/thumbs/fantasy-friends/19.webp",
+   "emojis": [
+    "🧝‍♀️"
+   ],
+   "tags": [
+    "magical",
+    "woman elf"
+   ],
+   "bytes": 22800,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-20",
+   "title": "Genie",
+   "file": "media/stickers/fantasy-friends/20.webp",
+   "thumb": "media/thumbs/fantasy-friends/20.webp",
+   "emojis": [
+    "🧞"
+   ],
+   "tags": [
+    "djinn",
+    "genie"
+   ],
+   "bytes": 23064,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-21",
+   "title": "Man genie",
+   "file": "media/stickers/fantasy-friends/21.webp",
+   "thumb": "media/thumbs/fantasy-friends/21.webp",
+   "emojis": [
+    "🧞‍♂️"
+   ],
+   "tags": [
+    "djinn",
+    "man genie"
+   ],
+   "bytes": 24750,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-22",
+   "title": "Zombie",
+   "file": "media/stickers/fantasy-friends/22.webp",
+   "thumb": "media/thumbs/fantasy-friends/22.webp",
+   "emojis": [
+    "🧟"
+   ],
+   "tags": [
+    "undead",
+    "walking dead",
+    "zombie"
+   ],
+   "bytes": 29584,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-23",
+   "title": "Woman zombie",
+   "file": "media/stickers/fantasy-friends/23.webp",
+   "thumb": "media/thumbs/fantasy-friends/23.webp",
+   "emojis": [
+    "🧟‍♀️"
+   ],
+   "tags": [
+    "undead",
+    "walking dead",
+    "woman zombie"
+   ],
+   "bytes": 27652,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-24",
+   "title": "Troll",
+   "file": "media/stickers/fantasy-friends/24.webp",
+   "thumb": "media/thumbs/fantasy-friends/24.webp",
+   "emojis": [
+    "🧌"
+   ],
+   "tags": [
+    "fairy tale",
+    "fantasy",
+    "monster",
+    "troll"
+   ],
+   "bytes": 29078,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-25",
+   "title": "Ninja",
+   "file": "media/stickers/fantasy-friends/25.webp",
+   "thumb": "media/thumbs/fantasy-friends/25.webp",
+   "emojis": [
+    "🥷"
+   ],
+   "tags": [
+    "fighter",
+    "hidden",
+    "ninja",
+    "stealth"
+   ],
+   "bytes": 22906,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-26",
+   "title": "Princess",
+   "file": "media/stickers/fantasy-friends/26.webp",
+   "thumb": "media/thumbs/fantasy-friends/26.webp",
+   "emojis": [
+    "👸"
+   ],
+   "tags": [
+    "fairy tale",
+    "fantasy",
+    "princess"
+   ],
+   "bytes": 29096,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-27",
+   "title": "Prince",
+   "file": "media/stickers/fantasy-friends/27.webp",
+   "thumb": "media/thumbs/fantasy-friends/27.webp",
+   "emojis": [
+    "🤴"
+   ],
+   "tags": [
+    "prince"
+   ],
+   "bytes": 26666,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-28",
+   "title": "Person in tuxedo",
+   "file": "media/stickers/fantasy-friends/28.webp",
+   "thumb": "media/thumbs/fantasy-friends/28.webp",
+   "emojis": [
+    "🤵"
+   ],
+   "tags": [
+    "groom",
+    "person",
+    "person in tuxedo",
+    "tuxedo"
+   ],
+   "bytes": 21932,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fantasy-friends-29",
+   "title": "Person with veil",
+   "file": "media/stickers/fantasy-friends/29.webp",
+   "thumb": "media/thumbs/fantasy-friends/29.webp",
+   "emojis": [
+    "👰"
+   ],
+   "tags": [
+    "bride",
+    "person",
+    "person with veil",
+    "veil",
+    "wedding"
+   ],
+   "bytes": 21062,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

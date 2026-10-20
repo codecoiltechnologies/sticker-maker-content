@@ -1,0 +1,308 @@
+{
+ "id": "good-night",
+ "title": "Good Night",
+ "category": "good-morning",
+ "type": "static",
+ "language": "en",
+ "tray": "media/trays/good-night.png",
+ "cover": "media/covers/good-night.webp",
+ "stickers": [
+  {
+   "id": "good-night-01",
+   "title": "Good Night",
+   "text": "Good Night",
+   "file": "media/stickers/good-night/01.webp",
+   "thumb": "media/thumbs/good-night/01.webp",
+   "emojis": [
+    "🌙"
+   ],
+   "tags": [
+    "good",
+    "night"
+   ],
+   "language": "en",
+   "bytes": 36138,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-02",
+   "title": "Shab Bakhair",
+   "text": "Shab Bakhair",
+   "file": "media/stickers/good-night/02.webp",
+   "thumb": "media/thumbs/good-night/02.webp",
+   "emojis": [
+    "✨"
+   ],
+   "tags": [
+    "shab",
+    "bakhair"
+   ],
+   "language": "en",
+   "bytes": 45758,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-03",
+   "title": "Shab Bakhair (شب بخیر)",
+   "text": "شب بخیر",
+   "file": "media/stickers/good-night/03.webp",
+   "thumb": "media/thumbs/good-night/03.webp",
+   "emojis": [
+    "🌙"
+   ],
+   "tags": [
+    "shab",
+    "bakhair",
+    "شب",
+    "بخیر"
+   ],
+   "language": "ur",
+   "bytes": 52056,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-04",
+   "title": "Sweet dreams",
+   "text": "Sweet dreams",
+   "file": "media/stickers/good-night/04.webp",
+   "thumb": "media/thumbs/good-night/04.webp",
+   "emojis": [
+    "💤"
+   ],
+   "tags": [
+    "sweet",
+    "dreams"
+   ],
+   "language": "en",
+   "bytes": 50760,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-05",
+   "title": "Sleep tight",
+   "text": "Sleep tight",
+   "file": "media/stickers/good-night/05.webp",
+   "thumb": "media/thumbs/good-night/05.webp",
+   "emojis": [
+    "😴"
+   ],
+   "tags": [
+    "sleep",
+    "tight"
+   ],
+   "language": "en",
+   "bytes": 40828,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-06",
+   "title": "Good night jaan",
+   "text": "Good night jaan",
+   "file": "media/stickers/good-night/06.webp",
+   "thumb": "media/thumbs/good-night/06.webp",
+   "emojis": [
+    "💕"
+   ],
+   "tags": [
+    "good",
+    "night",
+    "jaan"
+   ],
+   "language": "en",
+   "bytes": 43794,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-07",
+   "title": "So jao ab",
+   "text": "So jao ab",
+   "file": "media/stickers/good-night/07.webp",
+   "thumb": "media/thumbs/good-night/07.webp",
+   "emojis": [
+    "🛌"
+   ],
+   "tags": [
+    "so",
+    "jao",
+    "ab"
+   ],
+   "language": "en",
+   "bytes": 36348,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-08",
+   "title": "Allah Hafiz",
+   "text": "Allah Hafiz",
+   "file": "media/stickers/good-night/08.webp",
+   "thumb": "media/thumbs/good-night/08.webp",
+   "emojis": [
+    "🤲"
+   ],
+   "tags": [
+    "allah",
+    "hafiz"
+   ],
+   "language": "en",
+   "bytes": 40748,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-09",
+   "title": "Kal milte hain",
+   "text": "Kal milte hain",
+   "file": "media/stickers/good-night/09.webp",
+   "thumb": "media/thumbs/good-night/09.webp",
+   "emojis": [
+    "👋"
+   ],
+   "tags": [
+    "kal",
+    "milte",
+    "hain"
+   ],
+   "language": "en",
+   "bytes": 44160,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-10",
+   "title": "Need sleep",
+   "text": "Need sleep",
+   "file": "media/stickers/good-night/10.webp",
+   "thumb": "media/thumbs/good-night/10.webp",
+   "emojis": [
+    "🥱"
+   ],
+   "tags": [
+    "need",
+    "sleep"
+   ],
+   "language": "en",
+   "bytes": 34066,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-11",
+   "title": "Phone rakho, so jao",
+   "text": "Phone rakho, so jao",
+   "file": "media/stickers/good-night/11.webp",
+   "thumb": "media/thumbs/good-night/11.webp",
+   "emojis": [
+    "📱"
+   ],
+   "tags": [
+    "phone",
+    "rakho",
+    "so",
+    "jao"
+   ],
+   "language": "en",
+   "bytes": 35894,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-12",
+   "title": "Starry night",
+   "text": "Starry night",
+   "file": "media/stickers/good-night/12.webp",
+   "thumb": "media/thumbs/good-night/12.webp",
+   "emojis": [
+    "🌠"
+   ],
+   "tags": [
+    "starry",
+    "night"
+   ],
+   "language": "en",
+   "bytes": 32340,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-13",
+   "title": "Dream big",
+   "text": "Dream big",
+   "file": "media/stickers/good-night/13.webp",
+   "thumb": "media/thumbs/good-night/13.webp",
+   "emojis": [
+    "⭐"
+   ],
+   "tags": [
+    "dream",
+    "big"
+   ],
+   "language": "en",
+   "bytes": 33060,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-14",
+   "title": "Lights off",
+   "text": "Lights off",
+   "file": "media/stickers/good-night/14.webp",
+   "thumb": "media/thumbs/good-night/14.webp",
+   "emojis": [
+    "💡"
+   ],
+   "tags": [
+    "lights",
+    "off"
+   ],
+   "language": "en",
+   "bytes": 33156,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-15",
+   "title": "Take rest",
+   "text": "Take rest",
+   "file": "media/stickers/good-night/15.webp",
+   "thumb": "media/thumbs/good-night/15.webp",
+   "emojis": [
+    "🛏️"
+   ],
+   "tags": [
+    "take",
+    "rest"
+   ],
+   "language": "en",
+   "bytes": 39410,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "good-night-16",
+   "title": "Good night, see you",
+   "text": "Good night, see you",
+   "file": "media/stickers/good-night/16.webp",
+   "thumb": "media/thumbs/good-night/16.webp",
+   "emojis": [
+    "🌛"
+   ],
+   "tags": [
+    "good",
+    "night",
+    "see",
+    "you"
+   ],
+   "language": "en",
+   "bytes": 40034,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

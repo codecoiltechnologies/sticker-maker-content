@@ -1,0 +1,521 @@
+{
+ "id": "fruits-veggies",
+ "title": "Fruits & Veggies",
+ "category": "food",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/fruits-veggies.png",
+ "cover": "media/covers/fruits-veggies.webp",
+ "stickers": [
+  {
+   "id": "fruits-veggies-01",
+   "title": "Red apple",
+   "file": "media/stickers/fruits-veggies/01.webp",
+   "thumb": "media/thumbs/fruits-veggies/01.webp",
+   "emojis": [
+    "🍎"
+   ],
+   "tags": [
+    "apple",
+    "fruit",
+    "red"
+   ],
+   "bytes": 18948,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-02",
+   "title": "Green apple",
+   "file": "media/stickers/fruits-veggies/02.webp",
+   "thumb": "media/thumbs/fruits-veggies/02.webp",
+   "emojis": [
+    "🍏"
+   ],
+   "tags": [
+    "apple",
+    "fruit",
+    "green"
+   ],
+   "bytes": 19368,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-03",
+   "title": "Pear",
+   "file": "media/stickers/fruits-veggies/03.webp",
+   "thumb": "media/thumbs/fruits-veggies/03.webp",
+   "emojis": [
+    "🍐"
+   ],
+   "tags": [
+    "fruit",
+    "pear"
+   ],
+   "bytes": 18412,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-04",
+   "title": "Tangerine",
+   "file": "media/stickers/fruits-veggies/04.webp",
+   "thumb": "media/thumbs/fruits-veggies/04.webp",
+   "emojis": [
+    "🍊"
+   ],
+   "tags": [
+    "fruit",
+    "orange",
+    "tangerine"
+   ],
+   "bytes": 18452,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-05",
+   "title": "Lemon",
+   "file": "media/stickers/fruits-veggies/05.webp",
+   "thumb": "media/thumbs/fruits-veggies/05.webp",
+   "emojis": [
+    "🍋"
+   ],
+   "tags": [
+    "citrus",
+    "fruit",
+    "lemon"
+   ],
+   "bytes": 20176,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-06",
+   "title": "Banana",
+   "file": "media/stickers/fruits-veggies/06.webp",
+   "thumb": "media/thumbs/fruits-veggies/06.webp",
+   "emojis": [
+    "🍌"
+   ],
+   "tags": [
+    "banana",
+    "fruit"
+   ],
+   "bytes": 21104,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-07",
+   "title": "Watermelon",
+   "file": "media/stickers/fruits-veggies/07.webp",
+   "thumb": "media/thumbs/fruits-veggies/07.webp",
+   "emojis": [
+    "🍉"
+   ],
+   "tags": [
+    "fruit",
+    "watermelon"
+   ],
+   "bytes": 24384,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-08",
+   "title": "Grapes",
+   "file": "media/stickers/fruits-veggies/08.webp",
+   "thumb": "media/thumbs/fruits-veggies/08.webp",
+   "emojis": [
+    "🍇"
+   ],
+   "tags": [
+    "fruit",
+    "grape",
+    "grapes"
+   ],
+   "bytes": 23142,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-09",
+   "title": "Strawberry",
+   "file": "media/stickers/love-mood/29.webp",
+   "thumb": "media/thumbs/love-mood/29.webp",
+   "emojis": [
+    "🍓"
+   ],
+   "tags": [
+    "berry",
+    "fruit",
+    "strawberry"
+   ],
+   "bytes": 18998,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-10",
+   "title": "Blueberries",
+   "file": "media/stickers/fruits-veggies/10.webp",
+   "thumb": "media/thumbs/fruits-veggies/10.webp",
+   "emojis": [
+    "🫐"
+   ],
+   "tags": [
+    "berry",
+    "bilberry",
+    "blue",
+    "blueberries",
+    "blueberry"
+   ],
+   "bytes": 23776,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-11",
+   "title": "Melon",
+   "file": "media/stickers/fruits-veggies/11.webp",
+   "thumb": "media/thumbs/fruits-veggies/11.webp",
+   "emojis": [
+    "🍈"
+   ],
+   "tags": [
+    "fruit",
+    "melon"
+   ],
+   "bytes": 21848,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-12",
+   "title": "Cherries",
+   "file": "media/stickers/fruits-veggies/12.webp",
+   "thumb": "media/thumbs/fruits-veggies/12.webp",
+   "emojis": [
+    "🍒"
+   ],
+   "tags": [
+    "berries",
+    "cherries",
+    "cherry",
+    "fruit",
+    "red"
+   ],
+   "bytes": 31350,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-13",
+   "title": "Peach",
+   "file": "media/stickers/fruits-veggies/13.webp",
+   "thumb": "media/thumbs/fruits-veggies/13.webp",
+   "emojis": [
+    "🍑"
+   ],
+   "tags": [
+    "fruit",
+    "peach"
+   ],
+   "bytes": 21296,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-14",
+   "title": "Mango",
+   "file": "media/stickers/fruits-veggies/14.webp",
+   "thumb": "media/thumbs/fruits-veggies/14.webp",
+   "emojis": [
+    "🥭"
+   ],
+   "tags": [
+    "fruit",
+    "mango",
+    "tropical"
+   ],
+   "bytes": 19604,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-15",
+   "title": "Pineapple",
+   "file": "media/stickers/fruits-veggies/15.webp",
+   "thumb": "media/thumbs/fruits-veggies/15.webp",
+   "emojis": [
+    "🍍"
+   ],
+   "tags": [
+    "fruit",
+    "pineapple"
+   ],
+   "bytes": 22200,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-16",
+   "title": "Coconut",
+   "file": "media/stickers/fruits-veggies/16.webp",
+   "thumb": "media/thumbs/fruits-veggies/16.webp",
+   "emojis": [
+    "🥥"
+   ],
+   "tags": [
+    "coconut",
+    "palm",
+    "piña colada"
+   ],
+   "bytes": 23682,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-17",
+   "title": "Kiwi fruit",
+   "file": "media/stickers/fruits-veggies/17.webp",
+   "thumb": "media/thumbs/fruits-veggies/17.webp",
+   "emojis": [
+    "🥝"
+   ],
+   "tags": [
+    "food",
+    "fruit",
+    "kiwi"
+   ],
+   "bytes": 25026,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-18",
+   "title": "Tomato",
+   "file": "media/stickers/fruits-veggies/18.webp",
+   "thumb": "media/thumbs/fruits-veggies/18.webp",
+   "emojis": [
+    "🍅"
+   ],
+   "tags": [
+    "fruit",
+    "tomato",
+    "vegetable"
+   ],
+   "bytes": 20946,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-19",
+   "title": "Eggplant",
+   "file": "media/stickers/fruits-veggies/19.webp",
+   "thumb": "media/thumbs/fruits-veggies/19.webp",
+   "emojis": [
+    "🍆"
+   ],
+   "tags": [
+    "aubergine",
+    "eggplant",
+    "vegetable"
+   ],
+   "bytes": 19482,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-20",
+   "title": "Avocado",
+   "file": "media/stickers/fruits-veggies/20.webp",
+   "thumb": "media/thumbs/fruits-veggies/20.webp",
+   "emojis": [
+    "🥑"
+   ],
+   "tags": [
+    "avocado",
+    "food",
+    "fruit"
+   ],
+   "bytes": 23402,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-21",
+   "title": "Broccoli",
+   "file": "media/stickers/fruits-veggies/21.webp",
+   "thumb": "media/thumbs/fruits-veggies/21.webp",
+   "emojis": [
+    "🥦"
+   ],
+   "tags": [
+    "broccoli",
+    "wild cabbage"
+   ],
+   "bytes": 24614,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-22",
+   "title": "Leafy green",
+   "file": "media/stickers/fruits-veggies/22.webp",
+   "thumb": "media/thumbs/fruits-veggies/22.webp",
+   "emojis": [
+    "🥬"
+   ],
+   "tags": [
+    "bok choy",
+    "cabbage",
+    "kale",
+    "leafy green",
+    "lettuce"
+   ],
+   "bytes": 25388,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-23",
+   "title": "Cucumber",
+   "file": "media/stickers/fruits-veggies/23.webp",
+   "thumb": "media/thumbs/fruits-veggies/23.webp",
+   "emojis": [
+    "🥒"
+   ],
+   "tags": [
+    "cucumber",
+    "food",
+    "pickle",
+    "vegetable"
+   ],
+   "bytes": 18650,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-24",
+   "title": "Hot pepper",
+   "file": "media/stickers/fruits-veggies/24.webp",
+   "thumb": "media/thumbs/fruits-veggies/24.webp",
+   "emojis": [
+    "🌶️"
+   ],
+   "tags": [
+    "hot",
+    "pepper"
+   ],
+   "bytes": 17082,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-25",
+   "title": "Bell pepper",
+   "file": "media/stickers/fruits-veggies/25.webp",
+   "thumb": "media/thumbs/fruits-veggies/25.webp",
+   "emojis": [
+    "🫑"
+   ],
+   "tags": [
+    "bell pepper",
+    "capsicum",
+    "pepper",
+    "vegetable"
+   ],
+   "bytes": 20856,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-26",
+   "title": "Ear of corn",
+   "file": "media/stickers/fruits-veggies/26.webp",
+   "thumb": "media/thumbs/fruits-veggies/26.webp",
+   "emojis": [
+    "🌽"
+   ],
+   "tags": [
+    "corn",
+    "ear",
+    "ear of corn",
+    "maize",
+    "maze"
+   ],
+   "bytes": 25812,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-27",
+   "title": "Carrot",
+   "file": "media/stickers/fruits-veggies/27.webp",
+   "thumb": "media/thumbs/fruits-veggies/27.webp",
+   "emojis": [
+    "🥕"
+   ],
+   "tags": [
+    "carrot",
+    "food",
+    "vegetable"
+   ],
+   "bytes": 23692,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-28",
+   "title": "Garlic",
+   "file": "media/stickers/fruits-veggies/28.webp",
+   "thumb": "media/thumbs/fruits-veggies/28.webp",
+   "emojis": [
+    "🧄"
+   ],
+   "tags": [
+    "flavoring",
+    "garlic"
+   ],
+   "bytes": 18836,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-29",
+   "title": "Onion",
+   "file": "media/stickers/fruits-veggies/29.webp",
+   "thumb": "media/thumbs/fruits-veggies/29.webp",
+   "emojis": [
+    "🧅"
+   ],
+   "tags": [
+    "flavoring",
+    "onion"
+   ],
+   "bytes": 18814,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "fruits-veggies-30",
+   "title": "Potato",
+   "file": "media/stickers/fruits-veggies/30.webp",
+   "thumb": "media/thumbs/fruits-veggies/30.webp",
+   "emojis": [
+    "🥔"
+   ],
+   "tags": [
+    "food",
+    "potato",
+    "vegetable"
+   ],
+   "bytes": 18346,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

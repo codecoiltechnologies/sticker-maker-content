@@ -1,0 +1,44 @@
+name: Validate content
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow==11.0.0
+      - name: Manifests are up to date
+        run: |
+          python tools/check_manifests_fresh.py
+      - name: Validate manifests, media and WhatsApp limits
+        run: python tools/validate.py
+
+  purge-cdn:
+    # jsDelivr caches branch files for up to 12 h; purge the small manifest files so the app sees new content quickly.
+    needs: validate
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Purge jsDelivr cache for manifests
+        run: |
+          for f in $(find v1 -maxdepth 1 -name '*.json') v1/memes/index.json; do
+            code=$(curl -s -o /dev/null -w '%{http_code}' "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/$f")
+            echo "$f -> $code"
+          done
+      - name: Check the published index is reachable
+        run: |
+          sleep 20
+          curl -fsS "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/v1/index.json" | python3 -c "import json,sys; d=json.load(sys.stdin); print('raw contentVersion', d['contentVersion'])"
+          curl -fsS "https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/v1/index.json" | python3 -c "import json,sys; d=json.load(sys.stdin); print('jsDelivr contentVersion', d['contentVersion'])"

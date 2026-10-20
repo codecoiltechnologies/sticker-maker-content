@@ -1,0 +1,525 @@
+{
+ "id": "animated-moods",
+ "title": "Animated Moods",
+ "category": "animated",
+ "type": "animated",
+ "language": "",
+ "tray": "media/trays/animated-moods.png",
+ "cover": "media/covers/animated-moods.webp",
+ "stickers": [
+  {
+   "id": "animated-moods-01",
+   "title": "Saluting face",
+   "file": "media/stickers/animated-moods/01.webp",
+   "thumb": "media/thumbs/animated-moods/01.webp",
+   "gif": "media/gifs/animated-moods/01.gif",
+   "emojis": [
+    "🫡"
+   ],
+   "tags": [
+    "salute"
+   ],
+   "bytes": 368040,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-02",
+   "title": "Head shaking vertically",
+   "file": "media/stickers/animated-moods/02.webp",
+   "thumb": "media/thumbs/animated-moods/02.webp",
+   "gif": "media/gifs/animated-moods/02.gif",
+   "emojis": [
+    "🙂‍↕"
+   ],
+   "tags": [
+    "head-nod"
+   ],
+   "bytes": 375850,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-03",
+   "title": "Relieved face",
+   "file": "media/stickers/animated-moods/03.webp",
+   "thumb": "media/thumbs/animated-moods/03.webp",
+   "gif": "media/gifs/animated-moods/03.gif",
+   "emojis": [
+    "😌"
+   ],
+   "tags": [
+    "relieved"
+   ],
+   "bytes": 496570,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-04",
+   "title": "Face with monocle",
+   "file": "media/stickers/animated-moods/04.webp",
+   "thumb": "media/thumbs/animated-moods/04.webp",
+   "gif": "media/gifs/animated-moods/04.gif",
+   "emojis": [
+    "🧐"
+   ],
+   "tags": [
+    "monocle"
+   ],
+   "bytes": 497484,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-05",
+   "title": "Partying face",
+   "file": "media/stickers/animated-moods/05.webp",
+   "thumb": "media/thumbs/animated-moods/05.webp",
+   "gif": "media/gifs/animated-moods/05.gif",
+   "emojis": [
+    "🥳"
+   ],
+   "tags": [
+    "partying-face"
+   ],
+   "bytes": 474698,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-06",
+   "title": "Thinking face",
+   "file": "media/stickers/animated-moods/06.webp",
+   "thumb": "media/thumbs/animated-moods/06.webp",
+   "gif": "media/gifs/animated-moods/06.gif",
+   "emojis": [
+    "🤔"
+   ],
+   "tags": [
+    "thinking-face"
+   ],
+   "bytes": 486684,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-07",
+   "title": "Head shaking horizontally",
+   "file": "media/stickers/animated-moods/07.webp",
+   "thumb": "media/thumbs/animated-moods/07.webp",
+   "gif": "media/gifs/animated-moods/07.gif",
+   "emojis": [
+    "🙂‍↔"
+   ],
+   "tags": [
+    "head-shake"
+   ],
+   "bytes": 216578,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-08",
+   "title": "Drooling face",
+   "file": "media/stickers/animated-moods/08.webp",
+   "thumb": "media/thumbs/animated-moods/08.webp",
+   "gif": "media/gifs/animated-moods/08.gif",
+   "emojis": [
+    "🤤"
+   ],
+   "tags": [
+    "drool"
+   ],
+   "bytes": 480256,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-09",
+   "title": "Nerd face",
+   "file": "media/stickers/animated-moods/09.webp",
+   "thumb": "media/thumbs/animated-moods/09.webp",
+   "gif": "media/gifs/animated-moods/09.gif",
+   "emojis": [
+    "🤓"
+   ],
+   "tags": [
+    "nerd-face"
+   ],
+   "bytes": 448888,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-10",
+   "title": "Cowboy hat face",
+   "file": "media/stickers/animated-moods/10.webp",
+   "thumb": "media/thumbs/animated-moods/10.webp",
+   "gif": "media/gifs/animated-moods/10.gif",
+   "emojis": [
+    "🤠"
+   ],
+   "tags": [
+    "cowboy"
+   ],
+   "bytes": 314674,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-11",
+   "title": "Shushing face",
+   "file": "media/stickers/animated-moods/11.webp",
+   "thumb": "media/thumbs/animated-moods/11.webp",
+   "gif": "media/gifs/animated-moods/11.gif",
+   "emojis": [
+    "🤫"
+   ],
+   "tags": [
+    "shushing-face"
+   ],
+   "bytes": 455418,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-12",
+   "title": "Smirking face",
+   "file": "media/stickers/animated-moods/12.webp",
+   "thumb": "media/thumbs/animated-moods/12.webp",
+   "gif": "media/gifs/animated-moods/12.gif",
+   "emojis": [
+    "😏"
+   ],
+   "tags": [
+    "smirk"
+   ],
+   "bytes": 390924,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-13",
+   "title": "Pensive face",
+   "file": "media/stickers/animated-moods/13.webp",
+   "thumb": "media/thumbs/animated-moods/13.webp",
+   "gif": "media/gifs/animated-moods/13.gif",
+   "emojis": [
+    "😔"
+   ],
+   "tags": [
+    "pensive"
+   ],
+   "bytes": 448958,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-14",
+   "title": "Smiling face with sunglasses",
+   "file": "media/stickers/animated-moods/14.webp",
+   "thumb": "media/thumbs/animated-moods/14.webp",
+   "gif": "media/gifs/animated-moods/14.gif",
+   "emojis": [
+    "😎"
+   ],
+   "tags": [
+    "sunglasses-face"
+   ],
+   "bytes": 492346,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-15",
+   "title": "Disguised face",
+   "file": "media/stickers/animated-moods/15.webp",
+   "thumb": "media/thumbs/animated-moods/15.webp",
+   "gif": "media/gifs/animated-moods/15.gif",
+   "emojis": [
+    "🥸"
+   ],
+   "tags": [
+    "disguise"
+   ],
+   "bytes": 471660,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-16",
+   "title": "Face with open eyes and hand over mouth",
+   "file": "media/stickers/animated-moods/16.webp",
+   "thumb": "media/thumbs/animated-moods/16.webp",
+   "gif": "media/gifs/animated-moods/16.gif",
+   "emojis": [
+    "🫢"
+   ],
+   "tags": [
+    "hand-over-mouth"
+   ],
+   "bytes": 144854,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-17",
+   "title": "Grimacing face",
+   "file": "media/stickers/animated-moods/17.webp",
+   "thumb": "media/thumbs/animated-moods/17.webp",
+   "gif": "media/gifs/animated-moods/17.gif",
+   "emojis": [
+    "😬"
+   ],
+   "tags": [
+    "grimacing"
+   ],
+   "bytes": 271844,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-18",
+   "title": "Face with bags under eyes",
+   "file": "media/stickers/animated-moods/18.webp",
+   "thumb": "media/thumbs/animated-moods/18.webp",
+   "gif": "media/gifs/animated-moods/18.gif",
+   "emojis": [
+    "🫩"
+   ],
+   "tags": [
+    "bags-under-eyes",
+    "tired"
+   ],
+   "bytes": 451858,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-19",
+   "title": "Face with hand over mouth",
+   "file": "media/stickers/animated-moods/19.webp",
+   "thumb": "media/thumbs/animated-moods/19.webp",
+   "gif": "media/gifs/animated-moods/19.gif",
+   "emojis": [
+    "🤭"
+   ],
+   "tags": [
+    "chuckling",
+    "smiling-eyes-with-hand-over-mouth"
+   ],
+   "bytes": 480064,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-20",
+   "title": "Expressionless face",
+   "file": "media/stickers/animated-moods/20.webp",
+   "thumb": "media/thumbs/animated-moods/20.webp",
+   "gif": "media/gifs/animated-moods/20.gif",
+   "emojis": [
+    "😑"
+   ],
+   "tags": [
+    "expressionless"
+   ],
+   "bytes": 218274,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-21",
+   "title": "Sleeping face",
+   "file": "media/stickers/animated-moods/21.webp",
+   "thumb": "media/thumbs/animated-moods/21.webp",
+   "gif": "media/gifs/animated-moods/21.gif",
+   "emojis": [
+    "😴"
+   ],
+   "tags": [
+    "sleep"
+   ],
+   "bytes": 499990,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-22",
+   "title": "Smiling face with open hands",
+   "file": "media/stickers/animated-moods/22.webp",
+   "thumb": "media/thumbs/animated-moods/22.webp",
+   "gif": "media/gifs/animated-moods/22.gif",
+   "emojis": [
+    "🤗"
+   ],
+   "tags": [
+    "hug-face"
+   ],
+   "bytes": 505268,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-23",
+   "title": "Neutral face",
+   "file": "media/stickers/animated-moods/23.webp",
+   "thumb": "media/thumbs/animated-moods/23.webp",
+   "gif": "media/gifs/animated-moods/23.gif",
+   "emojis": [
+    "😐"
+   ],
+   "tags": [
+    "neutral-face"
+   ],
+   "bytes": 111950,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-24",
+   "title": "Sleepy face",
+   "file": "media/stickers/animated-moods/24.webp",
+   "thumb": "media/thumbs/animated-moods/24.webp",
+   "gif": "media/gifs/animated-moods/24.gif",
+   "emojis": [
+    "😪"
+   ],
+   "tags": [
+    "sleepy"
+   ],
+   "bytes": 486172,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-25",
+   "title": "Face with peeking eye",
+   "file": "media/stickers/animated-moods/25.webp",
+   "thumb": "media/thumbs/animated-moods/25.webp",
+   "gif": "media/gifs/animated-moods/25.gif",
+   "emojis": [
+    "🫣"
+   ],
+   "tags": [
+    "peeking"
+   ],
+   "bytes": 499160,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-26",
+   "title": "Face without mouth",
+   "file": "media/stickers/animated-moods/26.webp",
+   "thumb": "media/thumbs/animated-moods/26.webp",
+   "gif": "media/gifs/animated-moods/26.gif",
+   "emojis": [
+    "😶"
+   ],
+   "tags": [
+    "mouth-none"
+   ],
+   "bytes": 118086,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-27",
+   "title": "Face in clouds",
+   "file": "media/stickers/animated-moods/27.webp",
+   "thumb": "media/thumbs/animated-moods/27.webp",
+   "gif": "media/gifs/animated-moods/27.gif",
+   "emojis": [
+    "😶‍🌫"
+   ],
+   "tags": [
+    "face-in-clouds",
+    "lost"
+   ],
+   "bytes": 477262,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-28",
+   "title": "Dotted line face",
+   "file": "media/stickers/animated-moods/28.webp",
+   "thumb": "media/thumbs/animated-moods/28.webp",
+   "gif": "media/gifs/animated-moods/28.gif",
+   "emojis": [
+    "🫥"
+   ],
+   "tags": [
+    "dotted-line-face",
+    "invisible"
+   ],
+   "bytes": 465344,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-29",
+   "title": "Zipper-mouth face",
+   "file": "media/stickers/animated-moods/29.webp",
+   "thumb": "media/thumbs/animated-moods/29.webp",
+   "gif": "media/gifs/animated-moods/29.gif",
+   "emojis": [
+    "🤐"
+   ],
+   "tags": [
+    "zipper-face"
+   ],
+   "bytes": 483698,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-moods-30",
+   "title": "Face with raised eyebrow",
+   "file": "media/stickers/animated-moods/30.webp",
+   "thumb": "media/thumbs/animated-moods/30.webp",
+   "gif": "media/gifs/animated-moods/30.gif",
+   "emojis": [
+    "🤨"
+   ],
+   "tags": [
+    "raised-eyebrow"
+   ],
+   "bytes": 273016,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  }
+ ]
+}

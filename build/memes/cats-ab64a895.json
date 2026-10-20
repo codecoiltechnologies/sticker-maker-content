@@ -1,0 +1,33 @@
+{
+ "id": "cats-ab64a895",
+ "title": "When someone says they don't like chai",
+ "category": "memes-cats",
+ "file": "media/memes/memes-cats/cats-ab64a895.webp",
+ "thumb": "media/meme-thumbs/memes-cats/cats-ab64a895.webp",
+ "width": 1080,
+ "height": 1052,
+ "bytes": 230746,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "When someone says they don't like chai",
+ "tags": [
+  "cat",
+  "chai",
+  "don",
+  "judging",
+  "like",
+  "says",
+  "someone",
+  "they",
+  "when"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Lucarelli",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AGatta_randagia_Livorno.JPG",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

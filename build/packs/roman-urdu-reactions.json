@@ -1,0 +1,373 @@
+{
+ "id": "roman-urdu-reactions",
+ "title": "Roman Urdu Reactions",
+ "category": "urdu",
+ "type": "static",
+ "language": "ur-Latn",
+ "tray": "media/trays/roman-urdu-reactions.png",
+ "cover": "media/covers/roman-urdu-reactions.webp",
+ "stickers": [
+  {
+   "id": "roman-urdu-reactions-01",
+   "title": "Kya scene hai?",
+   "text": "Kya scene hai?",
+   "file": "media/stickers/roman-urdu-reactions/01.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/01.webp",
+   "emojis": [
+    "🤔"
+   ],
+   "tags": [
+    "kya",
+    "scene",
+    "hai"
+   ],
+   "language": "ur-Latn",
+   "bytes": 43606,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-02",
+   "title": "Bas kar pagle",
+   "text": "Bas kar pagle",
+   "file": "media/stickers/roman-urdu-reactions/02.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/02.webp",
+   "emojis": [
+    "😂"
+   ],
+   "tags": [
+    "bas",
+    "kar",
+    "pagle"
+   ],
+   "language": "ur-Latn",
+   "bytes": 35684,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-03",
+   "title": "Chill kar yaar",
+   "text": "Chill kar yaar",
+   "file": "media/stickers/roman-urdu-reactions/03.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/03.webp",
+   "emojis": [
+    "😎"
+   ],
+   "tags": [
+    "chill",
+    "kar",
+    "yaar"
+   ],
+   "language": "ur-Latn",
+   "bytes": 43052,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-04",
+   "title": "Wah bhai wah",
+   "text": "Wah bhai wah",
+   "file": "media/stickers/roman-urdu-reactions/04.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/04.webp",
+   "emojis": [
+    "👏"
+   ],
+   "tags": [
+    "wah",
+    "bhai",
+    "wah"
+   ],
+   "language": "ur-Latn",
+   "bytes": 41064,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-05",
+   "title": "Shabash!",
+   "text": "Shabash!",
+   "file": "media/stickers/roman-urdu-reactions/05.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/05.webp",
+   "emojis": [
+    "👍"
+   ],
+   "tags": [
+    "shabash"
+   ],
+   "language": "ur-Latn",
+   "bytes": 24732,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-06",
+   "title": "Uff!",
+   "text": "Uff!",
+   "file": "media/stickers/roman-urdu-reactions/06.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/06.webp",
+   "emojis": [
+    "😩"
+   ],
+   "tags": [
+    "uff"
+   ],
+   "language": "ur-Latn",
+   "bytes": 35208,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-07",
+   "title": "Hayee!",
+   "text": "Hayee!",
+   "file": "media/stickers/roman-urdu-reactions/07.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/07.webp",
+   "emojis": [
+    "🙈"
+   ],
+   "tags": [
+    "hayee"
+   ],
+   "language": "ur-Latn",
+   "bytes": 37538,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-08",
+   "title": "Kamaal ho gaya",
+   "text": "Kamaal ho gaya",
+   "file": "media/stickers/roman-urdu-reactions/08.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/08.webp",
+   "emojis": [
+    "🤩"
+   ],
+   "tags": [
+    "kamaal",
+    "ho",
+    "gaya"
+   ],
+   "language": "ur-Latn",
+   "bytes": 52250,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-09",
+   "title": "Pakka?",
+   "text": "Pakka?",
+   "file": "media/stickers/roman-urdu-reactions/09.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/09.webp",
+   "emojis": [
+    "🧐"
+   ],
+   "tags": [
+    "pakka"
+   ],
+   "language": "ur-Latn",
+   "bytes": 27228,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-10",
+   "title": "Sach mein?",
+   "text": "Sach mein?",
+   "file": "media/stickers/roman-urdu-reactions/10.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/10.webp",
+   "emojis": [
+    "😲"
+   ],
+   "tags": [
+    "sach",
+    "mein"
+   ],
+   "language": "ur-Latn",
+   "bytes": 43560,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-11",
+   "title": "Bohat aala",
+   "text": "Bohat aala",
+   "file": "media/stickers/roman-urdu-reactions/11.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/11.webp",
+   "emojis": [
+    "👌"
+   ],
+   "tags": [
+    "bohat",
+    "aala"
+   ],
+   "language": "ur-Latn",
+   "bytes": 37250,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-12",
+   "title": "Jee nahi",
+   "text": "Jee nahi",
+   "file": "media/stickers/roman-urdu-reactions/12.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/12.webp",
+   "emojis": [
+    "🙅"
+   ],
+   "tags": [
+    "jee",
+    "nahi"
+   ],
+   "language": "ur-Latn",
+   "bytes": 35816,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-13",
+   "title": "Theek hai",
+   "text": "Theek hai",
+   "file": "media/stickers/roman-urdu-reactions/13.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/13.webp",
+   "emojis": [
+    "👍"
+   ],
+   "tags": [
+    "theek",
+    "hai"
+   ],
+   "language": "ur-Latn",
+   "bytes": 32234,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-14",
+   "title": "Kya baat hai!",
+   "text": "Kya baat hai!",
+   "file": "media/stickers/roman-urdu-reactions/14.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/14.webp",
+   "emojis": [
+    "🔥"
+   ],
+   "tags": [
+    "kya",
+    "baat",
+    "hai"
+   ],
+   "language": "ur-Latn",
+   "bytes": 43828,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-15",
+   "title": "Oye hoye",
+   "text": "Oye hoye",
+   "file": "media/stickers/roman-urdu-reactions/15.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/15.webp",
+   "emojis": [
+    "😍"
+   ],
+   "tags": [
+    "oye",
+    "hoye"
+   ],
+   "language": "ur-Latn",
+   "bytes": 37796,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-16",
+   "title": "Tension na le",
+   "text": "Tension na le",
+   "file": "media/stickers/roman-urdu-reactions/16.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/16.webp",
+   "emojis": [
+    "😌"
+   ],
+   "tags": [
+    "tension",
+    "na",
+    "le"
+   ],
+   "language": "ur-Latn",
+   "bytes": 45116,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-17",
+   "title": "Fikar not",
+   "text": "Fikar not",
+   "file": "media/stickers/roman-urdu-reactions/17.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/17.webp",
+   "emojis": [
+    "😎"
+   ],
+   "tags": [
+    "fikar",
+    "not"
+   ],
+   "language": "ur-Latn",
+   "bytes": 37438,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-18",
+   "title": "Mujhe kya",
+   "text": "Mujhe kya",
+   "file": "media/stickers/roman-urdu-reactions/18.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/18.webp",
+   "emojis": [
+    "🤷"
+   ],
+   "tags": [
+    "mujhe",
+    "kya"
+   ],
+   "language": "ur-Latn",
+   "bytes": 30450,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-19",
+   "title": "Haww!",
+   "text": "Haww!",
+   "file": "media/stickers/roman-urdu-reactions/19.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/19.webp",
+   "emojis": [
+    "😱"
+   ],
+   "tags": [
+    "haww"
+   ],
+   "language": "ur-Latn",
+   "bytes": 33652,
+   "fileType": "image/webp",
+   "credit": "text"
+  },
+  {
+   "id": "roman-urdu-reactions-20",
+   "title": "Bakwas band",
+   "text": "Bakwas band",
+   "file": "media/stickers/roman-urdu-reactions/20.webp",
+   "thumb": "media/thumbs/roman-urdu-reactions/20.webp",
+   "emojis": [
+    "🤐"
+   ],
+   "tags": [
+    "bakwas",
+    "band"
+   ],
+   "language": "ur-Latn",
+   "bytes": 30566,
+   "fileType": "image/webp",
+   "credit": "text"
+  }
+ ]
+}

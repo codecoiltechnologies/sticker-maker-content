@@ -1,0 +1,32 @@
+{
+ "id": "food-2fd06ff7",
+ "title": "Me cutting the cake to check if it's done. Third time",
+ "category": "memes-food",
+ "file": "media/memes/memes-food/food-2fd06ff7.webp",
+ "thumb": "media/meme-thumbs/memes-food/food-2fd06ff7.webp",
+ "width": 1080,
+ "height": 990,
+ "bytes": 94554,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Me cutting the cake to check if it's done. Third time",
+ "tags": [
+  "cake",
+  "check",
+  "cut",
+  "cutting",
+  "done",
+  "the",
+  "third",
+  "time"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Rhododendrites",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACannele_interior_%2812545%29s.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

@@ -1,0 +1,522 @@
+{
+ "id": "animated-animals",
+ "title": "Animated Animals",
+ "category": "animated",
+ "type": "animated",
+ "language": "",
+ "tray": "media/trays/animated-animals.png",
+ "cover": "media/covers/animated-animals.webp",
+ "stickers": [
+  {
+   "id": "animated-animals-01",
+   "title": "Bird",
+   "file": "media/stickers/animated-animals/01.webp",
+   "thumb": "media/thumbs/animated-animals/01.webp",
+   "gif": "media/gifs/animated-animals/01.gif",
+   "emojis": [
+    "🐦"
+   ],
+   "tags": [
+    "bird"
+   ],
+   "bytes": 327862,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-02",
+   "title": "Seal",
+   "file": "media/stickers/animated-animals/02.webp",
+   "thumb": "media/thumbs/animated-animals/02.webp",
+   "gif": "media/gifs/animated-animals/02.gif",
+   "emojis": [
+    "🦭"
+   ],
+   "tags": [
+    "seal"
+   ],
+   "bytes": 398628,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-03",
+   "title": "Microbe",
+   "file": "media/stickers/animated-animals/03.webp",
+   "thumb": "media/thumbs/animated-animals/03.webp",
+   "gif": "media/gifs/animated-animals/03.gif",
+   "emojis": [
+    "🦠"
+   ],
+   "tags": [
+    "microbe",
+    "virus"
+   ],
+   "bytes": 338710,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-04",
+   "title": "Lizard",
+   "file": "media/stickers/animated-animals/04.webp",
+   "thumb": "media/thumbs/animated-animals/04.webp",
+   "gif": "media/gifs/animated-animals/04.gif",
+   "emojis": [
+    "🦎"
+   ],
+   "tags": [
+    "lizard"
+   ],
+   "bytes": 379276,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-05",
+   "title": "Frog",
+   "file": "media/stickers/animated-animals/05.webp",
+   "thumb": "media/thumbs/animated-animals/05.webp",
+   "gif": "media/gifs/animated-animals/05.gif",
+   "emojis": [
+    "🐸"
+   ],
+   "tags": [
+    "frog"
+   ],
+   "bytes": 454832,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-06",
+   "title": "Black bird",
+   "file": "media/stickers/animated-animals/06.webp",
+   "thumb": "media/thumbs/animated-animals/06.webp",
+   "gif": "media/gifs/animated-animals/06.gif",
+   "emojis": [
+    "🐦‍⬛"
+   ],
+   "tags": [
+    "black-bird"
+   ],
+   "bytes": 203484,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-07",
+   "title": "Shark",
+   "file": "media/stickers/animated-animals/07.webp",
+   "thumb": "media/thumbs/animated-animals/07.webp",
+   "gif": "media/gifs/animated-animals/07.gif",
+   "emojis": [
+    "🦈"
+   ],
+   "tags": [
+    "shark"
+   ],
+   "bytes": 128766,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-08",
+   "title": "Scorpion",
+   "file": "media/stickers/animated-animals/08.webp",
+   "thumb": "media/thumbs/animated-animals/08.webp",
+   "gif": "media/gifs/animated-animals/08.gif",
+   "emojis": [
+    "🦂"
+   ],
+   "tags": [
+    "scorpion"
+   ],
+   "bytes": 449896,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-09",
+   "title": "Dragon",
+   "file": "media/stickers/animated-animals/09.webp",
+   "thumb": "media/thumbs/animated-animals/09.webp",
+   "gif": "media/gifs/animated-animals/09.gif",
+   "emojis": [
+    "🐉"
+   ],
+   "tags": [
+    "dragon"
+   ],
+   "bytes": 341452,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-10",
+   "title": "Rooster",
+   "file": "media/stickers/animated-animals/10.webp",
+   "thumb": "media/thumbs/animated-animals/10.webp",
+   "gif": "media/gifs/animated-animals/10.gif",
+   "emojis": [
+    "🐓"
+   ],
+   "tags": [
+    "rooster"
+   ],
+   "bytes": 494428,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-11",
+   "title": "Orca",
+   "file": "media/stickers/animated-animals/11.webp",
+   "thumb": "media/thumbs/animated-animals/11.webp",
+   "gif": "media/gifs/animated-animals/11.gif",
+   "emojis": [
+    "🫍"
+   ],
+   "tags": [
+    "orca"
+   ],
+   "bytes": 142332,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-12",
+   "title": "Spider",
+   "file": "media/stickers/animated-animals/12.webp",
+   "thumb": "media/thumbs/animated-animals/12.webp",
+   "gif": "media/gifs/animated-animals/12.gif",
+   "emojis": [
+    "🕷"
+   ],
+   "tags": [
+    "spider"
+   ],
+   "bytes": 201904,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-13",
+   "title": "T-rex",
+   "file": "media/stickers/animated-animals/13.webp",
+   "thumb": "media/thumbs/animated-animals/13.webp",
+   "gif": "media/gifs/animated-animals/13.gif",
+   "emojis": [
+    "🦖"
+   ],
+   "tags": [
+    "t-rex"
+   ],
+   "bytes": 332636,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-14",
+   "title": "Hatching chick",
+   "file": "media/stickers/animated-animals/14.webp",
+   "thumb": "media/thumbs/animated-animals/14.webp",
+   "gif": "media/gifs/animated-animals/14.gif",
+   "emojis": [
+    "🐣"
+   ],
+   "tags": [
+    "hatching-chick"
+   ],
+   "bytes": 395972,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-15",
+   "title": "Dolphin",
+   "file": "media/stickers/animated-animals/15.webp",
+   "thumb": "media/thumbs/animated-animals/15.webp",
+   "gif": "media/gifs/animated-animals/15.gif",
+   "emojis": [
+    "🐬"
+   ],
+   "tags": [
+    "dolphin"
+   ],
+   "bytes": 229420,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-16",
+   "title": "Snail",
+   "file": "media/stickers/animated-animals/16.webp",
+   "thumb": "media/thumbs/animated-animals/16.webp",
+   "gif": "media/gifs/animated-animals/16.gif",
+   "emojis": [
+    "🐌"
+   ],
+   "tags": [
+    "snail"
+   ],
+   "bytes": 475570,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-17",
+   "title": "Sauropod",
+   "file": "media/stickers/animated-animals/17.webp",
+   "thumb": "media/thumbs/animated-animals/17.webp",
+   "gif": "media/gifs/animated-animals/17.gif",
+   "emojis": [
+    "🦕"
+   ],
+   "tags": [
+    "dinosaur"
+   ],
+   "bytes": 473736,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-18",
+   "title": "Baby chick",
+   "file": "media/stickers/animated-animals/18.webp",
+   "thumb": "media/thumbs/animated-animals/18.webp",
+   "gif": "media/gifs/animated-animals/18.gif",
+   "emojis": [
+    "🐤"
+   ],
+   "tags": [
+    "baby-chick"
+   ],
+   "bytes": 262628,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-19",
+   "title": "Spouting whale",
+   "file": "media/stickers/animated-animals/19.webp",
+   "thumb": "media/thumbs/animated-animals/19.webp",
+   "gif": "media/gifs/animated-animals/19.gif",
+   "emojis": [
+    "🐳"
+   ],
+   "tags": [
+    "whale"
+   ],
+   "bytes": 383946,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-20",
+   "title": "Ant",
+   "file": "media/stickers/animated-animals/20.webp",
+   "thumb": "media/thumbs/animated-animals/20.webp",
+   "gif": "media/gifs/animated-animals/20.gif",
+   "emojis": [
+    "🐜"
+   ],
+   "tags": [
+    "ant"
+   ],
+   "bytes": 429778,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-21",
+   "title": "Turtle",
+   "file": "media/stickers/animated-animals/21.webp",
+   "thumb": "media/thumbs/animated-animals/21.webp",
+   "gif": "media/gifs/animated-animals/21.gif",
+   "emojis": [
+    "🐢"
+   ],
+   "tags": [
+    "turtle"
+   ],
+   "bytes": 474530,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-22",
+   "title": "Front-facing baby chick",
+   "file": "media/stickers/animated-animals/22.webp",
+   "thumb": "media/thumbs/animated-animals/22.webp",
+   "gif": "media/gifs/animated-animals/22.gif",
+   "emojis": [
+    "🐥"
+   ],
+   "tags": [
+    "hatched-chick"
+   ],
+   "bytes": 360610,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-23",
+   "title": "Fish",
+   "file": "media/stickers/animated-animals/23.webp",
+   "thumb": "media/thumbs/animated-animals/23.webp",
+   "gif": "media/gifs/animated-animals/23.gif",
+   "emojis": [
+    "🐟"
+   ],
+   "tags": [
+    "fish"
+   ],
+   "bytes": 322572,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-24",
+   "title": "Cricket",
+   "file": "media/stickers/animated-animals/24.webp",
+   "thumb": "media/thumbs/animated-animals/24.webp",
+   "gif": "media/gifs/animated-animals/24.gif",
+   "emojis": [
+    "🦗"
+   ],
+   "tags": [
+    "cricket"
+   ],
+   "bytes": 272174,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-25",
+   "title": "Crocodile",
+   "file": "media/stickers/animated-animals/25.webp",
+   "thumb": "media/thumbs/animated-animals/25.webp",
+   "gif": "media/gifs/animated-animals/25.gif",
+   "emojis": [
+    "🐊"
+   ],
+   "tags": [
+    "crocodile"
+   ],
+   "bytes": 492932,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-26",
+   "title": "Eagle",
+   "file": "media/stickers/animated-animals/26.webp",
+   "thumb": "media/thumbs/animated-animals/26.webp",
+   "gif": "media/gifs/animated-animals/26.gif",
+   "emojis": [
+    "🦅"
+   ],
+   "tags": [
+    "eagle"
+   ],
+   "bytes": 244014,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-27",
+   "title": "Blowfish",
+   "file": "media/stickers/animated-animals/27.webp",
+   "thumb": "media/thumbs/animated-animals/27.webp",
+   "gif": "media/gifs/animated-animals/27.gif",
+   "emojis": [
+    "🐡"
+   ],
+   "tags": [
+    "blowfish"
+   ],
+   "bytes": 446882,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-28",
+   "title": "Mosquito",
+   "file": "media/stickers/animated-animals/28.webp",
+   "thumb": "media/thumbs/animated-animals/28.webp",
+   "gif": "media/gifs/animated-animals/28.gif",
+   "emojis": [
+    "🦟"
+   ],
+   "tags": [
+    "mosquito"
+   ],
+   "bytes": 231412,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-29",
+   "title": "Snake",
+   "file": "media/stickers/animated-animals/29.webp",
+   "thumb": "media/thumbs/animated-animals/29.webp",
+   "gif": "media/gifs/animated-animals/29.gif",
+   "emojis": [
+    "🐍"
+   ],
+   "tags": [
+    "snake"
+   ],
+   "bytes": 498238,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-animals-30",
+   "title": "Owl",
+   "file": "media/stickers/animated-animals/30.webp",
+   "thumb": "media/thumbs/animated-animals/30.webp",
+   "gif": "media/gifs/animated-animals/30.gif",
+   "emojis": [
+    "🦉"
+   ],
+   "tags": [
+    "owl"
+   ],
+   "bytes": 438752,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  }
+ ]
+}

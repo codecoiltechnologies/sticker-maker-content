@@ -1,0 +1,436 @@
+{
+ "id": "animated-hearts",
+ "title": "Animated Hearts",
+ "category": "animated",
+ "type": "animated",
+ "language": "",
+ "tray": "media/trays/animated-hearts.png",
+ "cover": "media/covers/animated-hearts.webp",
+ "stickers": [
+  {
+   "id": "animated-hearts-01",
+   "title": "Red heart",
+   "file": "media/stickers/animated-hearts/01.webp",
+   "thumb": "media/thumbs/animated-hearts/01.webp",
+   "gif": "media/gifs/animated-hearts/01.gif",
+   "emojis": [
+    "❤"
+   ],
+   "tags": [
+    "red-heart"
+   ],
+   "bytes": 281832,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-02",
+   "title": "Orange heart",
+   "file": "media/stickers/animated-hearts/02.webp",
+   "thumb": "media/thumbs/animated-hearts/02.webp",
+   "gif": "media/gifs/animated-hearts/02.gif",
+   "emojis": [
+    "🧡"
+   ],
+   "tags": [
+    "orange-heart"
+   ],
+   "bytes": 284726,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-03",
+   "title": "Yellow heart",
+   "file": "media/stickers/animated-hearts/03.webp",
+   "thumb": "media/thumbs/animated-hearts/03.webp",
+   "gif": "media/gifs/animated-hearts/03.gif",
+   "emojis": [
+    "💛"
+   ],
+   "tags": [
+    "yellow-heart"
+   ],
+   "bytes": 284028,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-04",
+   "title": "Green heart",
+   "file": "media/stickers/animated-hearts/04.webp",
+   "thumb": "media/thumbs/animated-hearts/04.webp",
+   "gif": "media/gifs/animated-hearts/04.gif",
+   "emojis": [
+    "💚"
+   ],
+   "tags": [
+    "green-heart"
+   ],
+   "bytes": 221510,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-05",
+   "title": "Light blue heart",
+   "file": "media/stickers/animated-hearts/05.webp",
+   "thumb": "media/thumbs/animated-hearts/05.webp",
+   "gif": "media/gifs/animated-hearts/05.gif",
+   "emojis": [
+    "🩵"
+   ],
+   "tags": [
+    "light-blue-heart"
+   ],
+   "bytes": 282712,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-06",
+   "title": "Blue heart",
+   "file": "media/stickers/animated-hearts/06.webp",
+   "thumb": "media/thumbs/animated-hearts/06.webp",
+   "gif": "media/gifs/animated-hearts/06.gif",
+   "emojis": [
+    "💙"
+   ],
+   "tags": [
+    "blue-heart"
+   ],
+   "bytes": 284528,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-07",
+   "title": "Purple heart",
+   "file": "media/stickers/animated-hearts/07.webp",
+   "thumb": "media/thumbs/animated-hearts/07.webp",
+   "gif": "media/gifs/animated-hearts/07.gif",
+   "emojis": [
+    "💜"
+   ],
+   "tags": [
+    "purple-heart"
+   ],
+   "bytes": 254426,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-08",
+   "title": "Brown heart",
+   "file": "media/stickers/animated-hearts/08.webp",
+   "thumb": "media/thumbs/animated-hearts/08.webp",
+   "gif": "media/gifs/animated-hearts/08.gif",
+   "emojis": [
+    "🤎"
+   ],
+   "tags": [
+    "brown-heart"
+   ],
+   "bytes": 218726,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-09",
+   "title": "Black heart",
+   "file": "media/stickers/animated-hearts/09.webp",
+   "thumb": "media/thumbs/animated-hearts/09.webp",
+   "gif": "media/gifs/animated-hearts/09.gif",
+   "emojis": [
+    "🖤"
+   ],
+   "tags": [
+    "black-heart"
+   ],
+   "bytes": 139928,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-10",
+   "title": "Grey heart",
+   "file": "media/stickers/animated-hearts/10.webp",
+   "thumb": "media/thumbs/animated-hearts/10.webp",
+   "gif": "media/gifs/animated-hearts/10.gif",
+   "emojis": [
+    "🩶"
+   ],
+   "tags": [
+    "grey-heart"
+   ],
+   "bytes": 152548,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-11",
+   "title": "White heart",
+   "file": "media/stickers/animated-hearts/11.webp",
+   "thumb": "media/thumbs/animated-hearts/11.webp",
+   "gif": "media/gifs/animated-hearts/11.gif",
+   "emojis": [
+    "🤍"
+   ],
+   "tags": [
+    "white-heart"
+   ],
+   "bytes": 142430,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-12",
+   "title": "Pink heart",
+   "file": "media/stickers/animated-hearts/12.webp",
+   "thumb": "media/thumbs/animated-hearts/12.webp",
+   "gif": "media/gifs/animated-hearts/12.gif",
+   "emojis": [
+    "🩷"
+   ],
+   "tags": [
+    "pink-heart"
+   ],
+   "bytes": 235306,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-13",
+   "title": "Heart with arrow",
+   "file": "media/stickers/animated-hearts/13.webp",
+   "thumb": "media/thumbs/animated-hearts/13.webp",
+   "gif": "media/gifs/animated-hearts/13.gif",
+   "emojis": [
+    "💘"
+   ],
+   "tags": [
+    "cupid"
+   ],
+   "bytes": 295216,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-14",
+   "title": "Heart with ribbon",
+   "file": "media/stickers/animated-hearts/14.webp",
+   "thumb": "media/thumbs/animated-hearts/14.webp",
+   "gif": "media/gifs/animated-hearts/14.gif",
+   "emojis": [
+    "💝"
+   ],
+   "tags": [
+    "gift-heart"
+   ],
+   "bytes": 475114,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-15",
+   "title": "Sparkling heart",
+   "file": "media/stickers/animated-hearts/15.webp",
+   "thumb": "media/thumbs/animated-hearts/15.webp",
+   "gif": "media/gifs/animated-hearts/15.gif",
+   "emojis": [
+    "💖"
+   ],
+   "tags": [
+    "sparkling-heart"
+   ],
+   "bytes": 196076,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-16",
+   "title": "Growing heart",
+   "file": "media/stickers/animated-hearts/16.webp",
+   "thumb": "media/thumbs/animated-hearts/16.webp",
+   "gif": "media/gifs/animated-hearts/16.gif",
+   "emojis": [
+    "💗"
+   ],
+   "tags": [
+    "heart-grow"
+   ],
+   "bytes": 319526,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-17",
+   "title": "Beating heart",
+   "file": "media/stickers/animated-hearts/17.webp",
+   "thumb": "media/thumbs/animated-hearts/17.webp",
+   "gif": "media/gifs/animated-hearts/17.gif",
+   "emojis": [
+    "💓"
+   ],
+   "tags": [
+    "beating-heart"
+   ],
+   "bytes": 100722,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-18",
+   "title": "Revolving hearts",
+   "file": "media/stickers/animated-hearts/18.webp",
+   "thumb": "media/thumbs/animated-hearts/18.webp",
+   "gif": "media/gifs/animated-hearts/18.gif",
+   "emojis": [
+    "💞"
+   ],
+   "tags": [
+    "revolving-hearts"
+   ],
+   "bytes": 172682,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-19",
+   "title": "Two hearts",
+   "file": "media/stickers/animated-hearts/19.webp",
+   "thumb": "media/thumbs/animated-hearts/19.webp",
+   "gif": "media/gifs/animated-hearts/19.gif",
+   "emojis": [
+    "💕"
+   ],
+   "tags": [
+    "two-hearts"
+   ],
+   "bytes": 195504,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-20",
+   "title": "Love letter",
+   "file": "media/stickers/animated-hearts/20.webp",
+   "thumb": "media/thumbs/animated-hearts/20.webp",
+   "gif": "media/gifs/animated-hearts/20.gif",
+   "emojis": [
+    "💌"
+   ],
+   "tags": [
+    "love-letter"
+   ],
+   "bytes": 475326,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-21",
+   "title": "Heart decoration",
+   "file": "media/stickers/animated-hearts/21.webp",
+   "thumb": "media/thumbs/animated-hearts/21.webp",
+   "gif": "media/gifs/animated-hearts/21.gif",
+   "emojis": [
+    "💟"
+   ],
+   "tags": [
+    "heart-box"
+   ],
+   "bytes": 90848,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-22",
+   "title": "Heart exclamation",
+   "file": "media/stickers/animated-hearts/22.webp",
+   "thumb": "media/thumbs/animated-hearts/22.webp",
+   "gif": "media/gifs/animated-hearts/22.gif",
+   "emojis": [
+    "❣"
+   ],
+   "tags": [
+    "heart-exclamation-point"
+   ],
+   "bytes": 199384,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-23",
+   "title": "Mending heart",
+   "file": "media/stickers/animated-hearts/23.webp",
+   "thumb": "media/thumbs/animated-hearts/23.webp",
+   "gif": "media/gifs/animated-hearts/23.gif",
+   "emojis": [
+    "❤‍🩹"
+   ],
+   "tags": [
+    "bandaged-heart"
+   ],
+   "bytes": 491234,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-24",
+   "title": "Broken heart",
+   "file": "media/stickers/animated-hearts/24.webp",
+   "thumb": "media/thumbs/animated-hearts/24.webp",
+   "gif": "media/gifs/animated-hearts/24.gif",
+   "emojis": [
+    "💔"
+   ],
+   "tags": [
+    "broken-heart"
+   ],
+   "bytes": 505652,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  },
+  {
+   "id": "animated-hearts-25",
+   "title": "Heart on fire",
+   "file": "media/stickers/animated-hearts/25.webp",
+   "thumb": "media/thumbs/animated-hearts/25.webp",
+   "gif": "media/gifs/animated-hearts/25.gif",
+   "emojis": [
+    "❤‍🔥"
+   ],
+   "tags": [
+    "fire-heart"
+   ],
+   "bytes": 240878,
+   "fileType": "image/webp",
+   "animated": true,
+   "credit": "noto"
+  }
+ ]
+}

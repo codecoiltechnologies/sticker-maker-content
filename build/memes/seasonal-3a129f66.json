@@ -1,0 +1,31 @@
+{
+ "id": "seasonal-3a129f66",
+ "title": "Me walking outside in June",
+ "category": "memes-seasonal",
+ "file": "media/memes/memes-seasonal/seasonal-3a129f66.webp",
+ "thumb": "media/meme-thumbs/memes-seasonal/seasonal-3a129f66.webp",
+ "width": 1080,
+ "height": 893,
+ "bytes": 99026,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Me walking outside in June",
+ "tags": [
+  "camel",
+  "desert",
+  "heat",
+  "june",
+  "outside",
+  "summer",
+  "walking"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ACamello%2C_desierto_de_Wahiba%2C_Om%C3%A1n%2C_2024-08-17%2C_DD_19.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

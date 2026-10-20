@@ -1,0 +1,536 @@
+{
+ "id": "sports-fan",
+ "title": "Sports Fan",
+ "category": "sports",
+ "type": "static",
+ "language": "",
+ "tray": "media/trays/sports-fan.png",
+ "cover": "media/covers/sports-fan.webp",
+ "stickers": [
+  {
+   "id": "sports-fan-01",
+   "title": "Soccer ball",
+   "file": "media/stickers/sports-fan/01.webp",
+   "thumb": "media/thumbs/sports-fan/01.webp",
+   "emojis": [
+    "⚽"
+   ],
+   "tags": [
+    "ball",
+    "football",
+    "soccer"
+   ],
+   "bytes": 27010,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-02",
+   "title": "Basketball",
+   "file": "media/stickers/sports-fan/02.webp",
+   "thumb": "media/thumbs/sports-fan/02.webp",
+   "emojis": [
+    "🏀"
+   ],
+   "tags": [
+    "ball",
+    "basketball",
+    "hoop"
+   ],
+   "bytes": 30644,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-03",
+   "title": "American football",
+   "file": "media/stickers/sports-fan/03.webp",
+   "thumb": "media/thumbs/sports-fan/03.webp",
+   "emojis": [
+    "🏈"
+   ],
+   "tags": [
+    "american",
+    "ball",
+    "football"
+   ],
+   "bytes": 21976,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-04",
+   "title": "Baseball",
+   "file": "media/stickers/sports-fan/04.webp",
+   "thumb": "media/thumbs/sports-fan/04.webp",
+   "emojis": [
+    "⚾"
+   ],
+   "tags": [
+    "ball",
+    "baseball"
+   ],
+   "bytes": 26274,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-05",
+   "title": "Softball",
+   "file": "media/stickers/sports-fan/05.webp",
+   "thumb": "media/thumbs/sports-fan/05.webp",
+   "emojis": [
+    "🥎"
+   ],
+   "tags": [
+    "ball",
+    "glove",
+    "softball",
+    "underarm"
+   ],
+   "bytes": 28302,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-06",
+   "title": "Tennis",
+   "file": "media/stickers/sports-fan/06.webp",
+   "thumb": "media/thumbs/sports-fan/06.webp",
+   "emojis": [
+    "🎾"
+   ],
+   "tags": [
+    "ball",
+    "racquet",
+    "tennis"
+   ],
+   "bytes": 43314,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-07",
+   "title": "Volleyball",
+   "file": "media/stickers/sports-fan/07.webp",
+   "thumb": "media/thumbs/sports-fan/07.webp",
+   "emojis": [
+    "🏐"
+   ],
+   "tags": [
+    "ball",
+    "game",
+    "volleyball"
+   ],
+   "bytes": 20858,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-08",
+   "title": "Rugby football",
+   "file": "media/stickers/sports-fan/08.webp",
+   "thumb": "media/thumbs/sports-fan/08.webp",
+   "emojis": [
+    "🏉"
+   ],
+   "tags": [
+    "ball",
+    "football",
+    "rugby"
+   ],
+   "bytes": 25870,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-09",
+   "title": "Flying disc",
+   "file": "media/stickers/sports-fan/09.webp",
+   "thumb": "media/thumbs/sports-fan/09.webp",
+   "emojis": [
+    "🥏"
+   ],
+   "tags": [
+    "flying disc",
+    "ultimate"
+   ],
+   "bytes": 20478,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-10",
+   "title": "Pool 8 ball",
+   "file": "media/stickers/sports-fan/10.webp",
+   "thumb": "media/thumbs/sports-fan/10.webp",
+   "emojis": [
+    "🎱"
+   ],
+   "tags": [
+    "8",
+    "ball",
+    "billiard",
+    "eight",
+    "game",
+    "pool 8 ball"
+   ],
+   "bytes": 19614,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-11",
+   "title": "Ping pong",
+   "file": "media/stickers/sports-fan/11.webp",
+   "thumb": "media/thumbs/sports-fan/11.webp",
+   "emojis": [
+    "🏓"
+   ],
+   "tags": [
+    "ball",
+    "bat",
+    "game",
+    "paddle",
+    "ping pong",
+    "table tennis"
+   ],
+   "bytes": 22904,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-12",
+   "title": "Badminton",
+   "file": "media/stickers/sports-fan/12.webp",
+   "thumb": "media/thumbs/sports-fan/12.webp",
+   "emojis": [
+    "🏸"
+   ],
+   "tags": [
+    "badminton",
+    "birdie",
+    "game",
+    "racquet",
+    "shuttlecock"
+   ],
+   "bytes": 43962,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-13",
+   "title": "Ice hockey",
+   "file": "media/stickers/sports-fan/13.webp",
+   "thumb": "media/thumbs/sports-fan/13.webp",
+   "emojis": [
+    "🏒"
+   ],
+   "tags": [
+    "game",
+    "hockey",
+    "ice",
+    "puck",
+    "stick"
+   ],
+   "bytes": 17630,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-14",
+   "title": "Field hockey",
+   "file": "media/stickers/sports-fan/14.webp",
+   "thumb": "media/thumbs/sports-fan/14.webp",
+   "emojis": [
+    "🏑"
+   ],
+   "tags": [
+    "ball",
+    "field",
+    "game",
+    "hockey",
+    "stick"
+   ],
+   "bytes": 22992,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-15",
+   "title": "Lacrosse",
+   "file": "media/stickers/sports-fan/15.webp",
+   "thumb": "media/thumbs/sports-fan/15.webp",
+   "emojis": [
+    "🥍"
+   ],
+   "tags": [
+    "ball",
+    "goal",
+    "lacrosse",
+    "stick"
+   ],
+   "bytes": 35146,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-16",
+   "title": "Cricket game",
+   "file": "media/stickers/sports-fan/16.webp",
+   "thumb": "media/thumbs/sports-fan/16.webp",
+   "emojis": [
+    "🏏"
+   ],
+   "tags": [
+    "ball",
+    "bat",
+    "cricket game",
+    "game"
+   ],
+   "bytes": 18534,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-17",
+   "title": "Goal net",
+   "file": "media/stickers/sports-fan/17.webp",
+   "thumb": "media/thumbs/sports-fan/17.webp",
+   "emojis": [
+    "🥅"
+   ],
+   "tags": [
+    "goal",
+    "net"
+   ],
+   "bytes": 26374,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-18",
+   "title": "Flag in hole",
+   "file": "media/stickers/sports-fan/18.webp",
+   "thumb": "media/thumbs/sports-fan/18.webp",
+   "emojis": [
+    "⛳"
+   ],
+   "tags": [
+    "flag in hole",
+    "golf",
+    "hole"
+   ],
+   "bytes": 18604,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-19",
+   "title": "Bow and arrow",
+   "file": "media/stickers/sports-fan/19.webp",
+   "thumb": "media/thumbs/sports-fan/19.webp",
+   "emojis": [
+    "🏹"
+   ],
+   "tags": [
+    "Sagittarius",
+    "archer",
+    "arrow",
+    "bow",
+    "bow and arrow",
+    "zodiac"
+   ],
+   "bytes": 37928,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-20",
+   "title": "Fishing pole",
+   "file": "media/stickers/sports-fan/20.webp",
+   "thumb": "media/thumbs/sports-fan/20.webp",
+   "emojis": [
+    "🎣"
+   ],
+   "tags": [
+    "fish",
+    "fishing pole",
+    "pole"
+   ],
+   "bytes": 23350,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-21",
+   "title": "Boxing glove",
+   "file": "media/stickers/sports-fan/21.webp",
+   "thumb": "media/thumbs/sports-fan/21.webp",
+   "emojis": [
+    "🥊"
+   ],
+   "tags": [
+    "boxing",
+    "glove"
+   ],
+   "bytes": 13440,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-22",
+   "title": "Martial arts uniform",
+   "file": "media/stickers/sports-fan/22.webp",
+   "thumb": "media/thumbs/sports-fan/22.webp",
+   "emojis": [
+    "🥋"
+   ],
+   "tags": [
+    "judo",
+    "karate",
+    "martial arts",
+    "martial arts uniform",
+    "taekwondo",
+    "uniform"
+   ],
+   "bytes": 15816,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-23",
+   "title": "Ice skate",
+   "file": "media/stickers/sports-fan/23.webp",
+   "thumb": "media/thumbs/sports-fan/23.webp",
+   "emojis": [
+    "⛸️"
+   ],
+   "tags": [
+    "ice",
+    "skate"
+   ],
+   "bytes": 15304,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-24",
+   "title": "Skis",
+   "file": "media/stickers/sports-fan/24.webp",
+   "thumb": "media/thumbs/sports-fan/24.webp",
+   "emojis": [
+    "🎿"
+   ],
+   "tags": [
+    "ski",
+    "skis",
+    "snow"
+   ],
+   "bytes": 24336,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-25",
+   "title": "Sled",
+   "file": "media/stickers/sports-fan/25.webp",
+   "thumb": "media/thumbs/sports-fan/25.webp",
+   "emojis": [
+    "🛷"
+   ],
+   "tags": [
+    "sled",
+    "sledge",
+    "sleigh"
+   ],
+   "bytes": 12634,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-26",
+   "title": "Trophy",
+   "file": "media/stickers/party-time/22.webp",
+   "thumb": "media/thumbs/party-time/22.webp",
+   "emojis": [
+    "🏆"
+   ],
+   "tags": [
+    "prize",
+    "trophy"
+   ],
+   "bytes": 21028,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-27",
+   "title": "Person running",
+   "file": "media/stickers/sports-fan/27.webp",
+   "thumb": "media/thumbs/sports-fan/27.webp",
+   "emojis": [
+    "🏃"
+   ],
+   "tags": [
+    "marathon",
+    "person running",
+    "running"
+   ],
+   "bytes": 27836,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-28",
+   "title": "Person biking",
+   "file": "media/stickers/sports-fan/28.webp",
+   "thumb": "media/thumbs/sports-fan/28.webp",
+   "emojis": [
+    "🚴"
+   ],
+   "tags": [
+    "bicycle",
+    "biking",
+    "cyclist",
+    "person biking"
+   ],
+   "bytes": 47016,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-29",
+   "title": "Person swimming",
+   "file": "media/stickers/sports-fan/29.webp",
+   "thumb": "media/thumbs/sports-fan/29.webp",
+   "emojis": [
+    "🏊"
+   ],
+   "tags": [
+    "person swimming",
+    "swim"
+   ],
+   "bytes": 22062,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  },
+  {
+   "id": "sports-fan-30",
+   "title": "Person lifting weights",
+   "file": "media/stickers/sports-fan/30.webp",
+   "thumb": "media/thumbs/sports-fan/30.webp",
+   "emojis": [
+    "🏋️"
+   ],
+   "tags": [
+    "lifter",
+    "person lifting weights",
+    "weight"
+   ],
+   "bytes": 29752,
+   "fileType": "image/webp",
+   "credit": "fluent"
+  }
+ ]
+}

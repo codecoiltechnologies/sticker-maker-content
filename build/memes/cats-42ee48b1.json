@@ -1,0 +1,32 @@
+{
+ "id": "cats-42ee48b1",
+ "title": "Me watching my friends argue in the group chat",
+ "category": "memes-cats",
+ "file": "media/memes/memes-cats/cats-42ee48b1.webp",
+ "thumb": "media/meme-thumbs/memes-cats/cats-42ee48b1.webp",
+ "width": 1080,
+ "height": 995,
+ "bytes": 239670,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "Me watching my friends argue in the group chat",
+ "tags": [
+  "argue",
+  "cat",
+  "chat",
+  "drama",
+  "friends",
+  "group",
+  "the",
+  "watching"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Johann Jaritz",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3AP%C3%B6rtschach_Winklern_10.-Oktober-Stra%C3%9Fe_67_Garten_schwarzer_Kater_14122024_1271.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}

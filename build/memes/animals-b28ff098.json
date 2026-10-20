@@ -1,0 +1,32 @@
+{
+ "id": "animals-b28ff098",
+ "title": "When someone says pineapple belongs on pizza",
+ "category": "memes-animals",
+ "file": "media/memes/memes-animals/animals-b28ff098.webp",
+ "thumb": "media/meme-thumbs/memes-animals/animals-b28ff098.webp",
+ "width": 1080,
+ "height": 1340,
+ "bytes": 248972,
+ "fileType": "image/webp",
+ "language": "en",
+ "format": "caption",
+ "text": "When someone says pineapple belongs on pizza",
+ "tags": [
+  "belongs",
+  "parrot",
+  "pineapple",
+  "pizza",
+  "says",
+  "shocked",
+  "someone",
+  "when"
+ ],
+ "credit": {
+  "source": "Wikimedia Commons",
+  "author": "Jonathan Wilkins",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File%3ARed_Fan_Parrot_Endangered_Species_with_ID_ring_on_leg.jpg",
+  "note": "Photo modified: cropped, resized and captioned. Caption by CodeCoil."
+ }
+}
