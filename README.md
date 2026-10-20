@@ -8,11 +8,11 @@ Public content library for the **Sticker Maker – Create. Explore. Share** Andr
 | Stickers | 1593 (287 animated) |
 | Memes | 333 in 18 categories (English, Roman Urdu, Urdu) |
 | Categories | 41 |
-| Content version | `2026.10.20-1` |
+| Content version | `2026.10.20-2` |
 
 Entry point for the app: [`v1/index.json`](v1/index.json)
 - GitHub raw: https://raw.githubusercontent.com/codecoiltechnologies/sticker-maker-content/main/v1/index.json
-- jsDelivr CDN: https://cdn.jsdelivr.net/gh/codecoiltechnologies/sticker-maker-content@main/v1/index.json
+- Fallback host: https://github.com/codecoiltechnologies/sticker-maker-content/raw/main/v1/index.json
 
 ## What's inside
 
@@ -59,7 +59,7 @@ The **Validate content** GitHub Actions workflow re-checks every push and pull r
 - only allowed licences are used;
 - there are no duplicates or secrets.
 
-After a push to `main` it purges the jsDelivr cache for the manifests and confirms that both mirrors serve the index.
+After a push to `main` it confirms that both GitHub hosts the app uses serve the new index.
 
 Publishing itself is a manual step: someone runs the tools and merges the pull request. No scheduled job adds content by itself. [AI_CURATION.md](AI_CURATION.md) describes how to use an AI assistant for curation runs.
 

@@ -24,21 +24,17 @@ jobs:
       - name: Validate manifests, media and WhatsApp limits
         run: python tools/validate.py
 
-  purge-cdn:
-    # jsDelivr caches branch files for up to 12 h; purge the small manifest files so the app sees new content quickly.
+  check-live:
+    # After a push to main, confirm both mirrors the app uses serve the new index.
     needs: validate
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Purge jsDelivr cache for manifests
+      - name: Published index matches this commit
         run: |
-          for f in $(find v1 -maxdepth 1 -name '*.json') v1/memes/index.json; do
-            code=$(curl -s -o /dev/null -w '%{http_code}' "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/$f")
-            echo "$f -> $code"
+          want=$(python3 -c "import json; print(json.load(open('v1/index.json'))['contentVersion'])")
+          for base in "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${GITHUB_SHA}/" "https://github.com/${GITHUB_REPOSITORY}/raw/${GITHUB_SHA}/"; do
+            got=$(curl -fsSL "${base}v1/index.json" | python3 -c "import json,sys; print(json.load(sys.stdin)['contentVersion'])")
+            echo "$base -> $got"; test "$got" = "$want"
           done
-      - name: Check the published index is reachable
-        run: |
-          sleep 20
-          curl -fsS "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/v1/index.json" | python3 -c "import json,sys; d=json.load(sys.stdin); print('raw contentVersion', d['contentVersion'])"
-          curl -fsS "https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/v1/index.json" | python3 -c "import json,sys; d=json.load(sys.stdin); print('jsDelivr contentVersion', d['contentVersion'])"

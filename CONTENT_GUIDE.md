@@ -4,14 +4,14 @@ How to add, change or remove stickers and memes in this repository, and how thos
 
 ## How the app reads this repo
 
-1. On start-up and on pull-to-refresh the app downloads `v1/index.json`, first from `raw.githubusercontent.com` and, if that fails, from jsDelivr.
+1. On start-up and on pull-to-refresh the app downloads `v1/index.json`, from `raw.githubusercontent.com`, with `github.com/<repo>/raw/main/` as a fallback host.
 2. The index lists every manifest with a SHA-256 prefix. The app downloads only the manifests whose hash changed, validates them, and only then switches to the new library. If anything is invalid, it keeps its last good copy.
-3. Images are loaded lazily: list screens use the small files in `media/thumbs/` and `media/meme-thumbs/`, and full-size files are fetched only when a sticker or meme is opened, shared, saved or added to WhatsApp. Media comes from the jsDelivr CDN first and falls back to GitHub raw.
+3. Images are loaded lazily: list screens use the small files in `media/thumbs/` and `media/meme-thumbs/`, and full-size files are fetched only when a sticker or meme is opened, shared, saved or added to WhatsApp. Media comes from the same two GitHub hosts (the list is `mediaBaseUrls` in the index, so a CDN can be added later without an app update).
 4. The APK ships a small starter snapshot (manifests plus a few packs) so the app works offline on first launch.
 
 Nothing is pushed to phones. A change becomes visible the next time the app checks the index:
-- GitHub raw usually serves a new commit within about 5 minutes.
-- jsDelivr can cache branch files for up to 12 hours. The `purge-cdn` job in `.github/workflows/validate.yml` asks jsDelivr to purge the manifests after each push to `main`.
+- GitHub raw caches files for about 5 minutes, so a new commit is usually visible within 5–10 minutes.
+- jsDelivr is **not** used: it refuses GitHub repositories larger than 50 MB, and this one is bigger.
 
 ## Layout
 
@@ -100,4 +100,4 @@ Delete the spec line, delete the files under `media/` and the JSON under `build/
 
 - No single file over 20 MB; validation enforces this.
 - Keep each push under about 500 MB so GitHub accepts it. Large imports should be split over several commits.
-- jsDelivr serves files up to 20 MB from GitHub repos.
+- GitHub raw is fine for this app's traffic. For much larger audiences, enable GitHub Pages (Settings → Pages → main / root) and add `https://codecoiltechnologies.github.io/sticker-maker-content/` as the first entry of `mediaBaseUrls` in `tools/make_manifests.py`.

@@ -192,7 +192,7 @@ def main():
     # ---------------- index
     n_stickers = sum(p["count"] for p in pack_summaries)
     index = {"schema": SCHEMA, "contentVersion": args.version, "updatedAt": now,
-             "mediaBaseUrls": [f"https://cdn.jsdelivr.net/gh/{REPO}@{BRANCH}/", f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/"],
+             "mediaBaseUrls": [f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/", f"https://github.com/{REPO}/raw/{BRANCH}/"],
              "manifests": {k: {"path": v[0], "sha": v[1], "bytes": v[2]} for k, v in outputs.items()},
              "counts": {"stickers": n_stickers, "packs": len(pack_summaries), "animatedStickers": sum(p["count"] for p in pack_summaries if p["type"] == "animated"),
                         "memes": len(memes), "categories": len(categories)},

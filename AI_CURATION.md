@@ -36,7 +36,7 @@ The library was built with help from an AI assistant (Claude). This file describ
 5. Build manifests, validate, review contact sheets, open a pull request.
 6. After merge, check the **Validate content** workflow run, then confirm `v1/index.json` shows the new `contentVersion` on both mirrors:
    - https://raw.githubusercontent.com/codecoiltechnologies/sticker-maker-content/main/v1/index.json
-   - https://cdn.jsdelivr.net/gh/codecoiltechnologies/sticker-maker-content@main/v1/index.json
+   - https://github.com/codecoiltechnologies/sticker-maker-content/raw/main/v1/index.json
 
 ## Prompt template
 
