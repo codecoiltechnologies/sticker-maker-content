@@ -19,7 +19,7 @@ PACKS = ["cute-boy", "chibi-friends", "sm-originals", "good-morning", "happy-fac
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("dest")
-    ap.add_argument("--budget-kb", type=int, default=4500)
+    ap.add_argument("--budget-kb", type=int, default=5300)
     a = ap.parse_args()
     dest = os.path.abspath(a.dest)
     shutil.rmtree(dest, ignore_errors=True)
@@ -28,8 +28,7 @@ def main():
     files, media = [], []
     files.append("v1/index.json")
     for name, ref in index["manifests"].items():
-        if name != "search":  # search downloads on first use (largest manifest)
-            files.append(ref["path"])
+        files.append(ref["path"])  # includes search.json so search works offline too
     memes_index = json.load(open(os.path.join(ROOT, index["manifests"]["memes"]["path"]), encoding="utf-8"))
     first_page = memes_index["all"]["pages"][0]
     files.append(first_page)
